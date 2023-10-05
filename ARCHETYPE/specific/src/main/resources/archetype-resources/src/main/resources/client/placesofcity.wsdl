@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions name="PlacesOfCityService"
+	targetNamespace="http://it.univaq.disim.sose.project/placesofcity" 
+	xmlns="http://schemas.xmlsoap.org/wsdl/"
+	xmlns:wsp="http://www.w3.org/ns/ws-policy" 
+	xmlns:tns="http://it.univaq.disim.sose.project/placesofcity"
+	xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy"
+	xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+	xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata">
+	<types>
+		<xsd:schema targetNamespace="http://it.univaq.disim.sose.project/placesofcity">
+		
+		
+			<!-- Definisco il servizio di registrazione di un utente -->
+			<xsd:element name="registerRequest" type="tns:registerRequest" />
+			<xsd:element name="registerResponse" type="tns:registerResponse" />
+			
+			<xsd:complexType name="registerRequest">
+				<xsd:sequence>
+					<xsd:element name="name" type="xsd:string" />
+					<xsd:element name="surname" type="xsd:string" />
+					<xsd:element name="email" type="xsd:string" />
+					<xsd:element name="password" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="registerResponse">
+				<xsd:sequence>
+					<xsd:element name="response" type="xsd:boolean" />
+				</xsd:sequence>
+			</xsd:complexType>
+					
+		
+			<!-- Definisco il servizio di login -->
+			<xsd:element name="loginRequest" type="tns:loginRequest" />
+			<xsd:element name="loginResponse" type="tns:loginResponse" />
+			
+			<xsd:complexType name="loginRequest">
+				<xsd:sequence>
+					<xsd:element name="email" type="xsd:string" />
+					<xsd:element name="password" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="loginResponse">
+				<xsd:sequence>
+					<xsd:element name="session" type="tns:ResponseLoginType" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="ResponseLoginType">
+				<xsd:sequence>
+					<xsd:element name="id" type="xsd:int" />
+					<xsd:element name="name" type="xsd:string" />
+					<xsd:element name="surname" type="xsd:string" />
+					<xsd:element name="email" type="xsd:string" />
+					<xsd:element name="token" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+		
+		
+			<!-- Definisco il servizio per il prelievo delle attività 
+			     Le attività possono essere fintrate in due modi differenti, per cità vengono prese tutte le
+			     attività offerte da questa, per categoria viene applicato un filtro in base alla cità e al tipo
+			     di categoria che si sceglierà
+			-->
+			<xsd:element name="ActivityRequest" type="tns:ActivityRequest" />
+			<xsd:element name="ActivityByProfileRequest" type="tns:ActivityByProfileRequest" />
+			<xsd:element name="ActivityResponse" type="tns:ActivityResponse" />				
+			
+			
+			<xsd:complexType name="ActivityRequest">
+				<xsd:sequence>
+					<xsd:element name="city" type="xsd:int" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="ActivityByProfileRequest">
+				<xsd:sequence>
+					<xsd:element name="city" type="xsd:int" />
+					<xsd:element name="profile" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>						
+			
+			<xsd:complexType name="ActivityResponse">
+				<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+					<xsd:element name="item" type="tns:activityItem" />
+				</xsd:sequence>
+			</xsd:complexType>	
+			
+			<xsd:complexType name="activityItem">
+				<xsd:sequence>
+					<xsd:element name="id" type="xsd:int" />
+					<xsd:element name="name" type="xsd:string" />
+					<xsd:element name="phone" type="xsd:string" />
+					<xsd:element name="longitude" type="xsd:string" />
+					<xsd:element name="latitude" type="xsd:string" />
+					<xsd:element name="image" type="xsd:string" />
+					<xsd:element name="street" type="xsd:string" />
+					<xsd:element name="profile" type="xsd:string" />
+					<xsd:element name="weather" type="xsd:string" />
+					<xsd:element name="start_hour" type="xsd:string" />
+					<xsd:element name="end_hour" type="xsd:string" />
+					<xsd:element name="numberOfLikes" type="xsd:int" />
+				</xsd:sequence>
+			</xsd:complexType>					
+	
+	
+		    <!-- Definisco il servizio per l'inserimento dei likes -->
+			<xsd:element name="addLikeRequest" type="tns:addLikeRequest" />
+			<xsd:element name="addLikeResponse" type="tns:addLikeResponse" />				
+			
+			
+			<xsd:complexType name="addLikeRequest">
+				<xsd:sequence>
+					<xsd:element name="id_activity" type="xsd:int" />
+					<xsd:element name="key" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="addLikeResponse">
+				<xsd:sequence>
+					<xsd:element name="response" type="xsd:boolean" />
+				</xsd:sequence>
+			</xsd:complexType>	
+			
+			
+			<!-- Definisco il servizio per l'inserimento dei commenti -->
+			<xsd:element name="addCommentRequest" type="tns:addCommentRequest" />
+			<xsd:element name="addCommentResponse" type="tns:addCommentResponse" />				
+			
+			
+			<xsd:complexType name="addCommentRequest">
+				<xsd:sequence>
+					<xsd:element name="id_activity" type="xsd:int" />
+					<xsd:element name="key" type="xsd:string" />
+					<xsd:element name="title" type="xsd:string" />
+					<xsd:element name="comment" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="addCommentResponse">
+				<xsd:sequence>
+					<xsd:element name="response" type="xsd:boolean" />
+				</xsd:sequence>
+			</xsd:complexType>	
+			
+			
+			<!-- Definisco il servizio per il prelievo dei commeti su una specifica attività -->
+			<xsd:element name="getCommentRequest" type="tns:getCommentRequest" />
+			<xsd:element name="getCommentResponse" type="tns:getCommentResponse" />				
+			
+			<xsd:complexType name="getCommentRequest">
+				<xsd:sequence>
+					<xsd:element name="activity" type="xsd:int" />
+				</xsd:sequence>
+			</xsd:complexType>			
+			
+			<xsd:complexType name="getCommentResponse">
+				<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+					<xsd:element name="item" type="tns:commentItem" />
+				</xsd:sequence>
+			</xsd:complexType>	
+			
+			<xsd:complexType name="commentItem">
+				<xsd:sequence>
+					<xsd:element name="id" type="xsd:int" />
+					<xsd:element name="title" type="xsd:string" />
+					<xsd:element name="text" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>							
+			
+		
+			<!-- Definisco che restituisce la lista delle attività a cui un utente ha dato un like -->
+			<xsd:element name="getLikeRequest" type="tns:getLikeRequest" />
+			<xsd:element name="getLikeResponse" type="tns:getLikeResponse" />
+			
+			<xsd:complexType name="getLikeRequest">
+				<xsd:sequence>
+				    <xsd:element name="token_user" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="getLikeResponse">
+				<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+					<xsd:element name="id_activity" type="xsd:int" />
+				</xsd:sequence>
+			</xsd:complexType>			
+			
+			
+		    <!-- Definisco il servizio per il prelievo della città -->
+			<xsd:element name="cityRequest" type="tns:cityRequest" />
+			<xsd:element name="cityResponse" type="tns:cityResponse" />				
+			
+			
+			<xsd:complexType name="cityRequest">
+				<xsd:sequence>
+					<xsd:element name="city" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>
+			
+			<xsd:complexType name="cityResponse">
+				<xsd:sequence>
+					<xsd:element name="id" type="xsd:int" />
+					<xsd:element name="name" type="xsd:string" />
+					<xsd:element name="longitude" type="xsd:string" />
+					<xsd:element name="latitude" type="xsd:string" />
+				</xsd:sequence>
+			</xsd:complexType>				
+			
+	
+		</xsd:schema>
+	</types>
+	
+	<message name="registerRequest">
+		<part name="parameters" element="tns:registerRequest">
+		</part>
+	</message>
+	<message name="registerResponse">
+		<part name="parameters" element="tns:registerResponse">
+		</part>
+	</message>	
+	
+	
+	<message name="loginRequest">
+		<part name="parameters" element="tns:loginRequest">
+		</part>
+	</message>
+	<message name="loginResponse">
+		<part name="parameters" element="tns:loginResponse">
+		</part>
+	</message>
+		
+	<message name="ActivityRequest">
+		<part name="parameters" element="tns:ActivityRequest">
+		</part>
+	</message>
+	<message name="ActivityByProfileRequest">
+		<part name="parameters" element="tns:ActivityByProfileRequest">
+		</part>
+	</message>		
+	<message name="ActivityResponse">
+		<part name="parameters" element="tns:ActivityResponse">
+		</part>
+	</message>	
+	
+	
+	<message name="getLikeRequest">
+		<part name="parameters" element="tns:getLikeRequest">
+		</part>
+	</message>
+	<message name="getLikeResponse">
+		<part name="parameters" element="tns:getLikeResponse">
+		</part>
+	</message>		
+	
+	<message name="addLikeRequest">
+		<part name="parameters" element="tns:addLikeRequest">
+		</part>
+	</message>
+	<message name="addLikeResponse">
+		<part name="parameters" element="tns:addLikeResponse">
+		</part>
+	</message>	
+	
+	<message name="addCommentRequest">
+		<part name="parameters" element="tns:addCommentRequest">
+		</part>
+	</message>
+	<message name="addCommentResponse">
+		<part name="parameters" element="tns:addCommentResponse">
+		</part>
+	</message>	
+	
+	<message name="getCommentRequest">
+		<part name="parameters" element="tns:getCommentRequest">
+		</part>
+	</message>
+	<message name="getCommentResponse">
+		<part name="parameters" element="tns:getCommentResponse">
+		</part>
+	</message>			
+	
+	<message name="cityRequest">
+		<part name="parameters" element="tns:cityRequest">
+		</part>
+	</message>
+	<message name="cityResponse">
+		<part name="parameters" element="tns:cityResponse">
+		</part>
+	</message>	
+	
+
+	<portType name="PlacesOfCity">
+		<operation name="register">
+			<input message="tns:registerRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/registerRequest">
+			</input>
+			<output message="tns:registerResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/registerResponse">
+			</output>
+		</operation>
+		<operation name="login">
+			<input message="tns:loginRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/loginRequest">
+			</input>
+			<output message="tns:loginResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/loginResponse">
+			</output>
+		</operation>
+		<operation name="Activity">
+			<input message="tns:ActivityRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/ActivityRequest">
+			</input>
+			<output message="tns:ActivityResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/ActivityResponse">
+			</output>
+		</operation>
+		<operation name="ActivityByProfile">
+			<input message="tns:ActivityByProfileRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/ActivitybyProfileRequest">
+			</input>
+			<output message="tns:ActivityResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/ActivityResponse">
+			</output>
+		</operation>
+		<operation name="getLikeByUser">
+			<input message="tns:getLikeRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/getLikeRequest">
+			</input>
+			<output message="tns:getLikeResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/getLikeResponse">
+			</output>
+		</operation>						
+		<operation name="addLike">
+			<input message="tns:addLikeRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/addLikeRequest">
+			</input>
+			<output message="tns:addLikeResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/addLikeResponse">
+			</output>
+		</operation>	
+		<operation name="addComment">
+			<input message="tns:addCommentRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/addCommentRequest">
+			</input>
+			<output message="tns:addCommentResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/addCommentResponse">
+			</output>
+		</operation>
+		<operation name="getComment">
+			<input message="tns:getCommentRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/getCommentRequest">
+			</input>
+			<output message="tns:getCommentResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/getCommentResponse">
+			</output>
+		</operation>							
+		<operation name="city">
+			<input message="tns:cityRequest"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/cityRequest">
+			</input>
+			<output message="tns:cityResponse"
+				wsam:Action="http://it.univaq.disim.sose.project/placesofcity/cityResponse">
+			</output>
+		</operation>				
+	</portType>
+	
+	<binding name="PlacesOfCityBinding" type="tns:PlacesOfCity">
+		<soap:binding style="document"
+			transport="http://schemas.xmlsoap.org/soap/http" />
+		<operation name="register">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>
+		<operation name="login">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>
+		<operation name="Activity">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>	
+		<operation name="ActivityByProfile">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>	
+		<operation name="getLikeByUser">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>					
+		<operation name="addLike">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>	
+		<operation name="addComment">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>
+		<operation name="getComment">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>						
+		<operation name="city">
+			<soap:operation soapAction="" />
+			<input>
+				<soap:body use="literal" />
+			</input>
+			<output>
+				<soap:body use="literal" />
+			</output>
+		</operation>					
+	</binding>
+	
+	<service name="PlacesOfCityService">
+		<port name="PlacesOfCityPort" binding="tns:PlacesOfCityBinding">
+			<soap:address location="http://localhost:8080/placesofcity/services/placesofcity" />
+		</port>			
+	</service>
+	
+</definitions>

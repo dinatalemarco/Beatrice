@@ -1,0 +1,165 @@
+<html style=""><head>
+      <meta charset="utf-8">
+      <title>Beatrice</title>
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+      <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+      <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js"></script>
+      <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="js/script.js"></script>
+  </head>
+
+  <body id="page">
+
+
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Login</h4>
+          </div>
+          <div class="modal-body">
+         
+                <div class="form-group">
+                  <p id="message-error" class="hidden" style="color:red;">Email o password non corretti!!</p>
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Email address</label>
+                  <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Password</label>
+                  <input type="password" name="password" class="form-control" id="password" placeholder="Password">
+                </div>
+                <button class="btn btn-primary" onclick="login()">Login</button>
+ 
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div id="register" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Register</h4>
+          </div>
+          <div class="modal-body">
+         
+  			<div id="formRegister">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Name</label>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Name">
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Surname</label>
+                  <input type="text" name="surname" class="form-control" id="surname" placeholder="Surname">
+                </div>                  
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Email</label>
+                  <input type="email" name="emailRegister" class="form-control" id="emailRegister" aria-describedby="emailHelp" placeholder="Enter email">
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Password</label>
+                  <input type="password" name="passwordRegister" class="form-control" id="passwordRegister" placeholder="Password">
+                </div>
+                <button class="btn btn-primary" onclick="register()">Register</button>
+ 			</div>
+   			<div id="messageRegisterSuccess" class="hidden">
+   				<p style="border:15px;">
+ 					<h3>Ciao <b id="nameUserSuccess"></b> ,benvenuto in Beatrice!</h3><br>
+ 					grazie per averci scelto come guida in questo tuo nuovo viaggio. Grazie a Beatrice scoprirai i migliori luoghi della città dove poterti divertire in base a ciò che fa per te: basterà scegliere il profilo a te più consono e Beatrice ti suggerirà le attività disponibili in quell'ora per quel profilo in base al tempo atmosferico in quel momento. Ma non preoccuparti: se sei un vero avventuriero potrai scegliere le attivività che vuoi anche se il clima non è quello consigliato da Beatrice.
+ 					Se non sai come raggiungere il luogo desiderato Beatrice sa anche consigliarti la strada in base al mezzo di trasporto a tua disposizione. Non ti resta quindi che divertirti ! Buon viaggio
+					<br><br>
+ 					Dallo staff di Beatrice<br> 
+ 				</p>
+ 			</div>	
+    		<div id="messageRegisterError" class="hidden">
+    			<p style="border:15px;">Ciao <b id="nameUser"></b></p>
+   				<p style="border:15px;">La mail <b id="emailUser"></b> risulta essere gi&agrave; in uso sul nostro sistema!</p>
+ 			</div>						
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+
+    <div class='sidebar'>
+      <div class='heading'>
+        <h1>Beatrice</h1>
+      </div>
+      <div id="filter">
+        <button class="button_menu" onclick="filterAll()">ALL</button>
+        <button class="button_menu" onclick="filterActivity('NERD')">NERD</button>
+        <button class="button_menu" onclick="filterActivity('TASTY')">TASTY</button>
+        <button class="button_menu" onclick="filterActivity('ADVENTURE')">ADVENTURE</button>
+      </div>
+      <div id='listings' class='listings'></div>
+    </div>
+    <div class="header">
+      <div class="menu_header">
+        <!-- Login effettuato -->
+        <div id="login_on" class="welcome hidden"><span id="user"></span> &middot; <b><button class="btn_custom" onclick="logout()">Logout</button></b></div>
+        <!-- Login da effettuare -->
+		<button id="login_off" type="button" class="btn_custom" data-toggle="modal" data-target="#myModal">Login</button>
+		<button id="login_off" type="button" class="btn_custom" data-toggle="modal" data-target="#register">Register</button>
+      </div>
+    </div>
+    <div id='map' class='map pad2'></div>
+    
+    <div id='comment' class='map pad2 hidden'>
+    
+    <div class="header-comment">
+    	<div class="img-activity-comment">
+    	<h5 class="title"><button class="mapicon" onclick="mapView()">Mappa</button> | <b id="titleactivity"></b></h5>
+    		<div id="imgactivity"></div>
+    	</div>
+    	<div id='form_comment' class="form-comment hidden">
+		    <div class="form-group">
+		         <label for="exampleInputEmail1">Titolo</label>
+		         <input type="text" name="title" class="form-control" id="title" placeholder="Titolo">
+		    </div>    	
+		    	
+			<div class="md-form">
+				 <label for="form7">Commento</label>
+				 <textarea id="commenttextarea" name="comment" class="md-textarea form-control" rows="2"></textarea> 
+			</div> 	
+			<br>
+			<div id="hiddeninfo"></div>	
+			<div id="buttonaddcomment"></div>	
+	 	</div>
+	
+	</div>
+
+	<div class="body-comment">
+		<div class="itembar">
+			<div class="text">Tutti i commenti </div> 
+		</div>
+		
+		<div id="listcomment" class="listings"></div>
+    </div>
+
+	
+
+	</body>
+</html>

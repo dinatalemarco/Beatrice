@@ -1,0 +1,535 @@
+
+        body {
+          color:#404040;
+          font:400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+          margin:0;
+          padding:0;
+          -webkit-font-smoothing:antialiased;
+        }
+
+        * {
+          -webkit-box-sizing:border-box;
+          -moz-box-sizing:border-box;
+          box-sizing:border-box;
+        }
+
+        .currentPosition{
+          border: none;
+          cursor: pointer;
+          height: 48px;
+          width: 48px;
+          background-image: url('../icons/markerUser.png');
+          background-size: 48px;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+
+        .sidebar {
+          position:absolute;
+          width:33.3333%;
+          height:100%;
+          top:0;left:0;
+          overflow:hidden;
+          border-right:1px solid rgba(0,0,0,0.25);
+        }
+        .pad2 {
+          padding:20px;
+        }
+
+        .header {
+          position:absolute;
+          left:33.3333%;
+          width:67%;
+          height: 50px;
+          top:0%;
+          background-color: #6A3460;
+          margin-left: -1px;
+          padding-right: 10px;
+        }
+
+        .header .menu_header{
+          float: right;
+        }
+
+        .header .welcome{
+          color: #fff;
+          margin-right: 10px;
+          margin-top:10px;
+        }    
+        
+        .hidden{
+        	display:none;
+        }
+
+        .header .welcome a{
+          color: #fff;
+          text-decoration: none;
+
+        }    
+
+        .header .welcome a:hover{
+          color: #F9BF38;
+        }                   
+
+        .header .menu_header .btn_custom{
+          background:transparent!important;
+          border: transparent!important;
+          color: #fff!important;
+          box-shadow: transparent!important;
+          margin-top: 9px;
+        }     
+        .header .menu_header .btn_custom:hover{
+          background:transparent!important;
+          border: transparent!important;
+          color: #F9BF38!important;
+        }            
+
+        .map {
+          position:absolute;
+          left:33.3333%;
+          width:66.6666%;
+          top:10%;bottom:0;
+        }
+
+        h1 {
+          font-size:22px;
+          margin:0;
+          font-weight:400;
+          line-height: 20px;
+          padding: 20px 2px;
+        }
+
+        a {
+          color:#404040;
+          text-decoration:none;
+        }
+
+        a:hover {
+          color:#101010;
+        }
+
+        .heading {
+          background:#fff;
+          min-height:60px;
+          line-height:60px;
+          padding:0 50px;
+          background-color: #6A3460;
+          color: #F9BF38;
+          background-image: url('../icons/logo.png');
+          background-size: 40px;
+          background-position: center left;
+          background-repeat: no-repeat;
+
+
+        }
+
+        #filter{
+          height:29px;
+          border-bottom:1px solid #bbbbbb;
+          background-color: #6A3460;
+        }        
+
+        .button_menu{
+          font-size: 18px;
+          margin-left: 5px;
+          margin-right: 5px;    
+          color: white;
+          text-transform: uppercase;
+          display: inline-block;
+          padding-bottom: 2px;
+          text-decoration: none !important; 
+          background-color: #6A3460; 
+       	  border:0px;              
+        }
+
+        .button_menu:hover{
+          border-bottom: 5px solid #F9BF38;
+          color: #fff;
+        }
+
+
+        .heading .h1{
+          font-weight: 800!important;
+        }
+
+        .listings {
+          height:90%;
+          overflow:auto;
+          padding-bottom:60px;
+        }
+
+        .listings .text_section {
+          width:85%;
+          float: right;
+        }   
+
+        .listings .like_section {
+          float: right;
+          margin-right: 5px;
+          font-size: 10px;
+        }       
+
+        .listings .like_section .like b {
+          color: #fff!important;
+        }            
+
+        .listings .like_section .like {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/like.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          padding: 4px;
+        } 
+
+        .listings .like_section .like_icon {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/unlike.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          padding: 4px;
+          color:#000;
+        }    
+
+        .listings .like_section .like_icon:hover {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/like.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          padding: 4px;
+          color: #fff;
+        }  
+     
+        .listings .like_section .comment {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/comment.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          padding: 4px;
+        }                                 
+
+        .listings .item {
+          display:block;
+          border-bottom:1px solid #eee;
+          padding:10px;
+          text-decoration:none;
+        }
+        .itembar {
+          display:block;
+          background: #eee;
+          height: 35px;
+          text-decoration:none;
+        } 
+        
+        .itembar .text{
+        	float:left;
+        	margin-top:5px;
+        	margin-left:10px;
+        }       
+
+        .listings .item:last-child { border-bottom:none; }
+        .listings .item .title {
+          display:block;
+          color:#6A3460;
+          font-weight:700;
+        }
+
+        .listings .item .title small { font-weight:400; }
+        .listings .item.active .title,
+        .listings .item .title:hover { color:#F9BF38; }
+        .listings .item.active {
+          background-color:#f8f8f8;
+        }
+        ::-webkit-scrollbar {
+          width:3px;
+          height:3px;
+          border-left:0;
+          background:rgba(0,0,0,0.1);
+        }
+        ::-webkit-scrollbar-track {
+          background:none;
+        }
+        ::-webkit-scrollbar-thumb {
+          background:#6A3460;
+          border-radius:0;
+        }
+
+        .marker-nerd {
+          border: none;
+          cursor: pointer;
+          height: 40px;
+          width: 40px;
+          background-image: url('../icons/marker-nerd.png');
+          background-size: 40px;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+        
+        .marker-tasty {
+          border: none;
+          cursor: pointer;
+          height: 40px;
+          width: 40px;
+          background-image: url('../icons/marker-tasty.png');
+          background-size: 40px;
+          background-position: center;
+          background-repeat: no-repeat;
+        }  
+        
+        .marker-adventure {
+          border: none;
+          cursor: pointer;
+          height: 40px;
+          width: 40px;
+          background-image: url('../icons/marker-adventure.png');
+          background-size: 40px;
+          background-position: center;
+          background-repeat: no-repeat;
+        }      
+        
+        .CLEAR {
+          float:left;
+          height: 22px;
+          width: 22px;
+          background-image: url('../icons/CLEAR.png');
+          background-size: 22px;
+          background-position: center;
+          background-repeat: no-repeat;
+          margin-left:10px;
+          margin-right:10px; 
+          margin-top: 5px; 
+        }      
+        .CLEAR_NIGHT {
+          float:left;
+          height: 22px;
+          width: 22px;
+          background-image: url('../icons/CLEAR_NIGHT.png');
+          background-size: 22px;
+          background-position: center;
+          background-repeat: no-repeat;
+          margin-left:10px;
+          margin-right:10px; 
+          margin-top: 5px; 
+        }         
+        .CLOUDS {
+          float:left;
+          height: 22px;
+          width: 22px;
+          background-image: url('../icons/CLOUDS.png');
+          background-size: 22px;
+          background-position: center;
+          background-repeat: no-repeat;
+          margin-left:10px;
+          margin-right:10px;    
+          margin-top: 5px;       
+        }  
+        .RAIN {
+          float:left;
+          height: 22px;
+          width: 22px;
+          background-image: url('../icons/RAIN.png');
+          background-size: 22px;
+          background-position: center;
+          background-repeat: no-repeat;
+          margin-left:10px;
+          margin-right:10px;     
+          margin-top: 5px;      
+        }                            
+        .SNOW {
+          float:left;
+          height: 22px;
+          width: 22px;
+          background-image: url('../icons/SNOW.png');
+          background-size: 22px;
+          background-position: center;
+          background-repeat: no-repeat;
+          margin-left:10px;
+          margin-right:10px;      
+          margin-top: 5px;    
+        }  
+
+        .box_means{
+          width: 32%;
+          float: left;
+          margin-top: -20px;
+        }
+
+
+        .box_means .text_means{
+          margin-top:-11px;
+          margin-left:-9px;
+          font-size: 12px;
+          width: 32%;
+          color: #3887be;
+          font-weight: bold;
+        }        
+
+        .box_means .car {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/car.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          border-radius: 2px;
+          padding: 2px;
+          border: 1px solid #6A3460;
+          margin:2px;
+        }
+
+        .box_means .cycling {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/cycling.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          border-radius: 2px;
+          padding: 2px;
+          border: 1px solid #6A3460;
+          margin:2px;
+
+        }
+
+        .box_means .walking {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          width: 30px;
+          background-image: url('../icons/walking.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: center;
+          background-repeat: no-repeat;
+          border-radius: 2px;
+          padding: 2px;
+          border: 1px solid #6A3460;
+          margin:2px;
+        }        
+
+
+        .clearfix { display:block; }
+        .clearfix:after {
+          content:'.';
+          display:block;
+          height:0;
+          clear:both;
+          visibility:hidden;
+        }
+
+        /* Marker tweaks */
+        .mapboxgl-popup {
+          padding-bottom: 50px;
+        }
+
+        .mapboxgl-popup-close-button {
+          display:none;
+        }
+        .mapboxgl-popup-content {
+          font:400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+          padding:0;
+          width:180px;
+        }
+        .mapboxgl-popup-content-wrapper {
+          padding:1%;
+        }
+        .mapboxgl-popup-content h3 {
+          background:#6A3460;
+          color:#F9BF38;
+          margin:0;
+          display:block;
+          padding:10px;
+          border-radius:3px 3px 0 0;
+          font-weight:700;
+          margin-top:-15px;
+        }
+
+        .mapboxgl-popup-content h4 {
+          margin:0;
+          display:block;
+          padding: 10px 10px 10px 10px;
+          font-weight:400;
+        }
+
+        .mapboxgl-popup-content div {
+          padding:10px;
+        }
+
+        .mapboxgl-container .leaflet-marker-icon {
+          cursor:pointer;
+        }
+
+        .mapboxgl-popup-anchor-top > .mapboxgl-popup-content {
+          margin-top: 15px;
+        }
+
+        .mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
+          border-bottom-color: #91c949;
+        }
+        
+        
+        .mapicon {
+          border: none;
+          cursor: pointer;
+          height: 30px;
+          background-image: url('../icons/map.png');
+          background-color: rgba(0, 0, 0, 0);
+          background-size: 25px;
+          background-position: left;
+          background-repeat: no-repeat;
+          padding: 4px;
+          float: left;
+		  margin-top: -5px;
+		  padding-left:30px;
+		  border-bottom:3px solid #fff;
+        } 
+
+        .mapicon:hover {
+          border-bottom:3px solid #6A3460;
+        } 
+        
+        .header-comment{
+        	height:40%;
+        	width:100%;
+        } 
+        
+        .header-comment .img-activity-comment{
+        	float:left;
+        	width:45%;
+        }
+        
+        .header-comment .form-comment{
+        	float:left;
+        	width:55%;
+        }        
+        
+        .body-comment{
+        	float:left;
+        	height:60%;
+        	width:100%;
+        }               
