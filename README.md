@@ -12933,10 +12933,7 @@ style='letter-spacing:-.15pt'> </span>messe<span style='letter-spacing:-.15pt'>
 style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </span>prosumer:</span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -12971,24 +12968,14 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.25pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.15pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -12996,11 +12983,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.3pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13015,21 +12998,14 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
   7.0pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{startLat}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Latitudine<span
   style='letter-spacing:.35pt'> </span>del punto relativo<span style='letter-spacing:.4pt'>
@@ -13038,11 +13014,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
   6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13086,10 +13058,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
 </table>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13121,24 +13090,14 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.95pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:3.9pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13146,11 +13105,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
   6.9pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13182,11 +13137,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
   7.0pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13202,21 +13153,14 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
   6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{endLon}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Longitudine<span
   style='letter-spacing:.35pt'> </span>del punto relativo<span style='letter-spacing:.4pt'>
@@ -13265,10 +13209,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection13>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13285,36 +13226,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:3.25pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span style='color:black;
   mso-color-alt:windowtext;mso-ansi-language:#0C00'>http://localhost:8080/travelmanager/api/register/{name}/{surname}/{email}/{password}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.5pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.4pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13322,11 +13248,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
   6.8pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13341,31 +13263,20 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.3pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{surname}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Cognome utente</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.35pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13380,21 +13291,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
   6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{password}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.55pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Password utente</span></p>
   </td>
@@ -13407,10 +13311,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 12.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13429,36 +13330,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:2.6pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/login/{email}/{password}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:3.8pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13466,11 +13352,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.25pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13485,21 +13367,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:3.5pt;margin-right:
   6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{password}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.4pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Password utente</span></p>
   </td>
@@ -13511,10 +13386,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13536,36 +13408,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:3.3pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext;mso-font-width:105%'>http://localhost:8080/travelmanager/api/city-activities/{city}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.55pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.5pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13573,11 +13430,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.9pt;margin-right:
   7.2pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13600,10 +13453,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13619,36 +13469,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:2.7pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext;mso-font-width:105%'>http://localhost:8080/travelmanager/api/city-activity-by-profile/{city}/profile/{profile}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.95pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:3.9pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13656,11 +13491,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
   7.2pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13677,21 +13508,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
   6.55pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{profile}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.55pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Profilo<span
   style='letter-spacing:-.2pt'> </span>richiesto<span style='letter-spacing:
@@ -13712,10 +13536,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection14>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13734,36 +13555,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:3.25pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/like/activities/{activityId}/user-key/{userKey}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.5pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.4pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13771,11 +13577,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
   6.5pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13794,21 +13596,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
   6.95pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{userKey}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Chiave<span
   style='letter-spacing:.55pt'> </span>identificativa<span style='letter-spacing:
@@ -13819,10 +13614,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13843,36 +13635,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:3.1pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/user-likes/{userKey}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.3pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13880,11 +13657,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.75pt;margin-right:
   6.95pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13906,10 +13679,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -13941,24 +13711,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.3pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -13966,11 +13726,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.7pt;margin-right:
   6.5pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -13985,21 +13741,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:3.95pt;margin-right:
   6.95pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{userKey}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.9pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Chiave<span
   style='letter-spacing:.55pt'> </span>identificativa<span style='letter-spacing:
@@ -14007,11 +13756,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:4.2pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.0pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
@@ -14026,21 +13771,14 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=118 valign=top >
   <p class=TableParagraph align=center style='margin-top:3.45pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:6.95pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>{comment}</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
+  <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.4pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Corpo del commento che si desidera lasciare</span></p>
   </td>
@@ -14052,10 +13790,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
+ >
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
   <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
   border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
@@ -14074,36 +13809,21 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
+  <td width=642 colspan=2 valign=top >
   <p class=TableParagraph style='margin-top:3.3pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext;mso-font-width:105%'>http://localhost:8080/travelmanager/api/comments-by-activity/activities/{activityId}</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.55pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
   </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
+  <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.45pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
@@ -14111,11 +13831,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
+  <td width=118 valign=top>
   <p class=TableParagraph align=center style='margin-top:3.9pt;margin-right:
   6.5pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
