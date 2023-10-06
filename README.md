@@ -1756,7 +1756,7 @@ line-height:95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;generic&quot; a
 
 <p class=MsoBodyText style='margin-top:11.4pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-exactly'>Per l'utilizzo:</p>
+exactly'>TO USE THE ARCHETYPE</p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:58.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>open the Terminal and go to the ARCHETYPE folder. Once inside the folder type the command:</p>
