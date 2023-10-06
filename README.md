@@ -27,7 +27,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 11.5pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman",serif;
 mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
 
-<div style="width: 100%; text-align: center;"><h1>Beatrice</h1></div>
+<h1>Beatrice</h1>
+<h2>The Web Application that guides you on a amazing journey like Beatrice guides Dante in Haven</h2>
 
 <p class=MsoBodyText><b style='mso-bidi-font-weight:normal'><span lang=IT
 style='font-size:30.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
@@ -43,7 +44,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 <div class=WordSection2>
 
-<h1><span lang=IT>INTRODUZIONE</span></h1>
+<h3><span lang=IT>INTRODUZIONE</span></h3>
 
 <br>
 
@@ -55,8 +56,8 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 <br>
 
-<h1 style='margin-top:9.2pt;line-height:12.3pt;mso-line-height-rule:exactly'><span
-lang=IT>OVERVIEW</span></h1>
+<h3 style='margin-top:9.2pt;line-height:12.3pt;mso-line-height-rule:exactly'><span
+lang=IT>OVERVIEW</span></h3>
 
 <p class=MsoBodyText style='margin-left:46.0pt;line-height:12.3pt;mso-line-height-rule:
 exactly'>L’immagine sottostante mostra in che modo sono connesse le componenti del sistema.</p>
@@ -219,7 +220,7 @@ style='page-break-before:always;mso-break-type:section-break'>
 
 <div class=WordSection4>
 
-<h1 style='line-height:12.3pt;mso-line-height-rule:exactly'><span lang=IT>DIAGRAMMI</span></h1>
+<h3 style='line-height:12.3pt;mso-line-height-rule:exactly'><span lang=IT>DIAGRAMMI</span></h3>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Questa sezione mostra lo studio dinamico del sistema rappresentato<span style='letter-spacing:
@@ -695,7 +696,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 <div class=WordSection12>
 
-<h1 style='line-height:12.3pt;mso-line-height-rule:exactly'>INSTALLAZIONE</h1>
+<h3 style='line-height:12.3pt;mso-line-height-rule:exactly'>INSTALLAZIONE</h3>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>In questa sezione illustriamo le tecnologie e i tools usati ed una breve descrizione di come installare il sistema.</p>
@@ -1763,11 +1764,11 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection15>
 
 
-<h1 style='margin-top:9.5pt'><span lang=IT style='font-size:13.0pt;mso-bidi-font-size:
+<h3 style='margin-top:9.5pt'><span lang=IT style='font-size:13.0pt;mso-bidi-font-size:
 11.0pt;font-family:"Arial MT",sans-serif;mso-hansi-font-family:Arial;
 position:relative;top:-1.0pt;mso-text-raise:1.0pt;font-weight:normal;
 mso-bidi-font-weight:bold'>-<span style='letter-spacing:3.45pt'> </span></span><span
-lang=IT>Per l'utilizzo del progetto:</span></h1>
+lang=IT>Per l'utilizzo del progetto:</span></h3>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:211.05pt;
 margin-bottom:0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:190%'><span
@@ -1929,9 +1930,9 @@ Finite queste configurazione è possibile mandare in esecuzione l’intero proge
 localhost:8080/beatrice
 </p>
 
-<h1 style='margin-top:9.5pt;margin-right:0cm;margin-bottom:0cm;margin-left:
+<h3 style='margin-top:9.5pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 58.0pt;margin-bottom:.0001pt;text-indent:-12.0pt;mso-list:l1 level1 lfo6;
-tab-stops:58.0pt'>To use the realized ARCHETYPE:</h1>
+tab-stops:58.0pt'>To use the realized ARCHETYPE:</h3>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
@@ -1997,7 +1998,7 @@ exactly'>-DarchetypeVersion</p>
 
 <div class=WordSection17>
 
-<h1><span lang=IT>DESKTOP APPLICATION</h1>
+<h3><span lang=IT>DESKTOP APPLICATION</h3>
 
 <br>
 
