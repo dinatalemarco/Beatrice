@@ -734,13 +734,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 95%'>API REST</span></p>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT>Presentiamo<span
-style='letter-spacing:-.15pt'> </span>la<span style='letter-spacing:-.15pt'> </span>lista<span
-style='letter-spacing:-.15pt'> </span>delle<span style='letter-spacing:-.15pt'>
-</span>API<span style='letter-spacing:-.1pt'> </span>REST<span
-style='letter-spacing:-.15pt'> </span>messe<span style='letter-spacing:-.15pt'>
-</span>a<span style='letter-spacing:-.15pt'> </span>disposizione<span
-style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </span>prosumer:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT>Below is the list of REST APIs made available by the prosumer:</span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
  >
@@ -756,9 +750,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>infoPoint2PointByMeans</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Ottenere i tempi<span style='letter-spacing:.25pt'>
-  </span>di percorrenza<span
-  style='letter-spacing:.2pt'> </span>tra due punti</span></p>
+  windowtext'>Get travel times between two points</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:31.65pt'>
@@ -868,7 +860,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>routePoint2Point</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'>Ottenere il percorso verso l'attività desiderata attraverso un determinato mezzo di trasposto</p>
+  mso-line-height-rule:exactly'>Get the route to the desired activity through a specific means of transport</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:31.65pt'>
@@ -913,7 +905,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Mezzo scelto per il trasporto</span><span lang=IT
+  windowtext'>Chosen means of transport</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1010,7 +1002,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>register</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Registrazione alla web application</span></p>
+  windowtext'>Registration for the web application</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1044,7 +1036,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{name}</span></b></p>
   </td>
   <td width=525 valign=top >
-  <p class=TableParagraph style='margin-top:3.8pt'>Nome utente</p>
+  <p class=TableParagraph style='margin-top:3.8pt'>User name</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:22.5pt'>
@@ -1057,7 +1049,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Cognome utente</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>User surname</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
@@ -1071,7 +1063,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Email<span style='letter-spacing:-.1pt'> </span>utente</span><span
+  windowtext'>User Email</span><span
   lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1085,7 +1077,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.55pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Password utente</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>User Password</span></p>
   </td>
  </tr>
 </table>
@@ -1109,7 +1101,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>login</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Login per accedere alla web application</span></p>
+  windowtext'>Login to access at the web application</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1145,7 +1137,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.15pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Email<span style='letter-spacing:-.1pt'> </span>utente</span><span
+  windowtext'>User Email</span><span
   lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1159,7 +1151,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.4pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Password utente</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>User Password</span></p>
   </td>
  </tr>
 </table>
@@ -1181,13 +1173,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   "Arial MT";mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>activityList</span></b></p>
   <p class=TableParagraph style='margin-top:.35pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>Ottenere la<span
-  style='letter-spacing:.2pt'> </span>lista delle<span
-  style='letter-spacing:.2pt'> </span>attività<span style='letter-spacing:.15pt'>
-  </span>in base<span
-  style='letter-spacing:.2pt'> </span>ad una<span
-  style='letter-spacing:.2pt'> </span>determinata<span style='letter-spacing:
-  .15pt'> </span>città</span></p>
+  black;mso-color-alt:windowtext'>Get the list of activities based on a specific city</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1223,9 +1209,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.85pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome della<span
-  style='letter-spacing:.2pt'> </span>città da<span
-  style='letter-spacing:.2pt'> </span>visitare</span><span lang=IT
+  windowtext'>Name of the city to visit</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1248,7 +1232,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>activityListByProfile</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'>Ottenere la lista delle attività in base ad una determinata città e ad un profilo scelto dall’utente</p>
+  mso-line-height-rule:exactly'>Get the list of activities based on a specific city and a profile chosen by the user</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1284,9 +1268,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome della<span
-  style='letter-spacing:.2pt'> </span>città da<span
-  style='letter-spacing:.2pt'> </span>visitare</span><span lang=IT
+  windowtext'>Name of the city to visit</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1300,10 +1282,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.55pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Profilo<span
-  style='letter-spacing:-.2pt'> </span>richiesto<span style='letter-spacing:
-  -.15pt'> </span>(tasty,<span style='letter-spacing:-.2pt'> </span>adventure,<span
-  style='letter-spacing:-.15pt'> </span>nerd)</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Requested profile (tasty, adventure, nerd)</span></p>
   </td>
  </tr>
 </table>
@@ -1332,7 +1311,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>addLike</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Aggiungere un like ad un'attività</span></p>
+  windowtext'>Add likes to an activity</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1368,11 +1347,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>id dell’attività<span
-  style='letter-spacing:.2pt'> </span>a cui<span
-  style='letter-spacing:.2pt'> </span>si desidera<span
-  style='letter-spacing:.2pt'> </span>lasciare<span style='letter-spacing:.2pt'>
-  </span>un like</span><span lang=IT
+  windowtext'>Id of the liked activity</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1386,9 +1361,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Chiave<span
-  style='letter-spacing:.55pt'> </span>identificativa<span style='letter-spacing:
-  .55pt'> </span>dell’utente</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>User identification key</span></p>
   </td>
  </tr>
 </table>
@@ -1408,11 +1381,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>LikeByUse</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Restituire l’elenco<span
-  style='letter-spacing:.2pt'> </span>delle attività<span
-  style='letter-spacing:.2pt'> </span>a cui<span
-  style='letter-spacing:.2pt'> </span>l’utente<span style='letter-spacing:.25pt'>
-  </span>ha assegnato un like</span></p>
+  windowtext'>Return the list of activities to which the user has assigned a like</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1448,8 +1417,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.65pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Chiave<span style='letter-spacing:.55pt'> </span>identificativa<span
-  style='letter-spacing:.55pt'> </span>dell’utente</span><span lang=IT
+  windowtext'>User identification key</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1473,9 +1441,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>addComment</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Aggiungere<span style='letter-spacing:.6pt'> </span>un<span
-  style='letter-spacing:.6pt'> </span>commento<span style='letter-spacing:.6pt'>
-  </span>ad<span style='letter-spacing:.6pt'> </span>un'attività</span></p>
+  windowtext'>Add a comment to an activity</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:31.65pt'>
@@ -1517,7 +1483,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.65pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>ID dell'attività a cui si desidera lasciare un commento</span><span
+  windowtext'>ID of the activity that the user want to leave a comment on</span><span
   lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1531,9 +1497,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.9pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Chiave<span
-  style='letter-spacing:.55pt'> </span>identificativa<span style='letter-spacing:
-  .55pt'> </span>dell’utente</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>User identification key</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
@@ -1547,7 +1511,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.15pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Titolo del commento che si desidera lasciare</span><span lang=IT style='font-size:10.0pt;
+  windowtext'>Comment title</span><span lang=IT style='font-size:10.0pt;
   mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1561,7 +1525,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.4pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Corpo del commento che si desidera lasciare</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Body comment</span></p>
   </td>
  </tr>
 </table>
@@ -1583,10 +1547,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   "Arial MT";mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>allComment</span></b></p>
   <p class=TableParagraph style='margin-top:.35pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>Restituisce<span style='letter-spacing:.5pt'>
-  </span>tutti i<span
-  style='letter-spacing:.55pt'> </span>commenti<span style='letter-spacing:
-  .5pt'> </span>associati<span style='letter-spacing:.55pt'> </span>ad una<span style='letter-spacing:.55pt'> </span>determinata attività</span></p>
+  black;mso-color-alt:windowtext'>Returns all comments associated with an activity</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1620,7 +1581,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{activityId}</span></b></p>
   </td>
   <td width=525 valign=top >
-  <p class=TableParagraph style='margin-top:3.85pt'>ID dell'attività a cui si desidera lasciare un commento</p>
+  <p class=TableParagraph style='margin-top:3.85pt'>Activity ID</p>
   </td>
  </tr>
 </table>
@@ -1639,7 +1600,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 11.0pt;font-family:"Arial MT",sans-serif;mso-hansi-font-family:Arial;
 position:relative;top:-1.0pt;mso-text-raise:1.0pt;font-weight:normal;
 mso-bidi-font-weight:bold'>-<span style='letter-spacing:3.45pt'> </span></span><span
-lang=IT>Per l'utilizzo del progetto:</span></h3>
+lang=IT>How to run the project</span></h3>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:211.05pt;
 margin-bottom:0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:190%'><span
