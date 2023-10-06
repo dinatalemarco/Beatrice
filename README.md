@@ -12144,17 +12144,15 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>L’utente ha la possibilità di registrarsi al sistema e, quando accede all’applicazione tramite login, può manifestare il suo gradimento per un’attività lasciando un like o un commento.</p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:13.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <h1 style='margin-top:9.2pt;line-height:12.3pt;mso-line-height-rule:exactly'><span
 lang=IT>OVERVIEW</span></h1>
 
 <p class=MsoBodyText style='margin-left:46.0pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>L’immagine sottostante mostra<span style='letter-spacing:.5pt'> </span>in che<span style='letter-spacing:.5pt'> </span>modo sono<span style='letter-spacing:.5pt'> </span>connesse le<span style='letter-spacing:.5pt'> </span>componenti del<span style='letter-spacing:.5pt'> </span>sistema,.</span></p>
+exactly'>L’immagine sottostante mostra in che modo sono connesse le componenti del sistema.</p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.15pt'><!--[if gte vml 1]><o:wrapblock><v:shapetype
   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
@@ -12235,22 +12233,10 @@ lang=IT style='font-family:"Arial",sans-serif;mso-fareast-font-family:Arial;
 position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>PlacesOfCity: </span></b><span lang=IT>è la componente che fornisce informazioni<span style='letter-spacing:
-.3pt'> </span>sui luoghi consigliati<span style='letter-spacing:
-.3pt'> </span>della città. Al suo interno fornisce i nomi delle attività, le coordinate per raggiungerle, orari di apertura e chiusura del luogo che fornisce l’attività<span style='letter-spacing:.3pt'>
-</span>indicata, il clima consigliato per svolgere tale attività ed il suo profilo<span
-style='letter-spacing:-.1pt'> </span>che<span style='letter-spacing:-.05pt'> </span>può<span
-style='letter-spacing:-.1pt'> </span>essere<span style='letter-spacing:-.05pt'>
-</span>uno<span style='letter-spacing:-.1pt'> </span>tra:<span
-style='letter-spacing:-.05pt'> </span>Nerd<span style='letter-spacing:-.1pt'> </span>(se<span
-style='letter-spacing:-.05pt'> </span>si<span style='letter-spacing:-.05pt'> </span>desidera<span
-style='letter-spacing:-.1pt'> </span>visitare<span style='letter-spacing:-.05pt'>
-</span>musei<span style='letter-spacing:-.1pt'> </span>o<span style='letter-spacing:
--.05pt'> </span>monumenti),<span style='letter-spacing:-.1pt'> </span>Adventure<span
-style='letter-spacing:-.05pt'> </span>(<span style='letter-spacing:-.1pt'> </span>per attività sportive o ricreative)<span style='letter-spacing:
-.1pt'> </span>o Tasty (per pub e ristoranti). Permette poi la registrazione dell’utente al sistema e quindi anche il servizio di login. Inoltre fornisce all’utente registrato di lasciare<span style='letter-spacing:.3pt'>
-</span>like e<span style='letter-spacing:
-.3pt'> </span>commenti ad ogni attività presente nell’elenco delle proposte del sistema. Questo servizio
+lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>PlacesOfCity: </span></b><span lang=IT>è la componente che fornisce informazioni sui luoghi consigliati della città. Al suo interno fornisce i nomi delle attività, le coordinate per raggiungerle, orari di apertura e chiusura del luogo che fornisce l’attività indicata, il clima consigliato per svolgere tale attività ed il suo profilo<span
+style='letter-spacing:-.1pt'> </span>che può<span
+style='letter-spacing:-.1pt'> </span>essere uno<span style='letter-spacing:-.1pt'> </span>tra: Nerd<span style='letter-spacing:-.1pt'> </span>(se si desidera<span
+style='letter-spacing:-.1pt'> </span>visitare musei<span style='letter-spacing:-.1pt'> </span>o monumenti),<span style='letter-spacing:-.1pt'> </span>Adventure (<span style='letter-spacing:-.1pt'> </span>per attività sportive o ricreative) o Tasty (per pub e ristoranti). Permette poi la registrazione dell’utente al sistema e quindi anche il servizio di login. Inoltre fornisce all’utente registrato di lasciare like e commenti ad ogni attività presente nell’elenco delle proposte del sistema. Questo servizio
 è fruibile tramite il protocollo di
 comunicazione SOAP.</span></p>
 
@@ -12263,13 +12249,7 @@ lang=IT style='font-family:"Arial",sans-serif;mso-fareast-font-family:Arial;
 position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>MapBOX: </span></b><span lang=IT>è la componente che fornisce la comunicazione con le mappe e le funzionalità ad<span style='letter-spacing:-2.95pt'> </span>esse connesse<span style='letter-spacing:.1pt'>
-</span>( come<span style='letter-spacing:
-.1pt'> </span>geolocalizzazione, informazioni sui tempi di percorrenza, indicazioni stradali,<span style='letter-spacing:-.05pt'> </span>…).<span
-style='letter-spacing:-.05pt'> </span>Questo<span style='letter-spacing:-.05pt'>
-</span>servizio è<span style='letter-spacing:-.05pt'> </span>fruibile<span
-style='letter-spacing:-.05pt'> </span>tramite<span style='letter-spacing:-.05pt'>
-</span>comunicazione REST.</span></p>
+lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>MapBOX: </span></b><span lang=IT>è la componente che fornisce la comunicazione con le mappe e le funzionalità ad<span style='letter-spacing:-2.95pt'> </span>esse connesse ( come geolocalizzazione, informazioni sui tempi di percorrenza, indicazioni stradali, …). Questo servizio è fruibile tramite comunicazione REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT style='font-size:
 11.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -12282,9 +12262,7 @@ position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Weather</span></b><span
-lang=IT>: è<span style='letter-spacing:
-.1pt'> </span>la componente che viene interrogata<span style='letter-spacing:
-.1pt'> </span>per la richiesta delle previsioni meteo della città in cui si trova l’utente. Questo servizio è fruibile tramite comunicazione REST.</span></p>
+lang=IT>: è la componente che viene interrogata per la richiesta delle previsioni meteo della città in cui si trova l’utente. Questo servizio è fruibile tramite comunicazione REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
 
@@ -12296,28 +12274,13 @@ position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Travel Manager: </span></b><span
-lang=IT>è il<span style='letter-spacing:
-.1pt'> </span>Prosumer<span style='letter-spacing:.15pt'> </span>che gestisce le richieste<span style='letter-spacing:.1pt'>
-</span>fatte<span style='letter-spacing:.15pt'> </span>tramite la web Application, servendosi di servizi a lui esterni (Providers). Il servizio
-finale fornito dal prosumer, per quanto riguarda la parte di visualizzazione e di filtraggio<span style='letter-spacing:.1pt'>
-</span>dei servizi offerti in una città, è un elaborato dei servizi da lui consumati: condizioni meteorologiche, orario ed attività di una città vengono combinate<span style='letter-spacing:.1pt'>
-</span>per fornire un elenco delle<span style='letter-spacing:.15pt'> </span>attività da<span style='letter-spacing:.15pt'> </span>suggerire all’utente<span style='letter-spacing:.1pt'>
-</span>per<span style='letter-spacing:.15pt'> </span>visitare la<span style='letter-spacing:.15pt'> </span>città. Travel Manager fornisce inoltre delle REST<span style='letter-spacing:.15pt'> </span>API che permettono di consultare la mappa della città con le sue relative funzionalità,<span style='letter-spacing:
-.3pt'> </span>descritte in dettaglio<span style='letter-spacing:.3pt'>
-</span>precedentemente in MapBox. Lo stesso vale per i servizi di login, registrazione, like e commenti forniti e spiegati precedentemente in Places Of City. Per quanto riguarda invece la comunicazione,<span style='letter-spacing:
-.1pt'> </span>il prosumer utilizza<span style='letter-spacing:.1pt'>
-</span>sia la comunicazione SOAP<span
-style='letter-spacing:-.1pt'> </span>(<span style='letter-spacing:-.05pt'> </span>per<span
-style='letter-spacing:-.1pt'> </span>comunicare<span style='letter-spacing:
--.05pt'> </span>con<span style='letter-spacing:-.05pt'> </span>il<span
-style='letter-spacing:-.1pt'> </span>Loadbalancer<span style='letter-spacing:
--.05pt'> </span>e<span style='letter-spacing:-.1pt'> </span>con<span
-style='letter-spacing:-.05pt'> </span>il<span style='letter-spacing:-.05pt'> </span>Provider<span
-style='letter-spacing:-.1pt'> </span>Places<span style='letter-spacing:-.05pt'>
-</span>Of<span style='letter-spacing:-.1pt'> </span>City<span style='letter-spacing:
--.05pt'> </span>)<span style='letter-spacing:-.05pt'> </span>che<span
-style='letter-spacing:-.1pt'> </span>quella<span style='letter-spacing:-.05pt'>
-</span>REST</span></p>
+lang=IT>è il Prosumer che gestisce le richieste fatte tramite la web Application, servendosi di servizi a lui esterni (Providers). Il servizio
+finale fornito dal prosumer, per quanto riguarda la parte di visualizzazione e di filtraggio dei servizi offerti in una città, è un elaborato dei servizi da lui consumati: condizioni meteorologiche, orario ed attività di una città vengono combinate per fornire un elenco delle attività da suggerire all’utente per visitare la città. Travel Manager fornisce inoltre delle REST API che permettono di consultare la mappa della città con le sue relative funzionalità, descritte in dettaglio precedentemente in MapBox. Lo stesso vale per i servizi di login, registrazione, like e commenti forniti e spiegati precedentemente in Places Of City. Per quanto riguarda invece la comunicazione, il prosumer utilizza sia la comunicazione SOAP<span
+style='letter-spacing:-.1pt'> </span>( per<span
+style='letter-spacing:-.1pt'> </span>comunicare con il<span
+style='letter-spacing:-.1pt'> </span>Loadbalancer e<span style='letter-spacing:-.1pt'> </span>con il Provider<span
+style='letter-spacing:-.1pt'> </span>Places Of<span style='letter-spacing:-.1pt'> </span>City ) che<span
+style='letter-spacing:-.1pt'> </span>quella REST</span></p>
 
 <p class=MsoBodyText style='margin-left:55.0pt;line-height:12.2pt;mso-line-height-rule:
 exactly'><span lang=IT>( con i due
@@ -12334,16 +12297,8 @@ bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Loadbalancer : </span></b><span
 lang=IT>è una componente che gestisce il carico di lavoro tramite un algoritmo di scheduling di tipo round robin: quando viene fatta una richiesta al prosumer quest’ultimo<span style='letter-spacing:
-.45pt'> </span>invoca<span style='letter-spacing:-2.95pt'> </span>il Loadbalancer<span style='letter-spacing:
-.1pt'> </span>per richiedere l’indirizzo<span style='letter-spacing:
-.1pt'> </span>di connessione ad uno dei server di Place Of City. Il Loadbalancer restituisce<span style='letter-spacing:
-.1pt'> </span>un indirizzo di connessione al servizio a seconda del numero di connessioni che<span style='letter-spacing:.15pt'> </span>ha assegnato in un certo<span style='letter-spacing:.15pt'> </span>intervallo di<span style='letter-spacing:.15pt'> </span>tempo e<span style='letter-spacing:.15pt'> </span>a seconda del<span style='letter-spacing:.15pt'> </span>numero di connessioni che questo supporta. Di conseguenza, nel momento in cui ad un server vengono assegnate<span style='letter-spacing:.1pt'>
-</span>un<span style='letter-spacing:.15pt'> </span>numero di<span style='letter-spacing:.15pt'> </span>richieste pari<span style='letter-spacing:.15pt'> </span>a quello<span style='letter-spacing:.15pt'> </span>massimo che può supportare (<span style='letter-spacing:.15pt'> </span>numero scelto nell’algoritmo di balancing ) in un determinato intervallo<span style='letter-spacing:.3pt'>
-</span>di tempo, il Loadbalancer verificherà<span style='letter-spacing:
-.3pt'> </span>la possibilità di<span style='letter-spacing:.15pt'> </span>passare la<span style='letter-spacing:.15pt'> </span>richiesta al server successivo nella lista dei<span style='letter-spacing:.15pt'> </span>server disponibili, tramite l’algoritmo di Round Robin, fino a trovare il primo server disponibile. L’interrogazione<span style='letter-spacing:
-.3pt'> </span>viene fatta dal<span style='letter-spacing:-.05pt'> </span>Prosumer
-al<span style='letter-spacing:-.05pt'> </span>Loadbalancer tramite<span
-style='letter-spacing:-.05pt'> </span>chiamate SOAP.</span></p>
+.45pt'> </span>invoca<span style='letter-spacing:-2.95pt'> </span>il Loadbalancer per richiedere l’indirizzo di connessione ad uno dei server di Place Of City. Il Loadbalancer restituisce un indirizzo di connessione al servizio a seconda del numero di connessioni che ha assegnato in un certo intervallo di tempo e a seconda del numero di connessioni che questo supporta. Di conseguenza, nel momento in cui ad un server vengono assegnate un numero di richieste pari a quello massimo che può supportare ( numero scelto nell’algoritmo di balancing ) in un determinato intervallo di tempo, il Loadbalancer verificherà la possibilità di passare la richiesta al server successivo nella lista dei server disponibili, tramite l’algoritmo di Round Robin, fino a trovare il primo server disponibile. L’interrogazione viene fatta dal Prosumer
+al Loadbalancer tramite chiamate SOAP.</span></p>
 
 </div>
 
@@ -12369,37 +12324,15 @@ Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
 lang=IT>REGISTER</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta che l’utente inserisce le credenziali per registrarsi al sistema, il client Beatrice<span style='letter-spacing:.1pt'>
-</span>le invia, tramite<span style='letter-spacing:-.2pt'>
-</span>chiamata<span style='letter-spacing:-.2pt'> </span>REST,<span
-style='letter-spacing:-.2pt'> </span>a<span style='letter-spacing:-.2pt'> </span>Travel<span
-style='letter-spacing:-.2pt'> </span>Manager<span style='letter-spacing:-.2pt'>
-</span>.Il<span style='letter-spacing:-.2pt'> </span>prosumer<span
-style='letter-spacing:-.2pt'> </span>chiederà<span style='letter-spacing:-.2pt'>
-</span>quindi<span style='letter-spacing:-.2pt'> </span>al<span
-style='letter-spacing:-.2pt'> </span>Loadbalancer<span style='letter-spacing:
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta che l’utente inserisce le credenziali per registrarsi al sistema, il client Beatrice le invia, tramite chiamata<span style='letter-spacing:-.2pt'> </span>REST, a<span style='letter-spacing:-.2pt'> </span>Travel Manager .Il<span style='letter-spacing:-.2pt'> </span>prosumer chiederà quindi<span style='letter-spacing:-.2pt'> </span>al Loadbalancer<span style='letter-spacing:
 -.2pt'> </span>l’indirizzo del
 provider a cui fare richiesta. Fornitogli
-l’indirizzo, Travel Manager invierà la richiesta di registrazione,<span style='letter-spacing:
--.05pt'> </span>tramite<span style='letter-spacing:-.05pt'> </span>SOAP, ad<span
-style='letter-spacing:-.05pt'> </span>uno dei<span style='letter-spacing:-.05pt'>
-</span>server<span style='letter-spacing:-.05pt'> </span>su cui<span
-style='letter-spacing:-.05pt'> </span>è disponibile<span style='letter-spacing:
--.05pt'> </span>il<span style='letter-spacing:-.05pt'> </span>servizio Place<span
-style='letter-spacing:-.05pt'> </span>of</span></p>
+l’indirizzo, Travel Manager invierà la richiesta di registrazione, tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.75pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>City .Successivamente il provider controllerà se le credenziali precedentemente fornite dall'utente sono già esistenti:<span style='letter-spacing:.3pt'>
-</span>se così<span style='letter-spacing:
-.3pt'> </span>fosse lo comunicherebbe<span style='letter-spacing:
-.3pt'> </span>al prosumer che, a sua volta, comunicherebbe<span style='letter-spacing:
-.3pt'> </span>al client l’impossibilità<span style='letter-spacing:
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>City .Successivamente il provider controllerà se le credenziali precedentemente fornite dall'utente sono già esistenti: se così fosse lo comunicherebbe al prosumer che, a sua volta, comunicherebbe al client l’impossibilità<span style='letter-spacing:
 .35pt'> </span>di effettuare la registrazione con quelle credenziali<span style='letter-spacing:
-.35pt'> </span>perché già esistenti.<span style='letter-spacing:
-.1pt'> </span>Similmente, quando la registrazione va a buon fine, per prima cosa il provider genera un token ( o userKey ) identificativo relativo all’utente che si è appena registrato e lo salva nel database associandolo a quell’utente,<span style='letter-spacing:
-.3pt'> </span>poi comunica tramite SOAP con il prosumer<span style='letter-spacing:.3pt'>
-</span>l’avvenuta registrazione. Una volta che il prosumer sa l’esito della registrazione, che sia andata a buon fine o meno,<span
-style='letter-spacing:-.05pt'> </span>lo comunica al client tramite il REST.</span></p>
+.35pt'> </span>perché già esistenti. Similmente, quando la registrazione va a buon fine, per prima cosa il provider genera un token ( o userKey ) identificativo relativo all’utente che si è appena registrato e lo salva nel database associandolo a quell’utente, poi comunica tramite SOAP con il prosumer l’avvenuta registrazione. Una volta che il prosumer sa l’esito della registrazione, che sia andata a buon fine o meno, lo comunica al client tramite il REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:.45pt'>
 
@@ -12435,45 +12368,29 @@ lang=IT>LOGIN</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:58.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Illustriamo
-qui il servizio di Login. L’utente fornisce le sue credenziali ( email e password ) per effettuare l’accesso tramite il client Beatrice<span style='letter-spacing:.1pt'>
-</span>che le<span style='letter-spacing:
-.1pt'> </span>invia, sotto forma di richiesta REST, al prosumer. Poi il prosumer chiede al Loadbalancer<span style='letter-spacing:
-.1pt'> </span>l’indirizzo<span style='letter-spacing:.15pt'> </span>del provider a cui fare richiesta. Fornitogli<span style='letter-spacing:-.2pt'> </span>l’indirizzo,<span
-style='letter-spacing:-.2pt'> </span>Travel<span style='letter-spacing:-.15pt'>
-</span>Manager<span style='letter-spacing:-.2pt'> </span>invierà<span
-style='letter-spacing:-.2pt'> </span>la<span style='letter-spacing:-.15pt'> </span>richiesta<span
-style='letter-spacing:-.2pt'> </span>di<span style='letter-spacing:-.2pt'> </span>login,<span
-style='letter-spacing:-.15pt'> </span>tramite<span style='letter-spacing:-.2pt'>
-</span>SOAP,<span style='letter-spacing:-.2pt'> </span>ad<span
+qui il servizio di Login. L’utente fornisce le sue credenziali ( email e password ) per effettuare l’accesso tramite il client Beatrice che le invia, sotto forma di richiesta REST, al prosumer. Poi il prosumer chiede al Loadbalancer l’indirizzo del provider a cui fare richiesta. Fornitogli<span style='letter-spacing:-.2pt'> </span>l’indirizzo, Travel<span style='letter-spacing:-.15pt'>
+</span>Manager<span style='letter-spacing:-.2pt'> </span>invierà la<span style='letter-spacing:-.15pt'> </span>richiesta di<span style='letter-spacing:-.2pt'> </span>login,<span
+style='letter-spacing:-.15pt'> </span>tramite SOAP,<span style='letter-spacing:-.2pt'> </span>ad<span
 style='letter-spacing:-.15pt'> </span>uno<span style='letter-spacing:-.2pt'> </span>dei<span
 style='letter-spacing:-.15pt'> </span>server<span style='letter-spacing:-2.95pt'>
-</span>su cui è disponibile il servizio Place of City. Ricevute la richiesta, il provider recupererà le informazioni dell’utente dal<span style='letter-spacing:.15pt'> </span>Data Base.<span style='letter-spacing:.15pt'> </span>La risposta<span style='letter-spacing:.1pt'>
-</span>della<span style='letter-spacing:.15pt'> </span>base di<span style='letter-spacing:.15pt'> </span>dati viene<span style='letter-spacing:.15pt'> </span>comunicata al prosumer<span
-style='letter-spacing:-.1pt'> </span>sempre<span style='letter-spacing:-.05pt'>
-</span>tramite<span style='letter-spacing:-.05pt'> </span>SOAP,<span
-style='letter-spacing:-.05pt'> </span>ed<span style='letter-spacing:-.05pt'> </span>infine<span
-style='letter-spacing:-.1pt'> </span>al<span style='letter-spacing:-.05pt'> </span>client<span
-style='letter-spacing:-.05pt'> </span>tramite<span style='letter-spacing:-.05pt'>
-</span>REST.</span></p>
+</span>su cui è disponibile il servizio Place of City. Ricevute la richiesta, il provider recupererà le informazioni dell’utente dal Data Base. La risposta della base di dati viene comunicata al prosumer<span
+style='letter-spacing:-.1pt'> </span>sempre tramite SOAP, ed infine<span
+style='letter-spacing:-.1pt'> </span>al client tramite REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se le<span style='letter-spacing:.15pt'> </span>credenziali inserite risulteranno<span style='letter-spacing:.15pt'> </span>corrette, l’utente riuscirà<span style='letter-spacing:.15pt'> </span>ad effettuare l’accesso alla web application e<span style='letter-spacing:.15pt'> </span>gli verrà<span style='letter-spacing:.15pt'> </span>restituito il<span style='letter-spacing:.15pt'> </span>suo token<span style='letter-spacing:.15pt'> </span>( o<span style='letter-spacing:.15pt'> </span>userKey )<span style='letter-spacing:.15pt'> </span>identificativo con<span style='letter-spacing:.15pt'> </span>il quale<span style='letter-spacing:.15pt'> </span>potrà effettuare<span style='letter-spacing:-2.9pt'>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se le credenziali inserite risulteranno corrette, l’utente riuscirà ad effettuare l’accesso alla web application e gli verrà restituito il suo token ( o userKey ) identificativo con il quale potrà effettuare<span style='letter-spacing:-2.9pt'>
 </span>tutte le richieste che chiedono
 l’autenticazione.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Nel caso in cui le credenziali dovessero risultare scorrette non sarà possibile accedere all’applicazione. Una volta effettuato<span style='letter-spacing:
-.3pt'> </span>il login l’utente<span style='letter-spacing:.3pt'>
-</span>ha dei<span style='letter-spacing:
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Nel caso in cui le credenziali dovessero risultare scorrette non sarà possibile accedere all’applicazione. Una volta effettuato il login l’utente ha dei<span style='letter-spacing:
 .35pt'> </span>permessi diversi dal semplice utente visitatore: può visualizzare i like corrispondenti ai luoghi della città che lui stesso ha gradito e può<span style='letter-spacing:-2.95pt'> </span>visualizzare
 e scrivere i commenti relativi ad
 un’attività.</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.05pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image4.png" o:spid="_x0000_s1036" type="#_x0000_t75" style='position:absolute;
@@ -12511,8 +12428,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 <div class=WordSection6>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.1pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -12524,7 +12440,7 @@ lang=IT><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman
 </span></span></span><![endif]><span lang=IT>MAPBOX</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il provider MAPBOX fornisce, sempre secondo lo stesso principio, tre tipi servizi all’utente: la visualizzazione della mappa, la visualizzazione del percorso a seconda del mezzo di trasporto scelto<span style='letter-spacing:.15pt'> </span>ed il<span style='letter-spacing:.15pt'> </span>tempo impiegato per<span style='letter-spacing:.15pt'> </span>percorrere quella<span style='letter-spacing:.15pt'> </span>strada in<span style='letter-spacing:.15pt'> </span>base al<span style='letter-spacing:.15pt'> </span>mezzo scelto. Tutti<span style='letter-spacing:.15pt'> </span>e tre<span style='letter-spacing:.15pt'> </span>questi<span
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il provider MAPBOX fornisce, sempre secondo lo stesso principio, tre tipi servizi all’utente: la visualizzazione della mappa, la visualizzazione del percorso a seconda del mezzo di trasporto scelto ed il tempo impiegato per percorrere quella strada in base al mezzo scelto. Tutti e tre questi<span
 style='letter-spacing:-2.95pt'> </span>servizi sono chiesti dall’utente tramite Beatrice con una richiesta REST al prosumer.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
@@ -12536,12 +12452,10 @@ style='letter-spacing:-.35pt'> </span>servizio<span style='letter-spacing:-.4pt'
 style='letter-spacing:-.4pt'> </span>MAPBOX<span style='letter-spacing:-.35pt'>
 </span>tramite<span style='letter-spacing:-.4pt'> </span>REST.<span
 style='letter-spacing:-.35pt'> </span>Quando<span style='letter-spacing:-2.9pt'>
-</span>il provider darà la risposta a TravelManager,<span style='letter-spacing:
-.1pt'> </span>quest’ultimo filtrerà tale risposta a seconda di ciò che<span style='letter-spacing:-2.95pt'> </span>ha chiesto l’utente,<span style='letter-spacing:.15pt'> </span>riadattando anche<span style='letter-spacing:.15pt'> </span>i dati per l’applicazione. Terminata questa operazione restituirà il risultato
+</span>il provider darà la risposta a TravelManager, quest’ultimo filtrerà tale risposta a seconda di ciò che<span style='letter-spacing:-2.95pt'> </span>ha chiesto l’utente, riadattando anche i dati per l’applicazione. Terminata questa operazione restituirà il risultato
 all’utente tramite il client.</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText><!--[if gte vml 1]><o:wrapblock><v:shape id="image5.jpeg"
   o:spid="_x0000_s1035" type="#_x0000_t75" style='position:absolute;
@@ -12589,12 +12503,9 @@ style='letter-spacing:-.65pt'> </span>USER</span></p>
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente ha effettuato il login può visualizzare i like da lui assegnati<span style='letter-spacing:.1pt'>
-</span>in precedenza. Questa operazione avviene automaticamente non appena l’utente effettua il login: per prima cosa il client invia
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente ha effettuato il login può visualizzare i like da lui assegnati in precedenza. Questa operazione avviene automaticamente non appena l’utente effettua il login: per prima cosa il client invia
 al prosumer la userKey dell’utente tramite servizio REST. Poi il prosumer
-chiede al Loadbalancer l’indirizzo<span style='letter-spacing:
-.1pt'> </span>del provider a cui fare richiesta. Fornitogli<span style='letter-spacing:.1pt'>
-</span>l’indirizzo, Travel Manager invierà<span
+chiede al Loadbalancer l’indirizzo del provider a cui fare richiesta. Fornitogli l’indirizzo, Travel Manager invierà<span
 style='letter-spacing:-.15pt'> </span>la<span style='letter-spacing:-.15pt'> </span>richiesta<span
 style='letter-spacing:-.1pt'> </span>di<span style='letter-spacing:-.15pt'> </span>visualizzazione<span
 style='letter-spacing:-.15pt'> </span>dei<span style='letter-spacing:-.1pt'> </span>like,<span
@@ -12604,7 +12515,7 @@ style='letter-spacing:-.15pt'> </span>uno<span style='letter-spacing:-.1pt'> </s
 style='letter-spacing:-.15pt'> </span>server<span style='letter-spacing:-.1pt'>
 </span>su<span style='letter-spacing:-.15pt'> </span>cui<span style='letter-spacing:
 -.15pt'> </span>è<span style='letter-spacing:-.1pt'> </span>disponibile<span
-style='letter-spacing:-.15pt'> </span>il servizio Place of City. Quest’ultimo controllerà nel<span style='letter-spacing:.15pt'> </span>Data Base se l’userKey fornitagli<span style='letter-spacing:.15pt'> </span>corrisponde effettivamente ad un utente esistente
+style='letter-spacing:-.15pt'> </span>il servizio Place of City. Quest’ultimo controllerà nel Data Base se l’userKey fornitagli corrisponde effettivamente ad un utente esistente
 nella base di dati.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
@@ -12612,27 +12523,19 @@ nella base di dati.</span></p>
 la risposta è positiva ( quindi l’IDuser è diverso da NULL ), significa che il
 Data Base restituirà<span style='letter-spacing:-2.95pt'> </span>la lista dei
 like al provider che a sua volta la inoltrerà al prosumer tramite SOAP, che
-infine la restituirà<span
-style='letter-spacing:-.05pt'> </span>all’utente grazie al<span
-style='letter-spacing:-.05pt'> </span>client tramite REST.</span></p>
+infine la restituirà all’utente grazie al client tramite REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.9pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Invece,
 nel caso in cui l’userKey non ha un IDuser corrispondente nel Data Base (
-quindi l’IDuser è<span style='letter-spacing:-2.95pt'> </span>NULL ), il provider<span style='letter-spacing:.1pt'>
-</span>lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato<span
-style='letter-spacing:-.05pt'> </span>da<span style='letter-spacing:-.05pt'> </span>TravelManager
-al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
--.05pt'> </span>tramite REST.</span></p>
+quindi l’IDuser è<span style='letter-spacing:-2.95pt'> </span>NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato da TravelManager
+al client tramite REST.</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.15pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image6.png" o:spid="_x0000_s1034" type="#_x0000_t75" style='position:absolute;
@@ -12677,17 +12580,12 @@ lang=IT><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman
 -.3pt'> </span>COMMENT</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente desidera visualizzare i commenti lasciati per un’attività, il<span style='letter-spacing:.15pt'> </span>client invia questa richiesta tramite<span style='letter-spacing:.15pt'> </span>REST al<span style='letter-spacing:.15pt'> </span>prosumer, passando l’id<span style='letter-spacing:.15pt'> </span>di dell’attività<span style='letter-spacing:.15pt'> </span>richiesta. Poi il prosumer chiede<span style='letter-spacing:.15pt'> </span>al Loadbalancer l’indirizzo del provider a cui fare richiesta.<span style='letter-spacing:
-.1pt'> </span>Fornitogli l’indirizzo, Travel Manager invierà la richiesta di visualizzazione
-dei commenti, tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. In questo modo il provider può quindi richiedere le informazioni desiderate<span style='letter-spacing:
-.1pt'> </span>al Data Base. Quando la base di dati risponderà, restituirà la lista dei commenti<span style='letter-spacing:.1pt'>
-</span>al provider che, a sua volta, la inoltrerà al prosumer con il fine di fornirla all’utente tramite Beatrice.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente desidera visualizzare i commenti lasciati per un’attività, il client invia questa richiesta tramite REST al prosumer, passando l’id di dell’attività richiesta. Poi il prosumer chiede al Loadbalancer l’indirizzo del provider a cui fare richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di visualizzazione
+dei commenti, tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. In questo modo il provider può quindi richiedere le informazioni desiderate al Data Base. Quando la base di dati risponderà, restituirà la lista dei commenti al provider che, a sua volta, la inoltrerà al prosumer con il fine di fornirla all’utente tramite Beatrice.</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.15pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image7.jpeg" o:spid="_x0000_s1033" type="#_x0000_t75" style='position:absolute;
@@ -12726,40 +12624,24 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection9>
 
 <p class=MsoListParagraph style='margin-left:64.3pt;mso-list:l0 level1 lfo4;
-tab-stops:64.35pt'><![if !supportLists]><span lang=IT><span style='mso-list:
-Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-lang=IT>ADD<span style='letter-spacing:-.7pt'> </span>LIKE</span></p>
+tab-stops:64.35pt'>ADD LIKE</p>
 
-<p class=MsoBodyText style='margin-top:.4pt'><span lang=IT style='font-size:
-10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se l’utente desidera mettere un like ad un’attività, il client inoltrerà tale richiesta al prosumer tramite<span style='letter-spacing:-.05pt'>
-</span>servizio<span style='letter-spacing:-.05pt'> </span>REST,<span
-style='letter-spacing:-.05pt'> </span>passandogli la<span style='letter-spacing:
--.05pt'> </span>userKey<span style='letter-spacing:-.05pt'> </span>e<span
-style='letter-spacing:-.05pt'> </span>l’IDactivity.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Se l’utente desidera mettere un like ad un’attività, il client inoltrerà tale richiesta al prosumer tramite servizio REST,passandogli la userKey e l’IDactivity.</p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Poi il<span style='letter-spacing:.15pt'> </span>prosumer chiede<span style='letter-spacing:.15pt'> </span>al Loadbalancer l’indirizzo<span style='letter-spacing:.15pt'> </span>del provider a cui fare<span style='letter-spacing:.15pt'> </span>richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di aggiungere un like,
-tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. Il provider<span style='letter-spacing:.1pt'>
-</span>comunicherà<span style='letter-spacing:.15pt'> </span>poi con il Data Base per capire se l’azione richiesta<span style='letter-spacing:.3pt'>
-</span>dall’utente è possibile.<span style='letter-spacing:.3pt'>
-</span>Infatti per prima cosa PlacesOfCity<span style='letter-spacing:
-.3pt'> </span>fornirà l’userKey al Data Base con il fine di vedere se esiste l’IDuser per quell’utente. Se la risposta è positiva ( quindi l’IDuser<span style='letter-spacing:.1pt'>
-</span>è<span style='letter-spacing:.15pt'> </span>diverso da<span style='letter-spacing:.15pt'> </span>NULL ),<span style='letter-spacing:.15pt'> </span>significa che<span style='letter-spacing:.15pt'> </span>viene effettuata l’aggiunta del like.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Poi il prosumer chiede al Loadbalancer l’indirizzo del provider a cui fare richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di aggiungere un like,
+tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. Il provider comunicherà poi con il Data Base per capire se l’azione richiesta dall’utente è possibile. Infatti per prima cosa PlacesOfCity fornirà l’userKey al Data Base con il fine di vedere se esiste l’IDuser per quell’utente. Se la risposta è positiva ( quindi l’IDuser è diverso da NULL ), significa che viene effettuata l’aggiunta del like.</p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Successivamente il sistema controllerà l’esito di tale operazione, restituendo la risposta di errore o di corretto funzionamento al prosumer tramite SOAP, che sarà infine inviata dal prosumer al client tramite<span style='letter-spacing:-.05pt'>
-</span>REST.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Successivamente il sistema controllerà l’esito di tale operazione, restituendo la risposta di errore o di corretto funzionamento al prosumer tramite SOAP, che sarà infine inviata dal prosumer al client tramite REST.</p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Invece,
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Invece,
 nel caso in cui l’userKey non ha un’IDuser corrispondente
-nel Data Base ( quindi l’IDuser è NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato<span
-style='letter-spacing:-.05pt'> </span>da<span style='letter-spacing:-.05pt'> </span>TravelManager
-al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
--.05pt'> </span>tramite REST.</span></p>
+nel Data Base ( quindi l’IDuser è NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato da TravelManager
+al client tramite REST.</p>
 
 <p class=MsoBodyText><!--[if gte vml 1]><o:wrapblock><v:shape id="image8.jpeg"
   o:spid="_x0000_s1032" type="#_x0000_t75" style='position:absolute;
@@ -12789,49 +12671,32 @@ style='mso-ignore:vglayout' clear=ALL>
 
 </div>
 
-<span lang=IT style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:
-"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT";mso-ansi-language:IT;mso-fareast-language:EN-US;mso-bidi-language:
-AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-break'>
-</span>
+<br>
 
 <div class=WordSection10>
 
 <p class=MsoListParagraph style='margin-left:64.3pt;mso-list:l0 level1 lfo4;
-tab-stops:64.35pt'><![if !supportLists]><span lang=IT><span style='mso-list:
-Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-lang=IT>ADD<span style='letter-spacing:-.5pt'> </span>COMMENT</span></p>
+tab-stops:64.35pt'>ADD COMMENT</p>
 
 <p class=MsoBodyText style='margin-top:.4pt'><span lang=IT style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il processo per inserire un commento è molto simile a quello per inserire un like: il client inoltrerà<span style='letter-spacing:.1pt'>
-</span>il commento appena inserito
-dall’user al prosumer, tramite servizio REST, passandogli anche la userKey<span style='letter-spacing:-.05pt'>
-</span>e l’IDactivity.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Il processo per inserire un commento è molto simile a quello per inserire un like: il client inoltrerà il commento appena inserito
+dall’user al prosumer, tramite servizio REST, passandogli anche la userKey e l’IDactivity.</p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:55.2pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Poi il<span style='letter-spacing:.15pt'> </span>prosumer chiede<span style='letter-spacing:.15pt'> </span>al Loadbalancer l’indirizzo<span style='letter-spacing:.15pt'> </span>del provider a<span style='letter-spacing:.15pt'> </span>cui fare<span style='letter-spacing:.15pt'> </span>richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di aggiunta
-commento, tramite SOAP, ad uno dei server su cui è<span style='letter-spacing:.15pt'> </span>disponibile il servizio Place of City.<span style='letter-spacing:.15pt'> </span>Il provider,<span style='letter-spacing:.1pt'>
-</span>successivamente,<span style='letter-spacing:.15pt'> </span>comunicherà con il Data Base per capire se l’azione richiesta<span style='letter-spacing:.1pt'>
-</span>dall’utente è possibile.<span style='letter-spacing:
-.1pt'> </span>Infatti<span style='letter-spacing:.15pt'> </span>per prima<span style='letter-spacing:.15pt'> </span>cosa PlacesOfCity fornirà l’userKey al Data Base con il fine di vedere se esiste l’IDuser per quell’utente. Se la risposta è positiva ( quindi l’IDuser è diverso da NULL ), significa che viene effettuata l’aggiunta del commento. Successivamente il sistema controllerà l’esito di tale operazione, restituendo la risposta<span style='letter-spacing:.1pt'>
-</span>di errore o di corretto funzionamento al prosumer<span style='letter-spacing:.1pt'>
-</span>tramite SOAP, che sarà infine<span style='letter-spacing:-.05pt'>
-</span>inviata dal prosumer<span style='letter-spacing:-.05pt'> </span>al
-client tramite<span style='letter-spacing:-.05pt'> </span>REST.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Poi il prosumer chiede al Loadbalancer l’indirizzo del provider a cui fare richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di aggiunta
+commento, tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. Il provider, successivamente, comunicherà con il Data Base per capire se l’azione richiesta dall’utente è possibile. Infatti per prima cosa PlacesOfCity fornirà l’userKey al Data Base con il fine di vedere se esiste l’IDuser per quell’utente. Se la risposta è positiva ( quindi l’IDuser è diverso da NULL ), significa che viene effettuata l’aggiunta del commento. Successivamente il sistema controllerà l’esito di tale operazione, restituendo la risposta di errore o di corretto funzionamento al prosumer tramite SOAP, che sarà infine inviata dal prosumer al
+client tramite REST.</p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Invece,
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Invece,
 nel caso in cui l’userKey non ha un’IDuser corrispondente
-nel Data Base ( quindi l’IDuser è NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato<span
-style='letter-spacing:-.05pt'> </span>da<span style='letter-spacing:-.05pt'> </span>TravelManager
-al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
--.05pt'> </span>tramite REST.</span></p>
+nel Data Base ( quindi l’IDuser è NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato da TravelManager
+al client tramite REST.</p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.4pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image9.jpeg" o:spid="_x0000_s1031" type="#_x0000_t75" style='position:absolute;
@@ -12870,46 +12735,20 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection11>
 
 <p class=MsoListParagraph style='margin-left:64.3pt;mso-list:l0 level1 lfo4;
-tab-stops:64.35pt'><![if !supportLists]><span lang=IT><span style='mso-list:
-Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-lang=IT style='mso-font-width:95%'>ACTIVITY LIST</span></p>
+tab-stops:64.35pt'>ACTIVITY LIST</p>
 
 <p class=MsoBodyText style='margin-top:.25pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente<span style='letter-spacing:.1pt'>
-</span>richiede al prosumer,<span style='letter-spacing:.1pt'>
-</span>tramite REST, la lista delle attività proposte<span style='letter-spacing:.1pt'>
-</span>da Beatrice per quella città, questo chiede per prima cosa al Loadbalancer l’indirizzo<span style='letter-spacing:
-.3pt'> </span>del provider Place of City a cui effettuare la richiesta di questa lista.
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Quando l’utente richiede al prosumer, tramite REST, la lista delle attività proposte da Beatrice per quella città, questo chiede per prima cosa al Loadbalancer l’indirizzo del provider Place of City a cui effettuare la richiesta di questa lista.
 Fornitogli tale indirizzo,
-TravelManager inoltrerà parallelamente due richieste: la richiesta (tramite REST) del tempo atmosferico<span style='letter-spacing:
-.1pt'> </span>per quella città in quel giorno e la richiesta
+TravelManager inoltrerà parallelamente due richieste: la richiesta (tramite REST) del tempo atmosferico per quella città in quel giorno e la richiesta
 (tramite SOAP) delle attività per
 quella città ( all’indirizzo che il Loadbalancer ha restituito al
 prosumer). La prima verrà richiesta al provider PlacesOfCity, che a sua volta interrogherà il Data Base per essere in grado di fornire tale risposta. La seconda
-verrà richiesta<span
-style='letter-spacing:-.25pt'> </span>al<span style='letter-spacing:-.25pt'> </span>provider<span
-style='letter-spacing:-.2pt'> </span>Weather.<span style='letter-spacing:-.25pt'>
-</span>Non<span style='letter-spacing:-.25pt'> </span>appena<span
-style='letter-spacing:-.2pt'> </span>i<span style='letter-spacing:-.25pt'> </span>provider<span
-style='letter-spacing:-.25pt'> </span>avranno<span style='letter-spacing:-.2pt'>
-</span>risposto<span style='letter-spacing:-.25pt'> </span>al<span
-style='letter-spacing:-.2pt'> </span>prosumer,<span style='letter-spacing:-.25pt'>
-</span>TravelManager gestirà le informazioni appena ricevute componendo la lista delle attività secondo il tempo metereologico<span
-style='letter-spacing:.55pt'> </span>della<span style='letter-spacing:.55pt'> </span>città<span
-style='letter-spacing:.55pt'> </span>in<span style='letter-spacing:.6pt'> </span>quel<span
-style='letter-spacing:.55pt'> </span>momento,<span style='letter-spacing:.55pt'>
-</span>mostrando<span style='letter-spacing:.55pt'> </span>solo<span
-style='letter-spacing:.6pt'> </span>le<span style='letter-spacing:.55pt'> </span>attività<span
-style='letter-spacing:.55pt'> </span>disponibili<span style='letter-spacing:
-.55pt'> </span>in<span style='letter-spacing:.6pt'> </span>quel<span
-style='letter-spacing:.55pt'> </span>momento secondo il meteo e l’orario.<span style='letter-spacing:.3pt'>
-</span>Composta questa lista, il risultato sarà mostrato all’utente<span style='letter-spacing:
-.3pt'> </span>tramite Beatrice.</span></p>
+verrà richiesta al provider Weather. Non appena i provider avranno risposto al prosumer, TravelManager gestirà le informazioni appena ricevute componendo la lista delle attività secondo il tempo metereologico della città in quel momento, mostrando solo le attività disponibili in quel momento secondo il meteo e l’orario. Composta questa lista, il risultato sarà mostrato all’utente tramite Beatrice.</p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.5pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image10.jpeg" o:spid="_x0000_s1030" type="#_x0000_t75" style='position:absolute;
@@ -12975,16 +12814,8 @@ lang=IT>utilizzando eclipse, importare il contenuto della cartella PROJECT:<span
 style='letter-spacing:-2.95pt'> </span>File/Import/Existing Maven Projects</span></p>
 
 <p class=MsoBodyText style='margin-top:.45pt;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una<span
-style='letter-spacing:.65pt'> </span>volta<span style='letter-spacing:.7pt'> </span>importati<span
-style='letter-spacing:.7pt'> </span>tutti<span style='letter-spacing:.7pt'> </span>i<span
-style='letter-spacing:.65pt'> </span>pacchetti<span style='letter-spacing:.7pt'>
-</span>che<span style='letter-spacing:.7pt'> </span>compongono<span
-style='letter-spacing:.7pt'> </span>il<span style='letter-spacing:.65pt'> </span>progetto,<span
-style='letter-spacing:.7pt'> </span>importare<span style='letter-spacing:.7pt'>
-</span>in<span style='letter-spacing:.7pt'> </span>phpmyadmin<span
-style='letter-spacing:.65pt'> </span>il dump
-del database presente nella cartella:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Una volta importati tutti i pacchetti che compongono il progetto, importare in phpmyadmin il dump
+del database presente nella cartella:</p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13002,7 +12833,7 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quindi creare un nuovo database denominato placesofcity e importare il file in precendenza descritto.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.5pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il progetto di default si aspetta di accedere al database sulla porta 8889, in caso questa non risulti essere la stessa di quella in esecuzione sul proprio PC, bisognerà cambiarla nella configurazione di accesso nel file situato in:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Il progetto di default si aspetta di accedere al database sulla porta 8889, in caso questa non risulti essere la stessa di quella in esecuzione sul proprio PC, bisognerà cambiarla nella configurazione di accesso nel file situato in:</p>
 
 <p class=MsoBodyText style='margin-top:.3pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13028,13 +12859,13 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT";mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>cambiando la<span style='letter-spacing:.15pt'> </span>porta 8889<span style='letter-spacing:.15pt'> </span>con quella<span style='letter-spacing:.15pt'> </span>che si<span style='letter-spacing:.15pt'> </span>ha a<span style='letter-spacing:.15pt'> </span>disposizione. Nel<span style='letter-spacing:.15pt'> </span>caso si<span style='letter-spacing:.15pt'> </span>voglia cambiare il nome<span style='letter-spacing:
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>cambiando la porta 8889 con quella che si ha a disposizione. Nel caso si voglia cambiare il nome<span style='letter-spacing:
 -2.95pt'> </span>al database su
 phpmyadmin sarà necessario modificare la stessa
 riga.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta<span style='letter-spacing:.15pt'> </span>fatti tutti<span style='letter-spacing:.15pt'> </span>i passaggi in precedenza spiegati bisognerà creare un server di esecuzione per il
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta fatti tutti i passaggi in precedenza spiegati bisognerà creare un server di esecuzione per il
 progetto. Sempre all'interno di eclipse seguire il path:</span></p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
@@ -13067,13 +12898,10 @@ in esecuzione sulla porta 8081<span style='letter-spacing:-2.95pt'> </span>ed un
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.75pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una
 volta creati tutti i server, mandare in esecuzione sui server 8081 e 8082 il
-servizio placesofcity<span style='letter-spacing:-2.95pt'> </span>e lanciare<span style='letter-spacing:.1pt'>
-</span>l'esecuzione di tutti i servizi creati sul server in esecuzione sulla porta 8080 COMPRESO<span
-style='letter-spacing:-.05pt'> </span>placesofcity.</span></p>
+servizio placesofcity<span style='letter-spacing:-2.95pt'> </span>e lanciare l'esecuzione di tutti i servizi creati sul server in esecuzione sulla porta 8080 COMPRESO placesofcity.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:57.9pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se si vogliono creare delle altre istanze per il servizio &quot;placesofcity&quot; è necessario<span style='letter-spacing:
-.1pt'> </span>creare altri server, eseguire su questi il servizio e
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se si vogliono creare delle altre istanze per il servizio &quot;placesofcity&quot; è necessario creare altri server, eseguire su questi il servizio e
 modificare il loadbalancer così da fargli presente l'esistenza<span
 style='letter-spacing:-2.95pt'> </span>di altri server che fruiscono il
 servizio. </span><span lang=EN-US style='mso-ansi-language:EN-US'>Per
@@ -13247,15 +13075,12 @@ style='mso-ignore:vglayout' clear=ALL>
 11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:9.9pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La seguente view mostra cosa succede quando si seleziona<span style='letter-spacing:.3pt'>
-</span>un’attività dall’elenco sulla parte sinistra dell’immagine. Si noti che vengono indicati i tempi di percorrenza per raggiungere tale attività
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La seguente view mostra cosa succede quando si seleziona un’attività dall’elenco sulla parte sinistra dell’immagine. Si noti che vengono indicati i tempi di percorrenza per raggiungere tale attività
 a seconda del mezzo mostrato:</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText><!--[if gte vml 1]><o:wrapblock><v:shape id="image12.jpeg"
   o:spid="_x0000_s1028" type="#_x0000_t75" style='position:absolute;
@@ -13294,12 +13119,10 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection18>
 
 <p class=MsoBodyText style='margin-top:4.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Cliccando su uno dei tre mezzi di trasporto<span style='letter-spacing:.3pt'>
-</span>proposti viene visualizzato<span style='letter-spacing:
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Cliccando su uno dei tre mezzi di trasporto proposti viene visualizzato<span style='letter-spacing:
 .35pt'> </span>il percorso più conveniente da effettuare con quel mezzo :</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.2pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image13.jpeg" o:spid="_x0000_s1027" type="#_x0000_t75" style='position:absolute;
@@ -13331,11 +13154,10 @@ style='mso-ignore:vglayout' clear=ALL>
 11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:10.1pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Effettuato il login è possibile visualizzare i like lasciati con il proprio profilo<span style='letter-spacing:.15pt'> </span>e la form per inserire un nuovo
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Effettuato il login è possibile visualizzare i like lasciati con il proprio profilo e la form per inserire un nuovo
 commento per una data attività:</span></p>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.35pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image14.jpeg" o:spid="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
