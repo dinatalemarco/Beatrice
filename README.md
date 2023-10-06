@@ -1604,12 +1604,9 @@ lang=IT>How to run the project</span></h3>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:211.05pt;
 margin-bottom:0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:190%'><span
-lang=IT>utilizzando eclipse, importare il contenuto della cartella PROJECT:<span
-style='letter-spacing:-2.95pt'> </span>File/Import/Existing Maven Projects</span></p>
+lang=IT>using eclipse, import the contents of the PROJECT folder: File/Import/Existing Maven Projects
 
-<p class=MsoBodyText style='margin-top:.45pt;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Una volta importati tutti i pacchetti che compongono il progetto, importare in phpmyadmin il dump
-del database presente nella cartella:</p>
+Once all the packages that make up the project have been imported, import the database dump present in the folder into phpmyadmin:</p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -1624,10 +1621,7 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT"'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quindi creare un nuovo database denominato placesofcity e importare il file in precendenza descritto.</span></p>
-
-<p class=MsoBodyText style='margin-top:0cm;margin-right:54.5pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Il progetto di default si aspetta di accedere al database sulla porta 8889, in caso questa non risulti essere la stessa di quella in esecuzione sul proprio PC, bisognerà cambiarla nella configurazione di accesso nel file situato in:</p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Then create a new database called placesofcity and import the previously described file. The default project expects to access the database on port 8889. If this is not the same as the one running on your PC, you will need to change it in the access configuration in the file located in:</p>
 
 <p class=MsoBodyText style='margin-top:.3pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -1642,7 +1636,7 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT";mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoNormal style='margin-left:46.0pt'><span lang=EN-US
-style='mso-ansi-language:EN-US'>Modificare:<span style='letter-spacing:2.9pt'> </span></span><i
+style='mso-ansi-language:EN-US'>Modify:<span style='letter-spacing:2.9pt'> </span></span><i
 style='mso-bidi-font-style:normal'><span lang=EN-US style='font-family:"Arial",sans-serif;
 mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-language:
 EN-US'>url=&quot;jdbc:mysql://localhost:8889/placesofcity?verifyServerCertificate=false&quot;<o:p></o:p></span></i></p>
@@ -1653,14 +1647,10 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT";mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>cambiando la porta 8889 con quella che si ha a disposizione. Nel caso si voglia cambiare il nome<span style='letter-spacing:
--2.95pt'> </span>al database su
-phpmyadmin sarà necessario modificare la stessa
-riga.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>changing port 8889 with the one you have available. If you want to change the name of the database on phpmyadmin you will need to modify it line.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta fatti tutti i passaggi in precedenza spiegati bisognerà creare un server di esecuzione per il
-progetto. Sempre all'interno di eclipse seguire il path:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Once all the steps explained above have been done, you will need to create an execution server for the project. Still inside eclipse follow the path:</span></p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -1675,32 +1665,19 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT"'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>una
-volta aperta la finestra di configurazione del server scegliere la versione
-&quot;Tomcat v8.5 Server&quot;<span style='letter-spacing:-2.95pt'> </span>importando
-il path della cartella di Tomcat 8.5.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>once the server configuration window is open, choose the version &quot;Tomcat v8.5 Server&quot; importing the path of the Tomcat 8.5 folder.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Prima
-di eseguire l'intero progetto sul server è necessario configurare altri due server. Questo perchè
-il loadbalancer si aspetta di trovare in esecuzione un server
-in esecuzione sulla porta 8081<span style='letter-spacing:-2.95pt'> </span>ed uno sulla porta 8082. Questi due ospiteranno l'esecuzione del servizio &quot;placesofcity&quot;.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Before running the entire project on the server you need to setup two more servers. This is because the loadbalancer expects to find a server running on port 8081 and one on port 8082. These two will host the execution of the service &quot;placesofcity&quot;.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.75pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una
-volta creati tutti i server, mandare in esecuzione sui server 8081 e 8082 il
-servizio placesofcity<span style='letter-spacing:-2.95pt'> </span>e lanciare l'esecuzione di tutti i servizi creati sul server in esecuzione sulla porta 8080 COMPRESO placesofcity.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Once all the servers have been created, run the placesofcity service on servers 8081 and 8082 and launch the execution of all the services created on the server running on port 8080 INCLUDED placesofcity.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:57.9pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se si vogliono creare delle altre istanze per il servizio &quot;placesofcity&quot; è necessario creare altri server, eseguire su questi il servizio e
-modificare il loadbalancer così da fargli presente l'esistenza<span
-style='letter-spacing:-2.95pt'> </span>di altri server che fruiscono il
-servizio. </span><span lang=EN-US style='mso-ansi-language:EN-US'>Per
-aggiungere altri server al
-loadbalacer andare in:<o:p></o:p></span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>If you want to create other instances for the &quot;placesofcity&quot; service it is necessary to create other servers, run the service on them and modify the loadbalancer so as to make it aware of the existence of other servers that use the service. To add more servers to the loadbalacer go to:<o:p></o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:.25pt'><span lang=EN-US
 style='font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
@@ -1711,8 +1688,7 @@ mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-langua
 EN-US'>loadbalancer/src/main/java/it/univaq/disim/sose/project./loadbalancer/business/impl/ LoadBalancerServiceImpl.java<o:p></o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:11.45pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta aperto il file aggiungere alla lista tutte le istanze che si vogliono, tenendo presente la<span style='letter-spacing:-2.95pt'> </span>porta
-in cui vengono eseguite.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Once the file is open, add all the instances you want to the list, keeping in mind the port in which they are executed.</span></p>
 
 <p class=MsoBodyText style='margin-top:.3pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -1741,8 +1717,8 @@ margin-left:46.0pt;margin-bottom:.0001pt'>servers.add(new ServerObject(&quot;htt
 <br>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>La lista prende un oggetto di tipo ServerObject e si aspetta tre parametri: uno di tipo Stringa e i restanti di tipo Intero.
-Il PARAMETER di tipo stringa è l'url del servizio in esecuzione ed è quello che il loadbalancer restituirà quando viene invocato. Il secondo ed il terzo PARAMETER identificano il numero di richieste massime che possono essere eseguito in un intervallo di tempo, dove: il secondo PARAMETER è il numero di richieste ed il terzo PARAMETER è l’intervallo di tempo.</p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>The list takes an object of type ServerObject and expects three parameters: one of type String and the remaining of type Integer.
+The string PARAMETER is the URL of the running service and is what the loadbalancer will return when it is invoked. The second and third PARAMETER identify the maximum number of requests that can be executed in a time interval, where: the second PARAMETER is the number of requests and the third PARAMETER is the time interval.</p>
 
 </div>
 
@@ -1756,8 +1732,8 @@ style='page-break-before:always;mso-break-type:section-break'>
 
 <p class=MsoBodyText style='margin-top:4.2pt;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>
-Nel primo caso il server identificato con la porta 8080 può eseguire 5 richieste in 5 secondi, il server sulla porta 8081 1 richiesta in un intervallo di 5 secondi ed il terzo 20 richieste in un intervallo di 5 secondi.
-Finite queste configurazione è possibile mandare in esecuzione l’intero progetto e accedere mediante browser all'indirizzo:
+In the first case, the server identified with port 8080 can execute 5 requests in 5 seconds, the server on port 8081 1 request in an interval of 5 seconds and the third 20 requests in an interval of 5 seconds.
+Once these configurations have been completed, it is possible to run the entire project and access the address via browser:
 <br>
 localhost:8080/beatrice
 </p>
@@ -1768,29 +1744,29 @@ tab-stops:58.0pt'>To use the realized ARCHETYPE:</h3>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-exactly'>Nella cartella ARCHETYPE ci sono due cartelle:</p>
+exactly'>In the ARCHETYPE folder there are two folders:</p>
 
 <p class=MsoListParagraph style='margin-top:.2pt;margin-right:135.25pt;
 margin-bottom:0cm;margin-left:94.2pt;margin-bottom:.0001pt;text-indent:-12.25pt;
-line-height:95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;generic&quot; permette di istanziare un nuovo progetto con un esempio base preconfigurandolo automaticamente</p>
+line-height:95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;generic&quot; allows you to instantiate a new project with a basic example by automatically preconfiguring it</p>
 
 <p class=MsoListParagraph style='margin-top:0cm;margin-right:67.3pt;margin-bottom:
 0cm;margin-left:94.2pt;margin-bottom:.0001pt;text-indent:-12.25pt;line-height:
-95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;specific&quot; crea la struttura utilizzata per creare il prosumer, di conseguenza specifica la struttura di base utilizzata</p>
+95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;specific&quot; creates the structure used to create the prosumer, therefore specifies the basic structure used</p>
 
 <p class=MsoBodyText style='margin-top:11.4pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
 exactly'>Per l'utilizzo:</p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>aprire il Terminale e recarsi all'interno della cartella ARCHETYPE. Una volta all'interno della cartella digitare il comando:</p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>open the Terminal and go to the ARCHETYPE folder. Once inside the folder type the command:</p>
 
 <p class=MsoNormal style='margin-left:46.0pt'><b>mvn</b> clean install</p>
 
 <br>
 
 <p class=MsoBodyText style='margin-top:.05pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Eseguito il comando uscire dalla cartella e posizionarsi nella cartella in cui si vuole generare il progetto. Eseguire quindi il comando:</p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Once the command has been executed, exit the folder and position yourself in the folder in which you want to generate the project. Then execute the command:</p>
 
 <p class=MsoBodyText style='margin-top:.35pt'></p>
 
@@ -1835,9 +1811,7 @@ exactly'>-DarchetypeVersion</p>
 <br>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:71.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La
-seguente view mostra cosa si visualizza appena si accede alla web Application (
-senza aver<span style='letter-spacing:-2.95pt'> </span>effettuato il login):</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>The following view shows what is displayed as soon as you access the web application (without having logged in):</span></p>
 
 <p class=MsoBodyText style='margin-top:.05pt'><!--[if gte vml 1]><o:wrapblock><v:shape
   id="image11.jpeg" o:spid="_x0000_s1029" type="#_x0000_t75" style='position:absolute;
@@ -1869,8 +1843,7 @@ style='mso-ignore:vglayout' clear=ALL>
 11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:9.9pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La seguente view mostra cosa succede quando si seleziona un’attività dall’elenco sulla parte sinistra dell’immagine. Si noti che vengono indicati i tempi di percorrenza per raggiungere tale attività
-a seconda del mezzo mostrato:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>The following view shows what happens when you select an activity from the list on the left side of the image. Please note that the travel times to reach this activity are indicated depending on the vehicle shown:</span></p>
 
 <br>
 
@@ -1911,8 +1884,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection18>
 
 <p class=MsoBodyText style='margin-top:4.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Cliccando su uno dei tre mezzi di trasporto proposti viene visualizzato<span style='letter-spacing:
-.35pt'> </span>il percorso più conveniente da effettuare con quel mezzo :</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>By clicking on one of the three proposed means of transport, the most convenient route to take with that means is displayed:</span></p>
 
 <br>
 
@@ -1946,8 +1918,7 @@ style='mso-ignore:vglayout' clear=ALL>
 11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:10.1pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Effettuato il login è possibile visualizzare i like lasciati con il proprio profilo e la form per inserire un nuovo
-commento per una data attività:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Once logged in, you can view the likes left with your profile and the form to insert a new comment for a given activity:</span></p>
 
 <br>
 
