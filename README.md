@@ -2042,8 +2042,6 @@ a seconda del mezzo mostrato:</span></p>
 
 <br>
 
-<br>
-
 <p class=MsoBodyText><!--[if gte vml 1]><o:wrapblock><v:shape id="image12.jpeg"
   o:spid="_x0000_s1028" type="#_x0000_t75" style='position:absolute;
   margin-left:56.7pt;margin-top:8.9pt;width:477.4pt;height:258pt;z-index:11;
@@ -2110,7 +2108,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
 style='mso-ignore:vglayout' clear=ALL>
-<span lang=IT style='font-size:7.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
+</p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:13.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -2145,7 +2143,7 @@ commento per una data attività:</span></p>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
 style='mso-ignore:vglayout' clear=ALL>
-<span lang=IT style='font-size:7.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
+</p>
 
 </div>
 
