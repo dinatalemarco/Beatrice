@@ -14133,9 +14133,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   height:22.5pt'>
   <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
   7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{endLat}<o:p></o:p></span></b></p>
+  center'>{endLat}</p>
   </td>
   <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
   none;border-bottom:solid #FFFEBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
