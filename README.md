@@ -14120,70 +14120,32 @@ font-family:"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";
 mso-bidi-font-family:"Arial MT";position:relative;top:-1.0pt;mso-text-raise:
 1.0pt;mso-font-width:118%;font-weight:normal;mso-bidi-font-weight:bold'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IT>Per<span style='letter-spacing:
--.05pt'> </span>utilizzare l'ARCHETYPE realizzato:</span></h1>
+</span></span></span><![endif]><span lang=IT>Per utilizzare l'ARCHETYPE realizzato:</span></h1>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>Nella<span style='letter-spacing:-.25pt'> </span>cartella<span
-style='letter-spacing:-.25pt'> </span>ARCHETYPE<span style='letter-spacing:
--.25pt'> </span>ci<span style='letter-spacing:-.25pt'> </span>sono<span
-style='letter-spacing:-.25pt'> </span>due<span style='letter-spacing:-.25pt'> </span>cartelle:</span></p>
+exactly'>Nella cartella ARCHETYPE ci sono due cartelle:</p>
 
 <p class=MsoListParagraph style='margin-top:.2pt;margin-right:135.25pt;
 margin-bottom:0cm;margin-left:94.2pt;margin-bottom:.0001pt;text-indent:-12.25pt;
-line-height:95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'><![if !supportLists]><span
-lang=IT style='mso-font-width:116%'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=IT>&quot;generic&quot;<span style='letter-spacing:.4pt'> </span>permette<span
-style='letter-spacing:.4pt'> </span>di<span style='letter-spacing:.4pt'> </span>istanziare<span
-style='letter-spacing:.4pt'> </span>un<span style='letter-spacing:.45pt'> </span>nuovo<span
-style='letter-spacing:.4pt'> </span>progetto<span style='letter-spacing:.4pt'> </span>con<span
-style='letter-spacing:.4pt'> </span>un<span style='letter-spacing:.45pt'> </span>esempio<span
-style='letter-spacing:.4pt'> </span>base<span style='letter-spacing:-2.9pt'> </span>preconfigurandolo
-automaticamente</span></p>
+line-height:95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;generic&quot; permette di istanziare un nuovo progetto con un esempio base preconfigurandolo automaticamente</p>
 
 <p class=MsoListParagraph style='margin-top:0cm;margin-right:67.3pt;margin-bottom:
 0cm;margin-left:94.2pt;margin-bottom:.0001pt;text-indent:-12.25pt;line-height:
-95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'><![if !supportLists]><span
-lang=IT style='mso-font-width:116%'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=IT>&quot;specific&quot;<span style='letter-spacing:.2pt'> </span>crea<span
-style='letter-spacing:.2pt'> </span>la<span style='letter-spacing:.2pt'> </span>struttura<span
-style='letter-spacing:.2pt'> </span>utilizzata<span style='letter-spacing:.2pt'>
-</span>per<span style='letter-spacing:.25pt'> </span>creare<span
-style='letter-spacing:.2pt'> </span>il<span style='letter-spacing:.2pt'> </span>prosumer,<span
-style='letter-spacing:.2pt'> </span>di<span style='letter-spacing:.2pt'> </span>conseguenza<span
-style='letter-spacing:.2pt'> </span>specifica<span style='letter-spacing:.25pt'>
-</span>la<span style='letter-spacing:-2.9pt'> </span>struttura di base
-utilizzata</span></p>
+95%;mso-list:l1 level2 lfo6;tab-stops:89.35pt'>&quot;specific&quot; crea la struttura utilizzata per creare il prosumer, di conseguenza specifica la struttura di base utilizzata</p>
 
 <p class=MsoBodyText style='margin-top:11.4pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>Per<span style='letter-spacing:.3pt'> </span>l'utilizzo:</span></p>
+exactly'>Per l'utilizzo:</p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>aprire<span
-style='letter-spacing:-.3pt'> </span>il<span style='letter-spacing:-.25pt'> </span>Terminale<span
-style='letter-spacing:-.25pt'> </span>e<span style='letter-spacing:-.3pt'> </span>recarsi<span
-style='letter-spacing:-.25pt'> </span>all'interno<span style='letter-spacing:
--.25pt'> </span>della<span style='letter-spacing:-.25pt'> </span>cartella<span
-style='letter-spacing:-.3pt'> </span>ARCHETYPE.<span style='letter-spacing:
--.25pt'> </span>Una<span style='letter-spacing:-.25pt'> </span>volta<span
-style='letter-spacing:-.25pt'> </span>all'interno<span style='letter-spacing:
--.3pt'> </span>della<span style='letter-spacing:-2.9pt'> </span>cartella
-digitare il<span style='letter-spacing:.05pt'> </span>comando:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>aprire il Terminale e recarsi all'interno della cartella ARCHETYPE. Una volta all'interno della cartella digitare il comando:</p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:46.0pt'><b style='mso-bidi-font-weight:
-normal'><i style='mso-bidi-font-style:normal'><span lang=IT style='font-family:
-"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'>mvn<span
-style='letter-spacing:-.25pt'> </span></span></i></b><i style='mso-bidi-font-style:
-normal'><span lang=IT style='font-family:"Arial",sans-serif;mso-hansi-font-family:
-"Arial MT";mso-bidi-font-family:"Arial MT"'>clean<span style='letter-spacing:
--.2pt'> </span>install<o:p></o:p></span></i></p>
+normal'><i style='mso-bidi-font-style:normal'><b>mvn</b> clean install</p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><i style='mso-bidi-font-style:
 normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
@@ -14191,28 +14153,16 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT"'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:.05pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Eseguito
-il comando uscire dalla cartella e posizionarsi nella cartella in cui si vuole
-generare il<span style='letter-spacing:-2.95pt'> </span>progetto. Eseguire<span
-style='letter-spacing:.05pt'> </span>quindi il<span style='letter-spacing:.05pt'>
-</span>comando:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Eseguito il comando uscire dalla cartella e posizionarsi nella cartella in cui si vuole generare il progetto. Eseguire quindi il comando:</p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:86.15pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:101%'><b
-style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'>mvn<span style='letter-spacing:.65pt'> </span></span></i></b><i
-style='mso-bidi-font-style:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'>archetype:generate<span
-style='letter-spacing:.7pt'> </span>-DgroupId=it.univaq.sose.application<span
-style='letter-spacing:.65pt'> </span>-DartifactId=my_application<span
-style='letter-spacing:.7pt'> </span>-<span style='letter-spacing:-2.9pt'> </span>Dversion=0.0.1-SNAPSHOT<span
-style='letter-spacing:.05pt'> </span>-DarchetypeGroupId=it.univaq.disim.sose.project<span
-style='letter-spacing:.1pt'> </span>-<span style='letter-spacing:.05pt'> </span>DarchetypeArtifactId=prosumer-archetype
--DarchetypeVersion=1.0.0-SNAPSHOT -<span style='letter-spacing:.05pt'> </span>DinteractiveMode=false<o:p></o:p></span></i></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:101%'>
+
+<b>mvn</b> archetype:generate -DgroupId=it.univaq.sose.application -DartifactId=my_application - Dversion=0.0.1-SNAPSHOT -DarchetypeGroupId=it.univaq.disim.sose.project - DarchetypeArtifactId=prosumer-archetype -DarchetypeVersion=1.0.0-SNAPSHOT - DinteractiveMode=false
+</p>
 
 <p class=MsoBodyText style='margin-top:10.9pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT>Modificando<span
