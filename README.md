@@ -14073,23 +14073,12 @@ EN-US'>servers.add(new<span style='letter-spacing:1.35pt'> </span>ServerObject(&
 style='letter-spacing:1.4pt'> </span>5,<span style='letter-spacing:1.4pt'> </span>5));<o:p></o:p></span></i></p>
 
 <p class=MsoNormal style='margin-top:.5pt;margin-right:0cm;margin-bottom:0cm;
-margin-left:46.0pt;margin-bottom:.0001pt'><i style='mso-bidi-font-style:normal'><span
-lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
-mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-language:
-EN-US'>servers.add(new<span style='letter-spacing:1.35pt'> </span>ServerObject(&quot;http://localhost:8081/placesofcity/services/placesofcity?wsdl&quot;,<span
-style='letter-spacing:1.4pt'> </span>1,<span style='letter-spacing:1.4pt'> </span>5));<o:p></o:p></span></i></p>
+margin-left:46.0pt;margin-bottom:.0001pt'>ServerObject(&quot;http://localhost:8081/placesofcity/services/placesofcity?wsdl&quot;,1,5));</p>
 
 <p class=MsoNormal style='margin-top:.5pt;margin-right:0cm;margin-bottom:0cm;
-margin-left:46.0pt;margin-bottom:.0001pt'><i style='mso-bidi-font-style:normal'><span
-lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
-mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-language:
-EN-US'>servers.add(new<span style='letter-spacing:.95pt'> </span>ServerObject(&quot;http://localhost:8082/placesofcity/services/placesofcity?wsdl&quot;,<span
-style='letter-spacing:1.0pt'> </span>20,<span style='letter-spacing:1.0pt'> </span>5));<o:p></o:p></span></i></p>
+margin-left:46.0pt;margin-bottom:.0001pt'>servers.add(new ServerObject(&quot;http://localhost:8082/placesofcity/services/placesofcity?wsdl&quot;,20, 5));</p>
 
-<p class=MsoBodyText><i style='mso-bidi-font-style:normal'><span lang=EN-US
-style='font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
-mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-language:
-EN-US'><o:p>&nbsp;</o:p></span></i></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>La lista prende un oggetto di tipo ServerObject e si aspetta tre parametri: uno di tipo Stringa e i restanti di tipo Intero.
@@ -14115,12 +14104,7 @@ localhost:8080/beatrice
 
 <h1 style='margin-top:9.5pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 58.0pt;margin-bottom:.0001pt;text-indent:-12.0pt;mso-list:l1 level1 lfo6;
-tab-stops:58.0pt'><![if !supportLists]><span lang=IT style='font-size:13.0pt;
-font-family:"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT";position:relative;top:-1.0pt;mso-text-raise:
-1.0pt;mso-font-width:118%;font-weight:normal;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IT>To use the realized ARCHETYPE:</span></h1>
+tab-stops:58.0pt'>To use the realized ARCHETYPE:</h1>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
