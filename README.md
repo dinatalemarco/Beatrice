@@ -12136,171 +12136,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 <h1><span lang=IT>INTRODUZIONE</span></h1>
 
-<p class=MsoBodyText style='margin-top:.4pt'><b style='mso-bidi-font-weight:
-normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT"'><o:p>&nbsp;</o:p></span></b></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.3pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il<span
-style='letter-spacing:.35pt'> </span>nostro<span style='letter-spacing:.4pt'> </span>progetto<span
-style='letter-spacing:.35pt'> </span>è<span style='letter-spacing:.4pt'> </span>un’applicazione<span
-style='letter-spacing:.4pt'> </span>SOA-based<span style='letter-spacing:.35pt'>
-</span>che<span style='letter-spacing:.4pt'> </span>ha<span style='letter-spacing:
-.35pt'> </span>lo<span style='letter-spacing:.4pt'> </span>scopo<span
-style='letter-spacing:.4pt'> </span>di<span style='letter-spacing:.35pt'> </span>fornire<span
-style='letter-spacing:.4pt'> </span>agli<span style='letter-spacing:.4pt'> </span>utenti<span
-style='letter-spacing:.35pt'> </span>delle<span style='letter-spacing:.4pt'> </span>possibili<span
-style='letter-spacing:-2.9pt'> </span>attività<span style='letter-spacing:.25pt'>
-</span>da<span style='letter-spacing:.25pt'> </span>fare<span style='letter-spacing:
-.3pt'> </span>in<span style='letter-spacing:.25pt'> </span>una<span
-style='letter-spacing:.3pt'> </span>città<span style='letter-spacing:.25pt'> </span>(<span
-style='letter-spacing:.3pt'> </span>nel<span style='letter-spacing:.25pt'> </span>nostro<span
-style='letter-spacing:.3pt'> </span>caso<span style='letter-spacing:.25pt'> </span>L’Aquila<span
-style='letter-spacing:.3pt'> </span>).<span style='letter-spacing:.25pt'> </span>Gli<span
-style='letter-spacing:.3pt'> </span>utenti<span style='letter-spacing:.25pt'> </span>possono<span
-style='letter-spacing:.3pt'> </span>consultare<span style='letter-spacing:.25pt'>
-</span>la<span style='letter-spacing:.3pt'> </span>cartina<span
-style='letter-spacing:.05pt'> </span>della<span style='letter-spacing:.1pt'> </span>città<span
-style='letter-spacing:.1pt'> </span>(fornita<span style='letter-spacing:.15pt'>
-</span>da<span style='letter-spacing:.1pt'> </span>un<span style='letter-spacing:
-.15pt'> </span>provider<span style='letter-spacing:.1pt'> </span>esterno,<span
-style='letter-spacing:.15pt'> </span>Map<span style='letter-spacing:.1pt'> </span>BOX<span
-style='letter-spacing:.1pt'> </span>)<span style='letter-spacing:.15pt'> </span>sulla<span
-style='letter-spacing:.1pt'> </span>quale<span style='letter-spacing:.15pt'> </span>verranno<span
-style='letter-spacing:.1pt'> </span>mostrate<span style='letter-spacing:.15pt'>
-</span>delle<span style='letter-spacing:.1pt'> </span>attività<span
-style='letter-spacing:.05pt'> </span>proposte<span style='letter-spacing:.4pt'>
-</span>per<span style='letter-spacing:.15pt'> </span>quella<span
-style='letter-spacing:.15pt'> </span>città<span style='letter-spacing:.15pt'> </span>dall’applicazione<span
-style='letter-spacing:.15pt'> </span>(<span style='letter-spacing:.15pt'> </span>grazie<span
-style='letter-spacing:.15pt'> </span>ad<span style='letter-spacing:.2pt'> </span>un<span
-style='letter-spacing:.15pt'> </span>provider<span style='letter-spacing:.15pt'>
-</span>da<span style='letter-spacing:.15pt'> </span>noi<span style='letter-spacing:
-.15pt'> </span>implementato,<span style='letter-spacing:.05pt'> </span>PlacesOfCity<span
-style='letter-spacing:.2pt'> </span>).<span style='letter-spacing:.2pt'> </span>Il<span
-style='letter-spacing:.2pt'> </span>mondo<span style='letter-spacing:.2pt'> </span>in<span
-style='letter-spacing:.25pt'> </span>cui<span style='letter-spacing:.2pt'> </span>verranno<span
-style='letter-spacing:.2pt'> </span>consigliate<span style='letter-spacing:
-.2pt'> </span>all’utente<span style='letter-spacing:.25pt'> </span>dipende<span
-style='letter-spacing:.2pt'> </span>dall’orario<span style='letter-spacing:
-.2pt'> </span>corrente<span style='letter-spacing:.2pt'> </span>e<span
-style='letter-spacing:.25pt'> </span>dal<span style='letter-spacing:.05pt'> </span>tempo<span
-style='letter-spacing:.35pt'> </span>atmosferico<span style='letter-spacing:
-.35pt'> </span>(<span style='letter-spacing:.4pt'> </span>fornito<span
-style='letter-spacing:.35pt'> </span>da<span style='letter-spacing:.35pt'> </span>un<span
-style='letter-spacing:.4pt'> </span>provider<span style='letter-spacing:.35pt'>
-</span>esterno,<span style='letter-spacing:.4pt'> </span>Weather<span
-style='letter-spacing:.35pt'> </span>).<span style='letter-spacing:.35pt'> </span>Infatti<span
-style='letter-spacing:.4pt'> </span>se<span style='letter-spacing:.35pt'> </span>il<span
-style='letter-spacing:.4pt'> </span>locale<span style='letter-spacing:.35pt'> </span>è<span
-style='letter-spacing:.35pt'> </span>chiuso<span style='letter-spacing:.4pt'> </span>non<span
-style='letter-spacing:.05pt'> </span>verrà<span style='letter-spacing:.2pt'> </span>proposto<span
-style='letter-spacing:.25pt'> </span>o,<span style='letter-spacing:.25pt'> </span>se<span
-style='letter-spacing:.25pt'> </span>piove,<span style='letter-spacing:.2pt'> </span>non<span
-style='letter-spacing:.25pt'> </span>saranno<span style='letter-spacing:.25pt'>
-</span>proposte<span style='letter-spacing:.25pt'> </span>le<span
-style='letter-spacing:.25pt'> </span>escursioni<span style='letter-spacing:
-.2pt'> </span>in<span style='letter-spacing:.25pt'> </span>montagna<span
-style='letter-spacing:.25pt'> </span>o<span style='letter-spacing:.25pt'> </span>attività<span
-style='letter-spacing:.2pt'> </span>simili<span style='letter-spacing:.25pt'> </span>che<span
-style='letter-spacing:.05pt'> </span>sono<span style='letter-spacing:.2pt'> </span>sconvenienti<span
-style='letter-spacing:.25pt'> </span>da<span style='letter-spacing:.25pt'> </span>praticare<span
-style='letter-spacing:.25pt'> </span>con<span style='letter-spacing:.25pt'> </span>tempo<span
-style='letter-spacing:.25pt'> </span>avverso.<span style='letter-spacing:.25pt'>
-</span>Queste<span style='letter-spacing:.25pt'> </span>proposte<span
-style='letter-spacing:.25pt'> </span>ricreative<span style='letter-spacing:
-.25pt'> </span>possono<span style='letter-spacing:.25pt'> </span>essere<span
-style='letter-spacing:.05pt'> </span>consigliate<span style='letter-spacing:
-.2pt'> </span>all’utente<span style='letter-spacing:.2pt'> </span>anche<span
-style='letter-spacing:.2pt'> </span>secondo<span style='letter-spacing:.2pt'> </span>un<span
-style='letter-spacing:.2pt'> </span>filtro<span style='letter-spacing:.25pt'> </span>di<span
-style='letter-spacing:.2pt'> </span>interesse<span style='letter-spacing:.2pt'>
-</span>che<span style='letter-spacing:.2pt'> </span>si<span style='letter-spacing:
-.2pt'> </span>divide<span style='letter-spacing:.25pt'> </span>in<span
-style='letter-spacing:.2pt'> </span>tre<span style='letter-spacing:.2pt'> </span>profili:<span
-style='letter-spacing:.2pt'> </span>Adventure,<span style='letter-spacing:.05pt'>
-</span>Tasty<span style='letter-spacing:.2pt'> </span>e<span style='letter-spacing:
-.25pt'> </span>Nerd.<span style='letter-spacing:.2pt'> </span>Il<span
-style='letter-spacing:.25pt'> </span>primo<span style='letter-spacing:.2pt'> </span>profilo<span
-style='letter-spacing:.25pt'> </span>comprende<span style='letter-spacing:.25pt'>
-</span>tutte<span style='letter-spacing:.2pt'> </span>le<span style='letter-spacing:
-.25pt'> </span>attività<span style='letter-spacing:.2pt'> </span>“movimentate”<span
-style='letter-spacing:.25pt'> </span>che<span style='letter-spacing:.2pt'> </span>possono<span
-style='letter-spacing:.25pt'> </span>essere<span style='letter-spacing:.05pt'> </span>escursioni<span
-style='letter-spacing:.25pt'> </span>o<span style='letter-spacing:.3pt'> </span>sport<span
-style='letter-spacing:.25pt'> </span>da<span style='letter-spacing:.3pt'> </span>praticare.<span
-style='letter-spacing:.3pt'> </span>Il<span style='letter-spacing:.25pt'> </span>secondo<span
-style='letter-spacing:.3pt'> </span>profilo<span style='letter-spacing:.3pt'> </span>riguarda<span
-style='letter-spacing:.25pt'> </span>tutti<span style='letter-spacing:.3pt'> </span>locali<span
-style='letter-spacing:.3pt'> </span>culinari:<span style='letter-spacing:.25pt'>
-</span>dai<span style='letter-spacing:.3pt'> </span>pub<span style='letter-spacing:
-.3pt'> </span>ai<span style='letter-spacing:.25pt'> </span>locali<span
-style='letter-spacing:.05pt'> </span>gourmè,<span style='letter-spacing:.35pt'>
-</span>ma<span style='letter-spacing:.35pt'> </span>anche<span
-style='letter-spacing:.4pt'> </span>birrerie,<span style='letter-spacing:.35pt'>
-</span>pasticcerie<span style='letter-spacing:.4pt'> </span>o<span
-style='letter-spacing:.35pt'> </span>trattorie.<span style='letter-spacing:
-.4pt'> </span>L’ultimo<span style='letter-spacing:.35pt'> </span>profilo<span
-style='letter-spacing:.4pt'> </span>è<span style='letter-spacing:.35pt'> </span>quello<span
-style='letter-spacing:.4pt'> </span>nerd<span style='letter-spacing:.35pt'> </span>che<span
-style='letter-spacing:.4pt'> </span>consiglia<span style='letter-spacing:.35pt'>
-</span>tutti<span style='letter-spacing:.4pt'> </span>i<span style='letter-spacing:
--2.9pt'> </span>luoghi<span style='letter-spacing:.2pt'> </span>storici<span
-style='letter-spacing:.25pt'> </span>della<span style='letter-spacing:.25pt'> </span>città,<span
-style='letter-spacing:.2pt'> </span>i<span style='letter-spacing:.25pt'> </span>monumenti<span
-style='letter-spacing:.25pt'> </span>ed<span style='letter-spacing:.2pt'> </span>i<span
-style='letter-spacing:.25pt'> </span>musei.<span style='letter-spacing:.25pt'> </span>Oltre<span
-style='letter-spacing:.2pt'> </span>a<span style='letter-spacing:.25pt'> </span>riportare<span
-style='letter-spacing:.25pt'> </span>i<span style='letter-spacing:.25pt'> </span>luoghi<span
-style='letter-spacing:.2pt'> </span>consigliati<span style='letter-spacing:
-.25pt'> </span>sulla<span style='letter-spacing:.25pt'> </span>mappa,<span
-style='letter-spacing:.2pt'> </span>è<span style='letter-spacing:-2.9pt'> </span>possibile<span
-style='letter-spacing:.45pt'> </span>cliccare<span style='letter-spacing:.45pt'>
-</span>sull’attività<span style='letter-spacing:.45pt'> </span>desiderata:<span
-style='letter-spacing:.45pt'> </span>in<span style='letter-spacing:.45pt'> </span>questo<span
-style='letter-spacing:.45pt'> </span>modo<span style='letter-spacing:.45pt'> </span>verranno<span
-style='letter-spacing:.45pt'> </span>mostrati<span style='letter-spacing:.45pt'>
-</span>3<span style='letter-spacing:.45pt'> </span>possibili<span
-style='letter-spacing:.45pt'> </span>modi<span style='letter-spacing:.45pt'> </span>per<span
-style='letter-spacing:.05pt'> </span>raggiungere<span style='letter-spacing:
-.05pt'> </span>tale<span style='letter-spacing:.1pt'> </span>attività<span
-style='letter-spacing:.1pt'> </span>(<span style='letter-spacing:.05pt'> </span>bicicletta,<span
-style='letter-spacing:.1pt'> </span>auto<span style='letter-spacing:.1pt'> </span>o<span
-style='letter-spacing:.1pt'> </span>a<span style='letter-spacing:.05pt'> </span>piedi<span
-style='letter-spacing:.1pt'> </span>)<span style='letter-spacing:.1pt'> </span>con<span
-style='letter-spacing:.1pt'> </span>i<span style='letter-spacing:.05pt'> </span>relativi<span
-style='letter-spacing:.1pt'> </span>tempi<span style='letter-spacing:.1pt'> </span>di<span
-style='letter-spacing:.1pt'> </span>percorrenza<span style='letter-spacing:
-.05pt'> </span>e,<span style='letter-spacing:.1pt'> </span>se<span
-style='letter-spacing:.1pt'> </span>se<span style='letter-spacing:.05pt'> </span>ne<span
-style='letter-spacing:.05pt'> </span>sceglie<span style='letter-spacing:.15pt'>
-</span>uno,<span style='letter-spacing:.15pt'> </span>verrà<span
-style='letter-spacing:.2pt'> </span>mostrato<span style='letter-spacing:.15pt'>
-</span>il<span style='letter-spacing:.2pt'> </span>percorso<span
-style='letter-spacing:.15pt'> </span>per<span style='letter-spacing:.2pt'> </span>arrivare<span
-style='letter-spacing:.15pt'> </span>al<span style='letter-spacing:.2pt'> </span>luogo<span
-style='letter-spacing:.15pt'> </span>desiderato<span style='letter-spacing:
-.15pt'> </span>dalla<span style='letter-spacing:.2pt'> </span>propria<span
-style='letter-spacing:.15pt'> </span>posizione.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Il progetto è un’applicazione SOA-based che ha lo scopo di fornire agli utenti delle possibili attività da fare in una città (nel nostro caso L’Aquila ). Gli utenti possono consultare la cartina della città (fornita da un provider esterno, Map BOX ) sulla quale verranno mostrate delle attività proposte per quella città dall’applicazione (grazie ad un provider da noi implementato, PlacesOfCity ). Il mondo in cui verranno consigliate all’utente dipende dall’orario corrente e dal tempo atmosferico( fornito da un provider esterno, Weather ). Infatti se il locale è chiuso non verrà proposto o, se piove, non saranno proposte le escursioni in montagna o attività simili che sono sconvenienti da praticare con tempo avverso. Queste proposte ricreative possono essere consigliate all’utente anche secondo un filtro di interesse che si divide in tre profili: Adventure, Tasty e Nerd. Il primo profilo comprende tutte le attività “movimentate” che possono essere escursioni o sport da praticare. Il secondo profilo riguarda tutti locali culinari: dai pub ai locali gourmè, ma anche birrerie, pasticcerie o trattorie. L’ultimo profilo è quello nerd che consiglia tutti i luoghi storici della città, i monumenti ed i musei. Oltre a riportare i luoghi consigliati sulla mappa, è possibile cliccare sull’attività desiderata: in questo modo verranno mostrati 3 possibili modi per raggiungere tale attività ( bicicletta, auto o a piedi ) con i relativi tempi di percorrenza e, se se ne sceglie uno, verrà mostrato il percorso per arrivare al luogo desiderato dalla propria posizione.</p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>L’utente<span
-style='letter-spacing:.25pt'> </span>ha<span style='letter-spacing:.25pt'> </span>la<span
-style='letter-spacing:.3pt'> </span>possibilità<span style='letter-spacing:
-.25pt'> </span>di<span style='letter-spacing:.3pt'> </span>registrarsi<span
-style='letter-spacing:.25pt'> </span>al<span style='letter-spacing:.25pt'> </span>sistema<span
-style='letter-spacing:.3pt'> </span>e,<span style='letter-spacing:.25pt'> </span>quando<span
-style='letter-spacing:.3pt'> </span>accede<span style='letter-spacing:.25pt'> </span>all’applicazione<span
-style='letter-spacing:.3pt'> </span>tramite<span style='letter-spacing:.25pt'> </span>login,<span
-style='letter-spacing:-2.9pt'> </span>può<span style='letter-spacing:.15pt'> </span>manifestare<span
-style='letter-spacing:.15pt'> </span>il<span style='letter-spacing:.15pt'> </span>suo<span
-style='letter-spacing:.15pt'> </span>gradimento<span style='letter-spacing:
-.2pt'> </span>per<span style='letter-spacing:.15pt'> </span>un’attività<span
-style='letter-spacing:.15pt'> </span>lasciando<span style='letter-spacing:.15pt'>
-</span>un<span style='letter-spacing:.15pt'> </span>like<span style='letter-spacing:
-.2pt'> </span>o<span style='letter-spacing:.15pt'> </span>un<span
-style='letter-spacing:.15pt'> </span>commento.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>L’utente ha la possibilità di registrarsi al sistema e, quando accede all’applicazione tramite login, può manifestare il suo gradimento per un’attività lasciando un like o un commento.</p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:13.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -12309,12 +12151,7 @@ style='letter-spacing:.15pt'> </span>commento.</span></p>
 lang=IT>OVERVIEW</span></h1>
 
 <p class=MsoBodyText style='margin-left:46.0pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>L’immagine<span style='letter-spacing:.45pt'> </span>sottostante<span
-style='letter-spacing:.45pt'> </span>mostra<span style='letter-spacing:.5pt'> </span>in<span
-style='letter-spacing:.45pt'> </span>che<span style='letter-spacing:.5pt'> </span>modo<span
-style='letter-spacing:.45pt'> </span>sono<span style='letter-spacing:.5pt'> </span>connesse<span
-style='letter-spacing:.45pt'> </span>le<span style='letter-spacing:.5pt'> </span>componenti<span
-style='letter-spacing:.45pt'> </span>del<span style='letter-spacing:.5pt'> </span>sistema,.</span></p>
+exactly'><span lang=IT>L’immagine sottostante mostra<span style='letter-spacing:.5pt'> </span>in che<span style='letter-spacing:.5pt'> </span>modo sono<span style='letter-spacing:.5pt'> </span>connesse le<span style='letter-spacing:.5pt'> </span>componenti del<span style='letter-spacing:.5pt'> </span>sistema,.</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -12385,18 +12222,9 @@ position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Beatrice:<span
-style='letter-spacing:.8pt'> </span></span></b><span lang=IT>è<span
-style='letter-spacing:.35pt'> </span>la<span style='letter-spacing:.4pt'> </span>componente<span
-style='letter-spacing:.35pt'> </span>che<span style='letter-spacing:.4pt'> </span>rappresenta<span
-style='letter-spacing:.35pt'> </span>l’applicazione<span style='letter-spacing:
-.4pt'> </span>web<span style='letter-spacing:.4pt'> </span>con<span
-style='letter-spacing:.35pt'> </span>cui<span style='letter-spacing:.4pt'> </span>si<span
-style='letter-spacing:.35pt'> </span>interfaccia<span style='letter-spacing:
-.4pt'> </span>l’utente.<span style='letter-spacing:-2.95pt'> </span>L’implementazione
-è<span style='letter-spacing:.05pt'> </span>stata<span style='letter-spacing:
-.05pt'> </span>realizzata tramite<span style='letter-spacing:.05pt'> </span>Javascript,
-html<span style='letter-spacing:.05pt'> </span>e<span style='letter-spacing:
-.05pt'> </span>css.</span></p>
+style='letter-spacing:.8pt'> </span></span></b><span lang=IT>è la componente che rappresenta l’applicazione web con cui si interfaccia l’utente.<span style='letter-spacing:-2.95pt'> </span>L’implementazione
+è stata realizzata tramite Javascript,
+html e css.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
 
@@ -12407,33 +12235,10 @@ lang=IT style='font-family:"Arial",sans-serif;mso-fareast-font-family:Arial;
 position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>PlacesOfCity:<span
-style='letter-spacing:.3pt'> </span></span></b><span lang=IT>è<span
-style='letter-spacing:.3pt'> </span>la<span style='letter-spacing:.25pt'> </span>componente<span
-style='letter-spacing:.3pt'> </span>che<span style='letter-spacing:.3pt'> </span>fornisce<span
-style='letter-spacing:.3pt'> </span>informazioni<span style='letter-spacing:
-.3pt'> </span>sui<span style='letter-spacing:.3pt'> </span>luoghi<span
-style='letter-spacing:.3pt'> </span>consigliati<span style='letter-spacing:
-.3pt'> </span>della<span style='letter-spacing:.3pt'> </span>città.<span
-style='letter-spacing:.3pt'> </span>Al<span style='letter-spacing:.3pt'> </span>suo<span
-style='letter-spacing:-2.9pt'> </span>interno<span style='letter-spacing:.2pt'>
-</span>fornisce<span style='letter-spacing:.25pt'> </span>i<span
-style='letter-spacing:.2pt'> </span>nomi<span style='letter-spacing:.25pt'> </span>delle<span
-style='letter-spacing:.2pt'> </span>attività,<span style='letter-spacing:.25pt'>
-</span>le<span style='letter-spacing:.2pt'> </span>coordinate<span
-style='letter-spacing:.25pt'> </span>per<span style='letter-spacing:.2pt'> </span>raggiungerle,<span
-style='letter-spacing:.25pt'> </span>orari<span style='letter-spacing:.25pt'> </span>di<span
-style='letter-spacing:.2pt'> </span>apertura<span style='letter-spacing:.25pt'>
-</span>e<span style='letter-spacing:.2pt'> </span>chiusura<span
-style='letter-spacing:.05pt'> </span>del<span style='letter-spacing:.3pt'> </span>luogo<span
-style='letter-spacing:.3pt'> </span>che<span style='letter-spacing:.3pt'> </span>fornisce<span
-style='letter-spacing:.3pt'> </span>l’attività<span style='letter-spacing:.3pt'>
-</span>indicata,<span style='letter-spacing:.3pt'> </span>il<span
-style='letter-spacing:.35pt'> </span>clima<span style='letter-spacing:.3pt'> </span>consigliato<span
-style='letter-spacing:.3pt'> </span>per<span style='letter-spacing:.3pt'> </span>svolgere<span
-style='letter-spacing:.3pt'> </span>tale<span style='letter-spacing:.3pt'> </span>attività<span
-style='letter-spacing:.35pt'> </span>ed<span style='letter-spacing:.3pt'> </span>il<span
-style='letter-spacing:.3pt'> </span>suo<span style='letter-spacing:.05pt'> </span>profilo<span
+lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>PlacesOfCity: </span></b><span lang=IT>è la componente che fornisce informazioni<span style='letter-spacing:
+.3pt'> </span>sui luoghi consigliati<span style='letter-spacing:
+.3pt'> </span>della città. Al suo interno fornisce i nomi delle attività, le coordinate per raggiungerle, orari di apertura e chiusura del luogo che fornisce l’attività<span style='letter-spacing:.3pt'>
+</span>indicata, il clima consigliato per svolgere tale attività ed il suo profilo<span
 style='letter-spacing:-.1pt'> </span>che<span style='letter-spacing:-.05pt'> </span>può<span
 style='letter-spacing:-.1pt'> </span>essere<span style='letter-spacing:-.05pt'>
 </span>uno<span style='letter-spacing:-.1pt'> </span>tra:<span
@@ -12442,33 +12247,11 @@ style='letter-spacing:-.05pt'> </span>si<span style='letter-spacing:-.05pt'> </s
 style='letter-spacing:-.1pt'> </span>visitare<span style='letter-spacing:-.05pt'>
 </span>musei<span style='letter-spacing:-.1pt'> </span>o<span style='letter-spacing:
 -.05pt'> </span>monumenti),<span style='letter-spacing:-.1pt'> </span>Adventure<span
-style='letter-spacing:-.05pt'> </span>(<span style='letter-spacing:-.1pt'> </span>per<span
-style='letter-spacing:-2.9pt'> </span>attività<span style='letter-spacing:.05pt'>
-</span>sportive<span style='letter-spacing:.1pt'> </span>o<span
-style='letter-spacing:.1pt'> </span>ricreative)<span style='letter-spacing:
-.1pt'> </span>o<span style='letter-spacing:.1pt'> </span>Tasty<span
-style='letter-spacing:.1pt'> </span>(per<span style='letter-spacing:.1pt'> </span>pub<span
-style='letter-spacing:.1pt'> </span>e<span style='letter-spacing:.1pt'> </span>ristoranti).<span
-style='letter-spacing:.1pt'> </span>Permette<span style='letter-spacing:.1pt'> </span>poi<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.1pt'> </span>registrazione<span
-style='letter-spacing:.05pt'> </span>dell’utente<span style='letter-spacing:
-.2pt'> </span>al<span style='letter-spacing:.25pt'> </span>sistema<span
-style='letter-spacing:.25pt'> </span>e<span style='letter-spacing:.25pt'> </span>quindi<span
-style='letter-spacing:.25pt'> </span>anche<span style='letter-spacing:.2pt'> </span>il<span
-style='letter-spacing:.25pt'> </span>servizio<span style='letter-spacing:.25pt'>
-</span>di<span style='letter-spacing:.25pt'> </span>login.<span
-style='letter-spacing:.25pt'> </span>Inoltre<span style='letter-spacing:.2pt'> </span>fornisce<span
-style='letter-spacing:.25pt'> </span>all’utente<span style='letter-spacing:
-.25pt'> </span>registrato<span style='letter-spacing:.25pt'> </span>di<span
-style='letter-spacing:.05pt'> </span>lasciare<span style='letter-spacing:.3pt'>
-</span>like<span style='letter-spacing:.3pt'> </span>e<span style='letter-spacing:
-.3pt'> </span>commenti<span style='letter-spacing:.3pt'> </span>ad<span
-style='letter-spacing:.3pt'> </span>ogni<span style='letter-spacing:.3pt'> </span>attività<span
-style='letter-spacing:.3pt'> </span>presente<span style='letter-spacing:.3pt'> </span>nell’elenco<span
-style='letter-spacing:.3pt'> </span>delle<span style='letter-spacing:.3pt'> </span>proposte<span
-style='letter-spacing:.3pt'> </span>del<span style='letter-spacing:.3pt'> </span>sistema.<span
-style='letter-spacing:.35pt'> </span>Questo<span style='letter-spacing:.05pt'> </span>servizio
-è fruibile tramite il<span style='letter-spacing:.05pt'> </span>protocollo di
+style='letter-spacing:-.05pt'> </span>(<span style='letter-spacing:-.1pt'> </span>per attività sportive o ricreative)<span style='letter-spacing:
+.1pt'> </span>o Tasty (per pub e ristoranti). Permette poi la registrazione dell’utente al sistema e quindi anche il servizio di login. Inoltre fornisce all’utente registrato di lasciare<span style='letter-spacing:.3pt'>
+</span>like e<span style='letter-spacing:
+.3pt'> </span>commenti ad ogni attività presente nell’elenco delle proposte del sistema. Questo servizio
+è fruibile tramite il protocollo di
 comunicazione SOAP.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
@@ -12480,22 +12263,9 @@ lang=IT style='font-family:"Arial",sans-serif;mso-fareast-font-family:Arial;
 position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>MapBOX:<span
-style='letter-spacing:.15pt'> </span></span></b><span lang=IT>è<span
-style='letter-spacing:.2pt'> </span>la<span style='letter-spacing:.2pt'> </span>componente<span
-style='letter-spacing:.2pt'> </span>che<span style='letter-spacing:.2pt'> </span>fornisce<span
-style='letter-spacing:.2pt'> </span>la<span style='letter-spacing:.2pt'> </span>comunicazione<span
-style='letter-spacing:.2pt'> </span>con<span style='letter-spacing:.2pt'> </span>le<span
-style='letter-spacing:.2pt'> </span>mappe<span style='letter-spacing:.2pt'> </span>e<span
-style='letter-spacing:.2pt'> </span>le<span style='letter-spacing:.2pt'> </span>funzionalità<span
-style='letter-spacing:.2pt'> </span>ad<span style='letter-spacing:-2.95pt'> </span>esse<span
-style='letter-spacing:.05pt'> </span>connesse<span style='letter-spacing:.1pt'>
-</span>(<span style='letter-spacing:.1pt'> </span>come<span style='letter-spacing:
-.1pt'> </span>geolocalizzazione,<span style='letter-spacing:.1pt'> </span>informazioni<span
-style='letter-spacing:.1pt'> </span>sui<span style='letter-spacing:.05pt'> </span>tempi<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.1pt'> </span>percorrenza,<span
-style='letter-spacing:.1pt'> </span>indicazioni<span style='letter-spacing:
-.05pt'> </span>stradali,<span style='letter-spacing:-.05pt'> </span>…).<span
+lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>MapBOX: </span></b><span lang=IT>è la componente che fornisce la comunicazione con le mappe e le funzionalità ad<span style='letter-spacing:-2.95pt'> </span>esse connesse<span style='letter-spacing:.1pt'>
+</span>( come<span style='letter-spacing:
+.1pt'> </span>geolocalizzazione, informazioni sui tempi di percorrenza, indicazioni stradali,<span style='letter-spacing:-.05pt'> </span>…).<span
 style='letter-spacing:-.05pt'> </span>Questo<span style='letter-spacing:-.05pt'>
 </span>servizio è<span style='letter-spacing:-.05pt'> </span>fruibile<span
 style='letter-spacing:-.05pt'> </span>tramite<span style='letter-spacing:-.05pt'>
@@ -12512,21 +12282,9 @@ position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Weather</span></b><span
-lang=IT>:<span style='letter-spacing:.05pt'> </span>è<span style='letter-spacing:
-.1pt'> </span>la<span style='letter-spacing:.1pt'> </span>componente<span
-style='letter-spacing:.1pt'> </span>che<span style='letter-spacing:.05pt'> </span>viene<span
-style='letter-spacing:.1pt'> </span>interrogata<span style='letter-spacing:
-.1pt'> </span>per<span style='letter-spacing:.1pt'> </span>la<span
-style='letter-spacing:.1pt'> </span>richiesta<span style='letter-spacing:.05pt'>
-</span>delle<span style='letter-spacing:.1pt'> </span>previsioni<span
-style='letter-spacing:.1pt'> </span>meteo<span style='letter-spacing:.1pt'> </span>della<span
-style='letter-spacing:-2.9pt'> </span>città in<span style='letter-spacing:.05pt'>
-</span>cui<span style='letter-spacing:.05pt'> </span>si<span style='letter-spacing:
-.05pt'> </span>trova<span style='letter-spacing:.05pt'> </span>l’utente.<span
-style='letter-spacing:.05pt'> </span>Questo<span style='letter-spacing:.05pt'> </span>servizio<span
-style='letter-spacing:.05pt'> </span>è<span style='letter-spacing:.05pt'> </span>fruibile<span
-style='letter-spacing:.05pt'> </span>tramite<span style='letter-spacing:.05pt'>
-</span>comunicazione REST.</span></p>
+lang=IT>: è<span style='letter-spacing:
+.1pt'> </span>la componente che viene interrogata<span style='letter-spacing:
+.1pt'> </span>per la richiesta delle previsioni meteo della città in cui si trova l’utente. Questo servizio è fruibile tramite comunicazione REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
 
@@ -12537,75 +12295,18 @@ lang=IT style='font-family:"Arial",sans-serif;mso-fareast-font-family:Arial;
 position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Travel<span
-style='letter-spacing:.1pt'> </span>Manager:<span style='letter-spacing:.1pt'> </span></span></b><span
-lang=IT>è<span style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:
-.1pt'> </span>Prosumer<span style='letter-spacing:.15pt'> </span>che<span
-style='letter-spacing:.1pt'> </span>gestisce<span style='letter-spacing:.1pt'> </span>le<span
-style='letter-spacing:.1pt'> </span>richieste<span style='letter-spacing:.1pt'>
-</span>fatte<span style='letter-spacing:.15pt'> </span>tramite<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.1pt'> </span>web<span
-style='letter-spacing:.1pt'> </span>Application,<span style='letter-spacing:
-.05pt'> </span>servendosi di servizi a lui esterni (Providers). Il servizio
-finale fornito dal prosumer, per quanto<span style='letter-spacing:.05pt'> </span>riguarda<span
-style='letter-spacing:.05pt'> </span>la<span style='letter-spacing:.1pt'> </span>parte<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.1pt'> </span>visualizzazione<span
-style='letter-spacing:.05pt'> </span>e<span style='letter-spacing:.1pt'> </span>di<span
-style='letter-spacing:.1pt'> </span>filtraggio<span style='letter-spacing:.1pt'>
-</span>dei<span style='letter-spacing:.05pt'> </span>servizi<span
-style='letter-spacing:.1pt'> </span>offerti<span style='letter-spacing:.1pt'> </span>in<span
-style='letter-spacing:.1pt'> </span>una<span style='letter-spacing:.05pt'> </span>città,<span
-style='letter-spacing:.1pt'> </span>è<span style='letter-spacing:.1pt'> </span>un<span
-style='letter-spacing:.1pt'> </span>elaborato<span style='letter-spacing:.05pt'>
-</span>dei<span style='letter-spacing:-2.9pt'> </span>servizi<span
-style='letter-spacing:.2pt'> </span>da<span style='letter-spacing:.25pt'> </span>lui<span
-style='letter-spacing:.25pt'> </span>consumati:<span style='letter-spacing:
-.25pt'> </span>condizioni<span style='letter-spacing:.25pt'> </span>meteorologiche,<span
-style='letter-spacing:.25pt'> </span>orario<span style='letter-spacing:.25pt'> </span>ed<span
-style='letter-spacing:.25pt'> </span>attività<span style='letter-spacing:.25pt'>
-</span>di<span style='letter-spacing:.25pt'> </span>una<span style='letter-spacing:
-.25pt'> </span>città<span style='letter-spacing:.25pt'> </span>vengono<span
-style='letter-spacing:.05pt'> </span>combinate<span style='letter-spacing:.1pt'>
-</span>per<span style='letter-spacing:.1pt'> </span>fornire<span
-style='letter-spacing:.15pt'> </span>un<span style='letter-spacing:.1pt'> </span>elenco<span
-style='letter-spacing:.1pt'> </span>delle<span style='letter-spacing:.15pt'> </span>attività<span
-style='letter-spacing:.1pt'> </span>da<span style='letter-spacing:.15pt'> </span>suggerire<span
-style='letter-spacing:.1pt'> </span>all’utente<span style='letter-spacing:.1pt'>
-</span>per<span style='letter-spacing:.15pt'> </span>visitare<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.15pt'> </span>città.<span
-style='letter-spacing:.1pt'> </span>Travel<span style='letter-spacing:.05pt'> </span>Manager<span
-style='letter-spacing:.15pt'> </span>fornisce<span style='letter-spacing:.2pt'>
-</span>inoltre<span style='letter-spacing:.2pt'> </span>delle<span
-style='letter-spacing:.2pt'> </span>REST<span style='letter-spacing:.15pt'> </span>API<span
-style='letter-spacing:.2pt'> </span>che<span style='letter-spacing:.2pt'> </span>permettono<span
-style='letter-spacing:.2pt'> </span>di<span style='letter-spacing:.2pt'> </span>consultare<span
-style='letter-spacing:.15pt'> </span>la<span style='letter-spacing:.2pt'> </span>mappa<span
-style='letter-spacing:.2pt'> </span>della<span style='letter-spacing:.2pt'> </span>città<span
-style='letter-spacing:.15pt'> </span>con<span style='letter-spacing:.05pt'> </span>le<span
-style='letter-spacing:.25pt'> </span>sue<span style='letter-spacing:.3pt'> </span>relative<span
-style='letter-spacing:.25pt'> </span>funzionalità,<span style='letter-spacing:
-.3pt'> </span>descritte<span style='letter-spacing:.25pt'> </span>in<span
-style='letter-spacing:.3pt'> </span>dettaglio<span style='letter-spacing:.3pt'>
-</span>precedentemente<span style='letter-spacing:.25pt'> </span>in<span
-style='letter-spacing:.3pt'> </span>MapBox.<span style='letter-spacing:.25pt'> </span>Lo<span
-style='letter-spacing:.3pt'> </span>stesso<span style='letter-spacing:.3pt'> </span>vale<span
-style='letter-spacing:.05pt'> </span>per<span style='letter-spacing:.2pt'> </span>i<span
-style='letter-spacing:.2pt'> </span>servizi<span style='letter-spacing:.2pt'> </span>di<span
-style='letter-spacing:.2pt'> </span>login,<span style='letter-spacing:.2pt'> </span>registrazione,<span
-style='letter-spacing:.2pt'> </span>like<span style='letter-spacing:.2pt'> </span>e<span
-style='letter-spacing:.2pt'> </span>commenti<span style='letter-spacing:.2pt'> </span>forniti<span
-style='letter-spacing:.2pt'> </span>e<span style='letter-spacing:.2pt'> </span>spiegati<span
-style='letter-spacing:.25pt'> </span>precedentemente<span style='letter-spacing:
-.2pt'> </span>in<span style='letter-spacing:.2pt'> </span>Places<span
-style='letter-spacing:.05pt'> </span>Of<span style='letter-spacing:.05pt'> </span>City.<span
-style='letter-spacing:.05pt'> </span>Per<span style='letter-spacing:.05pt'> </span>quanto<span
-style='letter-spacing:.1pt'> </span>riguarda<span style='letter-spacing:.05pt'>
-</span>invece<span style='letter-spacing:.05pt'> </span>la<span
-style='letter-spacing:.05pt'> </span>comunicazione,<span style='letter-spacing:
-.1pt'> </span>il<span style='letter-spacing:.05pt'> </span>prosumer<span
-style='letter-spacing:.05pt'> </span>utilizza<span style='letter-spacing:.1pt'>
-</span>sia<span style='letter-spacing:.05pt'> </span>la<span style='letter-spacing:
-.05pt'> </span>comunicazione<span style='letter-spacing:.05pt'> </span>SOAP<span
+lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Travel Manager: </span></b><span
+lang=IT>è il<span style='letter-spacing:
+.1pt'> </span>Prosumer<span style='letter-spacing:.15pt'> </span>che gestisce le richieste<span style='letter-spacing:.1pt'>
+</span>fatte<span style='letter-spacing:.15pt'> </span>tramite la web Application, servendosi di servizi a lui esterni (Providers). Il servizio
+finale fornito dal prosumer, per quanto riguarda la parte di visualizzazione e di filtraggio<span style='letter-spacing:.1pt'>
+</span>dei servizi offerti in una città, è un elaborato dei servizi da lui consumati: condizioni meteorologiche, orario ed attività di una città vengono combinate<span style='letter-spacing:.1pt'>
+</span>per fornire un elenco delle<span style='letter-spacing:.15pt'> </span>attività da<span style='letter-spacing:.15pt'> </span>suggerire all’utente<span style='letter-spacing:.1pt'>
+</span>per<span style='letter-spacing:.15pt'> </span>visitare la<span style='letter-spacing:.15pt'> </span>città. Travel Manager fornisce inoltre delle REST<span style='letter-spacing:.15pt'> </span>API che permettono di consultare la mappa della città con le sue relative funzionalità,<span style='letter-spacing:
+.3pt'> </span>descritte in dettaglio<span style='letter-spacing:.3pt'>
+</span>precedentemente in MapBox. Lo stesso vale per i servizi di login, registrazione, like e commenti forniti e spiegati precedentemente in Places Of City. Per quanto riguarda invece la comunicazione,<span style='letter-spacing:
+.1pt'> </span>il prosumer utilizza<span style='letter-spacing:.1pt'>
+</span>sia la comunicazione SOAP<span
 style='letter-spacing:-.1pt'> </span>(<span style='letter-spacing:-.05pt'> </span>per<span
 style='letter-spacing:-.1pt'> </span>comunicare<span style='letter-spacing:
 -.05pt'> </span>con<span style='letter-spacing:-.05pt'> </span>il<span
@@ -12619,11 +12320,8 @@ style='letter-spacing:-.1pt'> </span>quella<span style='letter-spacing:-.05pt'>
 </span>REST</span></p>
 
 <p class=MsoBodyText style='margin-left:55.0pt;line-height:12.2pt;mso-line-height-rule:
-exactly'><span lang=IT>( con i<span style='letter-spacing:.05pt'> </span>due
-Provider<span style='letter-spacing:.05pt'> </span>Weather e<span
-style='letter-spacing:.05pt'> </span>Map Box,<span style='letter-spacing:.05pt'>
-</span>e con<span style='letter-spacing:.05pt'> </span>la Web<span
-style='letter-spacing:.05pt'> </span>Application Beatrice ).</span></p>
+exactly'><span lang=IT>( con i due
+Provider Weather e Map Box, e con la Web Application Beatrice ).</span></p>
 
 <p class=MsoBodyText style='margin-top:.25pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
 
@@ -12634,89 +12332,16 @@ lang=IT style='font-family:"Arial",sans-serif;mso-fareast-font-family:Arial;
 position:relative;top:.5pt;mso-text-raise:-.5pt;mso-font-width:99%;mso-bidi-font-weight:
 bold'><span style='mso-list:Ignore'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Loadbalancer<span
-style='letter-spacing:.15pt'> </span>:<span style='letter-spacing:.2pt'> </span></span></b><span
-lang=IT>è<span style='letter-spacing:.2pt'> </span>una<span style='letter-spacing:
-.2pt'> </span>componente<span style='letter-spacing:.2pt'> </span>che<span
-style='letter-spacing:.2pt'> </span>gestisce<span style='letter-spacing:.15pt'>
-</span>il<span style='letter-spacing:.2pt'> </span>carico<span
-style='letter-spacing:.2pt'> </span>di<span style='letter-spacing:.2pt'> </span>lavoro<span
-style='letter-spacing:.2pt'> </span>tramite<span style='letter-spacing:.2pt'> </span>un<span
-style='letter-spacing:.2pt'> </span>algoritmo<span style='letter-spacing:.15pt'>
-</span>di<span style='letter-spacing:.05pt'> </span>scheduling<span
-style='letter-spacing:.4pt'> </span>di<span style='letter-spacing:.45pt'> </span>tipo<span
-style='letter-spacing:.45pt'> </span>round<span style='letter-spacing:.45pt'> </span>robin:<span
-style='letter-spacing:.45pt'> </span>quando<span style='letter-spacing:.45pt'> </span>viene<span
-style='letter-spacing:.4pt'> </span>fatta<span style='letter-spacing:.45pt'> </span>una<span
-style='letter-spacing:.45pt'> </span>richiesta<span style='letter-spacing:.45pt'>
-</span>al<span style='letter-spacing:.45pt'> </span>prosumer<span
-style='letter-spacing:.45pt'> </span>quest’ultimo<span style='letter-spacing:
-.45pt'> </span>invoca<span style='letter-spacing:-2.95pt'> </span>il<span
-style='letter-spacing:.05pt'> </span>Loadbalancer<span style='letter-spacing:
-.1pt'> </span>per<span style='letter-spacing:.1pt'> </span>richiedere<span
-style='letter-spacing:.1pt'> </span>l’indirizzo<span style='letter-spacing:
-.1pt'> </span>di<span style='letter-spacing:.05pt'> </span>connessione<span
-style='letter-spacing:.1pt'> </span>ad<span style='letter-spacing:.1pt'> </span>uno<span
-style='letter-spacing:.1pt'> </span>dei<span style='letter-spacing:.1pt'> </span>server<span
-style='letter-spacing:.05pt'> </span>di<span style='letter-spacing:.1pt'> </span>Place<span
-style='letter-spacing:.1pt'> </span>Of<span style='letter-spacing:.1pt'> </span>City.<span
-style='letter-spacing:.1pt'> </span>Il<span style='letter-spacing:.05pt'> </span>Loadbalancer<span
-style='letter-spacing:.1pt'> </span>restituisce<span style='letter-spacing:
-.1pt'> </span>un<span style='letter-spacing:.1pt'> </span>indirizzo<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.1pt'> </span>connessione<span
-style='letter-spacing:.1pt'> </span>al<span style='letter-spacing:.1pt'> </span>servizio<span
-style='letter-spacing:.15pt'> </span>a<span style='letter-spacing:.1pt'> </span>seconda<span
-style='letter-spacing:.1pt'> </span>del<span style='letter-spacing:.1pt'> </span>numero<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.05pt'> </span>connessioni<span
-style='letter-spacing:.1pt'> </span>che<span style='letter-spacing:.15pt'> </span>ha<span
-style='letter-spacing:.15pt'> </span>assegnato<span style='letter-spacing:.15pt'>
-</span>in<span style='letter-spacing:.1pt'> </span>un<span style='letter-spacing:
-.15pt'> </span>certo<span style='letter-spacing:.15pt'> </span>intervallo<span
-style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:.15pt'> </span>tempo<span
-style='letter-spacing:.1pt'> </span>e<span style='letter-spacing:.15pt'> </span>a<span
-style='letter-spacing:.15pt'> </span>seconda<span style='letter-spacing:.15pt'>
-</span>del<span style='letter-spacing:.15pt'> </span>numero<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.05pt'> </span>connessioni<span
-style='letter-spacing:.2pt'> </span>che<span style='letter-spacing:.25pt'> </span>questo<span
-style='letter-spacing:.2pt'> </span>supporta.<span style='letter-spacing:.2pt'>
-</span>Di<span style='letter-spacing:.25pt'> </span>conseguenza,<span
-style='letter-spacing:.2pt'> </span>nel<span style='letter-spacing:.25pt'> </span>momento<span
-style='letter-spacing:.2pt'> </span>in<span style='letter-spacing:.25pt'> </span>cui<span
-style='letter-spacing:.2pt'> </span>ad<span style='letter-spacing:.25pt'> </span>un<span
-style='letter-spacing:.2pt'> </span>server<span style='letter-spacing:.25pt'> </span>vengono<span
-style='letter-spacing:.05pt'> </span>assegnate<span style='letter-spacing:.1pt'>
-</span>un<span style='letter-spacing:.15pt'> </span>numero<span
-style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:.15pt'> </span>richieste<span
-style='letter-spacing:.15pt'> </span>pari<span style='letter-spacing:.15pt'> </span>a<span
-style='letter-spacing:.15pt'> </span>quello<span style='letter-spacing:.15pt'> </span>massimo<span
-style='letter-spacing:.15pt'> </span>che<span style='letter-spacing:.1pt'> </span>può<span
-style='letter-spacing:.15pt'> </span>supportare<span style='letter-spacing:
-.15pt'> </span>(<span style='letter-spacing:.15pt'> </span>numero<span
-style='letter-spacing:.15pt'> </span>scelto<span style='letter-spacing:.05pt'> </span>nell’algoritmo<span
-style='letter-spacing:.25pt'> </span>di<span style='letter-spacing:.3pt'> </span>balancing<span
-style='letter-spacing:.3pt'> </span>)<span style='letter-spacing:.3pt'> </span>in<span
-style='letter-spacing:.3pt'> </span>un<span style='letter-spacing:.3pt'> </span>determinato<span
-style='letter-spacing:.3pt'> </span>intervallo<span style='letter-spacing:.3pt'>
-</span>di<span style='letter-spacing:.3pt'> </span>tempo,<span
-style='letter-spacing:.3pt'> </span>il<span style='letter-spacing:.3pt'> </span>Loadbalancer<span
-style='letter-spacing:.3pt'> </span>verificherà<span style='letter-spacing:
-.3pt'> </span>la<span style='letter-spacing:.05pt'> </span>possibilità<span
-style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:.15pt'> </span>passare<span
-style='letter-spacing:.2pt'> </span>la<span style='letter-spacing:.15pt'> </span>richiesta<span
-style='letter-spacing:.15pt'> </span>al<span style='letter-spacing:.2pt'> </span>server<span
-style='letter-spacing:.15pt'> </span>successivo<span style='letter-spacing:
-.15pt'> </span>nella<span style='letter-spacing:.2pt'> </span>lista<span
-style='letter-spacing:.15pt'> </span>dei<span style='letter-spacing:.15pt'> </span>server<span
-style='letter-spacing:.2pt'> </span>disponibili,<span style='letter-spacing:
-.15pt'> </span>tramite<span style='letter-spacing:.05pt'> </span>l’algoritmo<span
-style='letter-spacing:.25pt'> </span>di<span style='letter-spacing:.3pt'> </span>Round<span
-style='letter-spacing:.25pt'> </span>Robin,<span style='letter-spacing:.3pt'> </span>fino<span
-style='letter-spacing:.25pt'> </span>a<span style='letter-spacing:.3pt'> </span>trovare<span
-style='letter-spacing:.3pt'> </span>il<span style='letter-spacing:.25pt'> </span>primo<span
-style='letter-spacing:.3pt'> </span>server<span style='letter-spacing:.25pt'> </span>disponibile.<span
-style='letter-spacing:.3pt'> </span>L’interrogazione<span style='letter-spacing:
-.3pt'> </span>viene<span style='letter-spacing:.25pt'> </span>fatta<span
-style='letter-spacing:-2.9pt'> </span>dal<span style='letter-spacing:-.05pt'> </span>Prosumer
+lang=IT style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Arial MT"'>Loadbalancer : </span></b><span
+lang=IT>è una componente che gestisce il carico di lavoro tramite un algoritmo di scheduling di tipo round robin: quando viene fatta una richiesta al prosumer quest’ultimo<span style='letter-spacing:
+.45pt'> </span>invoca<span style='letter-spacing:-2.95pt'> </span>il Loadbalancer<span style='letter-spacing:
+.1pt'> </span>per richiedere l’indirizzo<span style='letter-spacing:
+.1pt'> </span>di connessione ad uno dei server di Place Of City. Il Loadbalancer restituisce<span style='letter-spacing:
+.1pt'> </span>un indirizzo di connessione al servizio a seconda del numero di connessioni che<span style='letter-spacing:.15pt'> </span>ha assegnato in un certo<span style='letter-spacing:.15pt'> </span>intervallo di<span style='letter-spacing:.15pt'> </span>tempo e<span style='letter-spacing:.15pt'> </span>a seconda del<span style='letter-spacing:.15pt'> </span>numero di connessioni che questo supporta. Di conseguenza, nel momento in cui ad un server vengono assegnate<span style='letter-spacing:.1pt'>
+</span>un<span style='letter-spacing:.15pt'> </span>numero di<span style='letter-spacing:.15pt'> </span>richieste pari<span style='letter-spacing:.15pt'> </span>a quello<span style='letter-spacing:.15pt'> </span>massimo che può supportare (<span style='letter-spacing:.15pt'> </span>numero scelto nell’algoritmo di balancing ) in un determinato intervallo<span style='letter-spacing:.3pt'>
+</span>di tempo, il Loadbalancer verificherà<span style='letter-spacing:
+.3pt'> </span>la possibilità di<span style='letter-spacing:.15pt'> </span>passare la<span style='letter-spacing:.15pt'> </span>richiesta al server successivo nella lista dei<span style='letter-spacing:.15pt'> </span>server disponibili, tramite l’algoritmo di Round Robin, fino a trovare il primo server disponibile. L’interrogazione<span style='letter-spacing:
+.3pt'> </span>viene fatta dal<span style='letter-spacing:-.05pt'> </span>Prosumer
 al<span style='letter-spacing:-.05pt'> </span>Loadbalancer tramite<span
 style='letter-spacing:-.05pt'> </span>chiamate SOAP.</span></p>
 
@@ -12733,23 +12358,8 @@ style='page-break-before:always;mso-break-type:section-break'>
 <h1 style='line-height:12.3pt;mso-line-height-rule:exactly'><span lang=IT>DIAGRAMMI</span></h1>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Questa<span
-style='letter-spacing:.35pt'> </span>sezione<span style='letter-spacing:.35pt'>
-</span>mostra<span style='letter-spacing:.35pt'> </span>lo<span
-style='letter-spacing:.4pt'> </span>studio<span style='letter-spacing:.35pt'> </span>dinamico<span
-style='letter-spacing:.35pt'> </span>del<span style='letter-spacing:.35pt'> </span>sistema<span
-style='letter-spacing:.4pt'> </span>rappresentato<span style='letter-spacing:
-.35pt'> </span>tramite<span style='letter-spacing:.35pt'> </span>sequence<span
-style='letter-spacing:.35pt'> </span>diagrams.<span style='letter-spacing:.05pt'>
-</span>Forniamo<span style='letter-spacing:.2pt'> </span>quindi<span
-style='letter-spacing:.2pt'> </span>di<span style='letter-spacing:.2pt'> </span>seguito<span
-style='letter-spacing:.2pt'> </span>8<span style='letter-spacing:.2pt'> </span>sequence<span
-style='letter-spacing:.25pt'> </span>Diagrams<span style='letter-spacing:.2pt'>
-</span>che<span style='letter-spacing:.2pt'> </span>rappresentano<span
-style='letter-spacing:.2pt'> </span>tutte<span style='letter-spacing:.2pt'> </span>le<span
-style='letter-spacing:.25pt'> </span>azioni<span style='letter-spacing:.2pt'> </span>che<span
-style='letter-spacing:.2pt'> </span>è<span style='letter-spacing:.2pt'> </span>possibile<span
-style='letter-spacing:-2.9pt'> </span>compiere con l’applicazione.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Questa sezione mostra lo studio dinamico del sistema rappresentato<span style='letter-spacing:
+.35pt'> </span>tramite sequence diagrams. Forniamo quindi di seguito 8 sequence Diagrams che rappresentano tutte le azioni che è possibile compiere con l’applicazione.</span></p>
 
 <p class=MsoListParagraph style='margin-top:11.45pt;margin-right:0cm;
 margin-bottom:0cm;margin-left:64.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;
@@ -12759,16 +12369,8 @@ Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
 lang=IT>REGISTER</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una<span
-style='letter-spacing:.05pt'> </span>volta<span style='letter-spacing:.1pt'> </span>che<span
-style='letter-spacing:.1pt'> </span>l’utente<span style='letter-spacing:.1pt'> </span>inserisce<span
-style='letter-spacing:.1pt'> </span>le<span style='letter-spacing:.1pt'> </span>credenziali<span
-style='letter-spacing:.1pt'> </span>per<span style='letter-spacing:.1pt'> </span>registrarsi<span
-style='letter-spacing:.1pt'> </span>al<span style='letter-spacing:.1pt'> </span>sistema,<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>client<span
-style='letter-spacing:.05pt'> </span>Beatrice<span style='letter-spacing:.1pt'>
-</span>le<span style='letter-spacing:.1pt'> </span>invia,<span
-style='letter-spacing:.05pt'> </span>tramite<span style='letter-spacing:-.2pt'>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta che l’utente inserisce le credenziali per registrarsi al sistema, il client Beatrice<span style='letter-spacing:.1pt'>
+</span>le invia, tramite<span style='letter-spacing:-.2pt'>
 </span>chiamata<span style='letter-spacing:-.2pt'> </span>REST,<span
 style='letter-spacing:-.2pt'> </span>a<span style='letter-spacing:-.2pt'> </span>Travel<span
 style='letter-spacing:-.2pt'> </span>Manager<span style='letter-spacing:-.2pt'>
@@ -12776,13 +12378,9 @@ style='letter-spacing:-.2pt'> </span>Manager<span style='letter-spacing:-.2pt'>
 style='letter-spacing:-.2pt'> </span>chiederà<span style='letter-spacing:-.2pt'>
 </span>quindi<span style='letter-spacing:-.2pt'> </span>al<span
 style='letter-spacing:-.2pt'> </span>Loadbalancer<span style='letter-spacing:
--.2pt'> </span>l’indirizzo<span style='letter-spacing:-2.9pt'> </span>del
-provider<span style='letter-spacing:.05pt'> </span>a cui<span style='letter-spacing:
-.05pt'> </span>fare richiesta.<span style='letter-spacing:.05pt'> </span>Fornitogli
-l’indirizzo,<span style='letter-spacing:.05pt'> </span>Travel<span
-style='letter-spacing:.05pt'> </span>Manager invierà<span style='letter-spacing:
-.05pt'> </span>la richiesta<span style='letter-spacing:.05pt'> </span>di<span
-style='letter-spacing:.05pt'> </span>registrazione,<span style='letter-spacing:
+-.2pt'> </span>l’indirizzo del
+provider a cui fare richiesta. Fornitogli
+l’indirizzo, Travel Manager invierà la richiesta di registrazione,<span style='letter-spacing:
 -.05pt'> </span>tramite<span style='letter-spacing:-.05pt'> </span>SOAP, ad<span
 style='letter-spacing:-.05pt'> </span>uno dei<span style='letter-spacing:-.05pt'>
 </span>server<span style='letter-spacing:-.05pt'> </span>su cui<span
@@ -12791,65 +12389,16 @@ style='letter-spacing:-.05pt'> </span>è disponibile<span style='letter-spacing:
 style='letter-spacing:-.05pt'> </span>of</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.75pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>City<span
-style='letter-spacing:.35pt'> </span>.Successivamente<span style='letter-spacing:
-.4pt'> </span>il<span style='letter-spacing:.4pt'> </span>provider<span
-style='letter-spacing:.4pt'> </span>controllerà<span style='letter-spacing:
-.4pt'> </span>se<span style='letter-spacing:.4pt'> </span>le<span
-style='letter-spacing:.4pt'> </span>credenziali<span style='letter-spacing:
-.4pt'> </span>precedentemente<span style='letter-spacing:.4pt'> </span>fornite<span
-style='letter-spacing:.4pt'> </span>dall'utente<span style='letter-spacing:
-.05pt'> </span>sono<span style='letter-spacing:.25pt'> </span>già<span
-style='letter-spacing:.3pt'> </span>esistenti:<span style='letter-spacing:.3pt'>
-</span>se<span style='letter-spacing:.3pt'> </span>così<span style='letter-spacing:
-.3pt'> </span>fosse<span style='letter-spacing:.3pt'> </span>lo<span
-style='letter-spacing:.3pt'> </span>comunicherebbe<span style='letter-spacing:
-.3pt'> </span>al<span style='letter-spacing:.25pt'> </span>prosumer<span
-style='letter-spacing:.3pt'> </span>che,<span style='letter-spacing:.3pt'> </span>a<span
-style='letter-spacing:.3pt'> </span>sua<span style='letter-spacing:.3pt'> </span>volta,<span
-style='letter-spacing:.05pt'> </span>comunicherebbe<span style='letter-spacing:
-.3pt'> </span>al<span style='letter-spacing:.35pt'> </span>client<span
-style='letter-spacing:.35pt'> </span>l’impossibilità<span style='letter-spacing:
-.35pt'> </span>di<span style='letter-spacing:.35pt'> </span>effettuare<span
-style='letter-spacing:.35pt'> </span>la<span style='letter-spacing:.3pt'> </span>registrazione<span
-style='letter-spacing:.35pt'> </span>con<span style='letter-spacing:.35pt'> </span>quelle<span
-style='letter-spacing:.35pt'> </span>credenziali<span style='letter-spacing:
-.35pt'> </span>perché<span style='letter-spacing:.05pt'> </span>già<span
-style='letter-spacing:.05pt'> </span>esistenti.<span style='letter-spacing:
-.1pt'> </span>Similmente,<span style='letter-spacing:.1pt'> </span>quando<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.05pt'> </span>registrazione<span
-style='letter-spacing:.1pt'> </span>va<span style='letter-spacing:.1pt'> </span>a<span
-style='letter-spacing:.1pt'> </span>buon<span style='letter-spacing:.1pt'> </span>fine,<span
-style='letter-spacing:.05pt'> </span>per<span style='letter-spacing:.1pt'> </span>prima<span
-style='letter-spacing:.1pt'> </span>cosa<span style='letter-spacing:.1pt'> </span>il<span
-style='letter-spacing:.1pt'> </span>provider<span style='letter-spacing:.05pt'>
-</span>genera<span style='letter-spacing:-2.9pt'> </span>un token<span
-style='letter-spacing:.05pt'> </span>(<span style='letter-spacing:.05pt'> </span>o<span
-style='letter-spacing:.05pt'> </span>userKey<span style='letter-spacing:.05pt'>
-</span>)<span style='letter-spacing:.05pt'> </span>identificativo<span
-style='letter-spacing:.05pt'> </span>relativo<span style='letter-spacing:.05pt'>
-</span>all’utente<span style='letter-spacing:.05pt'> </span>che<span
-style='letter-spacing:.05pt'> </span>si<span style='letter-spacing:.05pt'> </span>è<span
-style='letter-spacing:.05pt'> </span>appena<span style='letter-spacing:.05pt'> </span>registrato<span
-style='letter-spacing:.05pt'> </span>e<span style='letter-spacing:.05pt'> </span>lo<span
-style='letter-spacing:.05pt'> </span>salva<span style='letter-spacing:.05pt'> </span>nel<span
-style='letter-spacing:.05pt'> </span>database<span style='letter-spacing:.25pt'>
-</span>associandolo<span style='letter-spacing:.3pt'> </span>a<span
-style='letter-spacing:.25pt'> </span>quell’utente,<span style='letter-spacing:
-.3pt'> </span>poi<span style='letter-spacing:.25pt'> </span>comunica<span
-style='letter-spacing:.3pt'> </span>tramite<span style='letter-spacing:.3pt'> </span>SOAP<span
-style='letter-spacing:.25pt'> </span>con<span style='letter-spacing:.3pt'> </span>il<span
-style='letter-spacing:.25pt'> </span>prosumer<span style='letter-spacing:.3pt'>
-</span>l’avvenuta<span style='letter-spacing:.05pt'> </span>registrazione.<span
-style='letter-spacing:.1pt'> </span>Una<span style='letter-spacing:.1pt'> </span>volta<span
-style='letter-spacing:.1pt'> </span>che<span style='letter-spacing:.1pt'> </span>il<span
-style='letter-spacing:.1pt'> </span>prosumer<span style='letter-spacing:.1pt'> </span>sa<span
-style='letter-spacing:.1pt'> </span>l’esito<span style='letter-spacing:.1pt'> </span>della<span
-style='letter-spacing:.1pt'> </span>registrazione,<span style='letter-spacing:
-.15pt'> </span>che<span style='letter-spacing:.1pt'> </span>sia<span
-style='letter-spacing:.1pt'> </span>andata<span style='letter-spacing:.1pt'> </span>a<span
-style='letter-spacing:.1pt'> </span>buon<span style='letter-spacing:.1pt'> </span>fine<span
-style='letter-spacing:.1pt'> </span>o<span style='letter-spacing:-2.9pt'> </span>meno,<span
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>City .Successivamente il provider controllerà se le credenziali precedentemente fornite dall'utente sono già esistenti:<span style='letter-spacing:.3pt'>
+</span>se così<span style='letter-spacing:
+.3pt'> </span>fosse lo comunicherebbe<span style='letter-spacing:
+.3pt'> </span>al prosumer che, a sua volta, comunicherebbe<span style='letter-spacing:
+.3pt'> </span>al client l’impossibilità<span style='letter-spacing:
+.35pt'> </span>di effettuare la registrazione con quelle credenziali<span style='letter-spacing:
+.35pt'> </span>perché già esistenti.<span style='letter-spacing:
+.1pt'> </span>Similmente, quando la registrazione va a buon fine, per prima cosa il provider genera un token ( o userKey ) identificativo relativo all’utente che si è appena registrato e lo salva nel database associandolo a quell’utente,<span style='letter-spacing:
+.3pt'> </span>poi comunica tramite SOAP con il prosumer<span style='letter-spacing:.3pt'>
+</span>l’avvenuta registrazione. Una volta che il prosumer sa l’esito della registrazione, che sia andata a buon fine o meno,<span
 style='letter-spacing:-.05pt'> </span>lo comunica al client tramite il REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:.45pt'>
@@ -12886,31 +12435,10 @@ lang=IT>LOGIN</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:58.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Illustriamo
-qui<span style='letter-spacing:.05pt'> </span>il<span style='letter-spacing:
-.05pt'> </span>servizio di<span style='letter-spacing:.05pt'> </span>Login.<span
-style='letter-spacing:.05pt'> </span>L’utente fornisce<span style='letter-spacing:
-.05pt'> </span>le<span style='letter-spacing:.05pt'> </span>sue credenziali<span
-style='letter-spacing:.05pt'> </span>(<span style='letter-spacing:.05pt'> </span>email<span
-style='letter-spacing:.05pt'> </span>e password<span style='letter-spacing:
-.05pt'> </span>)<span style='letter-spacing:.05pt'> </span>per<span
-style='letter-spacing:.05pt'> </span>effettuare<span style='letter-spacing:
-.05pt'> </span>l’accesso<span style='letter-spacing:.1pt'> </span>tramite<span
-style='letter-spacing:.05pt'> </span>il<span style='letter-spacing:.1pt'> </span>client<span
-style='letter-spacing:.05pt'> </span>Beatrice<span style='letter-spacing:.1pt'>
-</span>che<span style='letter-spacing:.05pt'> </span>le<span style='letter-spacing:
-.1pt'> </span>invia,<span style='letter-spacing:.05pt'> </span>sotto<span
-style='letter-spacing:.1pt'> </span>forma<span style='letter-spacing:.05pt'> </span>di<span
-style='letter-spacing:.1pt'> </span>richiesta<span style='letter-spacing:.05pt'>
-</span>REST,<span style='letter-spacing:.1pt'> </span>al<span style='letter-spacing:
-.05pt'> </span>prosumer.<span style='letter-spacing:.1pt'> </span>Poi<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>prosumer<span
-style='letter-spacing:.15pt'> </span>chiede<span style='letter-spacing:.1pt'> </span>al<span
-style='letter-spacing:.1pt'> </span>Loadbalancer<span style='letter-spacing:
-.1pt'> </span>l’indirizzo<span style='letter-spacing:.15pt'> </span>del<span
-style='letter-spacing:.1pt'> </span>provider<span style='letter-spacing:.1pt'> </span>a<span
-style='letter-spacing:.15pt'> </span>cui<span style='letter-spacing:.1pt'> </span>fare<span
-style='letter-spacing:.1pt'> </span>richiesta.<span style='letter-spacing:.05pt'>
-</span>Fornitogli<span style='letter-spacing:-.2pt'> </span>l’indirizzo,<span
+qui il servizio di Login. L’utente fornisce le sue credenziali ( email e password ) per effettuare l’accesso tramite il client Beatrice<span style='letter-spacing:.1pt'>
+</span>che le<span style='letter-spacing:
+.1pt'> </span>invia, sotto forma di richiesta REST, al prosumer. Poi il prosumer chiede al Loadbalancer<span style='letter-spacing:
+.1pt'> </span>l’indirizzo<span style='letter-spacing:.15pt'> </span>del provider a cui fare richiesta. Fornitogli<span style='letter-spacing:-.2pt'> </span>l’indirizzo,<span
 style='letter-spacing:-.2pt'> </span>Travel<span style='letter-spacing:-.15pt'>
 </span>Manager<span style='letter-spacing:-.2pt'> </span>invierà<span
 style='letter-spacing:-.2pt'> </span>la<span style='letter-spacing:-.15pt'> </span>richiesta<span
@@ -12919,22 +12447,8 @@ style='letter-spacing:-.15pt'> </span>tramite<span style='letter-spacing:-.2pt'>
 </span>SOAP,<span style='letter-spacing:-.2pt'> </span>ad<span
 style='letter-spacing:-.15pt'> </span>uno<span style='letter-spacing:-.2pt'> </span>dei<span
 style='letter-spacing:-.15pt'> </span>server<span style='letter-spacing:-2.95pt'>
-</span>su cui<span style='letter-spacing:.05pt'> </span>è<span
-style='letter-spacing:.05pt'> </span>disponibile il<span style='letter-spacing:
-.05pt'> </span>servizio<span style='letter-spacing:.05pt'> </span>Place<span
-style='letter-spacing:.05pt'> </span>of City.<span style='letter-spacing:.05pt'>
-</span>Ricevute<span style='letter-spacing:.05pt'> </span>la<span
-style='letter-spacing:.05pt'> </span>richiesta, il<span style='letter-spacing:
-.05pt'> </span>provider<span style='letter-spacing:.05pt'> </span>recupererà<span
-style='letter-spacing:.05pt'> </span>le<span style='letter-spacing:.05pt'> </span>informazioni<span
-style='letter-spacing:.1pt'> </span>dell’utente<span style='letter-spacing:
-.15pt'> </span>dal<span style='letter-spacing:.15pt'> </span>Data<span
-style='letter-spacing:.15pt'> </span>Base.<span style='letter-spacing:.15pt'> </span>La<span
-style='letter-spacing:.15pt'> </span>risposta<span style='letter-spacing:.1pt'>
-</span>della<span style='letter-spacing:.15pt'> </span>base<span
-style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:.15pt'> </span>dati<span
-style='letter-spacing:.15pt'> </span>viene<span style='letter-spacing:.15pt'> </span>comunicata<span
-style='letter-spacing:.1pt'> </span>al<span style='letter-spacing:.05pt'> </span>prosumer<span
+</span>su cui è disponibile il servizio Place of City. Ricevute la richiesta, il provider recupererà le informazioni dell’utente dal<span style='letter-spacing:.15pt'> </span>Data Base.<span style='letter-spacing:.15pt'> </span>La risposta<span style='letter-spacing:.1pt'>
+</span>della<span style='letter-spacing:.15pt'> </span>base di<span style='letter-spacing:.15pt'> </span>dati viene<span style='letter-spacing:.15pt'> </span>comunicata al prosumer<span
 style='letter-spacing:-.1pt'> </span>sempre<span style='letter-spacing:-.05pt'>
 </span>tramite<span style='letter-spacing:-.05pt'> </span>SOAP,<span
 style='letter-spacing:-.05pt'> </span>ed<span style='letter-spacing:-.05pt'> </span>infine<span
@@ -12943,56 +12457,16 @@ style='letter-spacing:-.05pt'> </span>tramite<span style='letter-spacing:-.05pt'
 </span>REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se<span
-style='letter-spacing:.15pt'> </span>le<span style='letter-spacing:.15pt'> </span>credenziali<span
-style='letter-spacing:.15pt'> </span>inserite<span style='letter-spacing:.15pt'>
-</span>risulteranno<span style='letter-spacing:.15pt'> </span>corrette,<span
-style='letter-spacing:.2pt'> </span>l’utente<span style='letter-spacing:.15pt'>
-</span>riuscirà<span style='letter-spacing:.15pt'> </span>ad<span
-style='letter-spacing:.15pt'> </span>effettuare<span style='letter-spacing:
-.15pt'> </span>l’accesso<span style='letter-spacing:.2pt'> </span>alla<span
-style='letter-spacing:.15pt'> </span>web<span style='letter-spacing:.05pt'> </span>application<span
-style='letter-spacing:.15pt'> </span>e<span style='letter-spacing:.15pt'> </span>gli<span
-style='letter-spacing:.2pt'> </span>verrà<span style='letter-spacing:.15pt'> </span>restituito<span
-style='letter-spacing:.2pt'> </span>il<span style='letter-spacing:.15pt'> </span>suo<span
-style='letter-spacing:.2pt'> </span>token<span style='letter-spacing:.15pt'> </span>(<span
-style='letter-spacing:.2pt'> </span>o<span style='letter-spacing:.15pt'> </span>userKey<span
-style='letter-spacing:.2pt'> </span>)<span style='letter-spacing:.15pt'> </span>identificativo<span
-style='letter-spacing:.2pt'> </span>con<span style='letter-spacing:.15pt'> </span>il<span
-style='letter-spacing:.2pt'> </span>quale<span style='letter-spacing:.15pt'> </span>potrà<span
-style='letter-spacing:.2pt'> </span>effettuare<span style='letter-spacing:-2.9pt'>
-</span>tutte le<span style='letter-spacing:.05pt'> </span>richieste<span
-style='letter-spacing:.05pt'> </span>che<span style='letter-spacing:.05pt'> </span>chiedono
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se le<span style='letter-spacing:.15pt'> </span>credenziali inserite risulteranno<span style='letter-spacing:.15pt'> </span>corrette, l’utente riuscirà<span style='letter-spacing:.15pt'> </span>ad effettuare l’accesso alla web application e<span style='letter-spacing:.15pt'> </span>gli verrà<span style='letter-spacing:.15pt'> </span>restituito il<span style='letter-spacing:.15pt'> </span>suo token<span style='letter-spacing:.15pt'> </span>( o<span style='letter-spacing:.15pt'> </span>userKey )<span style='letter-spacing:.15pt'> </span>identificativo con<span style='letter-spacing:.15pt'> </span>il quale<span style='letter-spacing:.15pt'> </span>potrà effettuare<span style='letter-spacing:-2.9pt'>
+</span>tutte le richieste che chiedono
 l’autenticazione.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Nel<span
-style='letter-spacing:.05pt'> </span>caso<span style='letter-spacing:.05pt'> </span>in<span
-style='letter-spacing:.05pt'> </span>cui<span style='letter-spacing:.05pt'> </span>le<span
-style='letter-spacing:.05pt'> </span>credenziali<span style='letter-spacing:
-.05pt'> </span>dovessero<span style='letter-spacing:.05pt'> </span>risultare<span
-style='letter-spacing:.05pt'> </span>scorrette<span style='letter-spacing:.05pt'>
-</span>non<span style='letter-spacing:.05pt'> </span>sarà<span
-style='letter-spacing:.05pt'> </span>possibile<span style='letter-spacing:.05pt'>
-</span>accedere<span style='letter-spacing:.05pt'> </span>all’applicazione.<span
-style='letter-spacing:.3pt'> </span>Una<span style='letter-spacing:.3pt'> </span>volta<span
-style='letter-spacing:.35pt'> </span>effettuato<span style='letter-spacing:
-.3pt'> </span>il<span style='letter-spacing:.3pt'> </span>login<span
-style='letter-spacing:.35pt'> </span>l’utente<span style='letter-spacing:.3pt'>
-</span>ha<span style='letter-spacing:.3pt'> </span>dei<span style='letter-spacing:
-.35pt'> </span>permessi<span style='letter-spacing:.3pt'> </span>diversi<span
-style='letter-spacing:.3pt'> </span>dal<span style='letter-spacing:.35pt'> </span>semplice<span
-style='letter-spacing:.3pt'> </span>utente<span style='letter-spacing:.05pt'> </span>visitatore:<span
-style='letter-spacing:.2pt'> </span>può<span style='letter-spacing:.2pt'> </span>visualizzare<span
-style='letter-spacing:.25pt'> </span>i<span style='letter-spacing:.2pt'> </span>like<span
-style='letter-spacing:.2pt'> </span>corrispondenti<span style='letter-spacing:
-.25pt'> </span>ai<span style='letter-spacing:.2pt'> </span>luoghi<span
-style='letter-spacing:.25pt'> </span>della<span style='letter-spacing:.2pt'> </span>città<span
-style='letter-spacing:.2pt'> </span>che<span style='letter-spacing:.25pt'> </span>lui<span
-style='letter-spacing:.2pt'> </span>stesso<span style='letter-spacing:.2pt'> </span>ha<span
-style='letter-spacing:.25pt'> </span>gradito<span style='letter-spacing:.2pt'> </span>e<span
-style='letter-spacing:.25pt'> </span>può<span style='letter-spacing:-2.95pt'> </span>visualizzare
-e scrivere i commenti<span style='letter-spacing:.05pt'> </span>relativi ad
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Nel caso in cui le credenziali dovessero risultare scorrette non sarà possibile accedere all’applicazione. Una volta effettuato<span style='letter-spacing:
+.3pt'> </span>il login l’utente<span style='letter-spacing:.3pt'>
+</span>ha dei<span style='letter-spacing:
+.35pt'> </span>permessi diversi dal semplice utente visitatore: può visualizzare i like corrispondenti ai luoghi della città che lui stesso ha gradito e può<span style='letter-spacing:-2.95pt'> </span>visualizzare
+e scrivere i commenti relativi ad
 un’attività.</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
@@ -13050,36 +12524,8 @@ lang=IT><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman
 </span></span></span><![endif]><span lang=IT>MAPBOX</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il<span
-style='letter-spacing:.2pt'> </span>provider<span style='letter-spacing:.2pt'> </span>MAPBOX<span
-style='letter-spacing:.2pt'> </span>fornisce,<span style='letter-spacing:.2pt'>
-</span>sempre<span style='letter-spacing:.2pt'> </span>secondo<span
-style='letter-spacing:.2pt'> </span>lo<span style='letter-spacing:.2pt'> </span>stesso<span
-style='letter-spacing:.2pt'> </span>principio,<span style='letter-spacing:.2pt'>
-</span>tre<span style='letter-spacing:.2pt'> </span>tipi<span style='letter-spacing:
-.25pt'> </span>servizi<span style='letter-spacing:.2pt'> </span>all’utente:<span
-style='letter-spacing:.2pt'> </span>la<span style='letter-spacing:.05pt'> </span>visualizzazione<span
-style='letter-spacing:.05pt'> </span>della<span style='letter-spacing:.05pt'> </span>mappa,<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.05pt'> </span>visualizzazione<span
-style='letter-spacing:.05pt'> </span>del<span style='letter-spacing:.05pt'> </span>percorso<span
-style='letter-spacing:.1pt'> </span>a<span style='letter-spacing:.05pt'> </span>seconda<span
-style='letter-spacing:.05pt'> </span>del<span style='letter-spacing:.1pt'> </span>mezzo<span
-style='letter-spacing:.05pt'> </span>di<span style='letter-spacing:.05pt'> </span>trasporto<span
-style='letter-spacing:.05pt'> </span>scelto<span style='letter-spacing:.15pt'> </span>ed<span
-style='letter-spacing:.15pt'> </span>il<span style='letter-spacing:.15pt'> </span>tempo<span
-style='letter-spacing:.15pt'> </span>impiegato<span style='letter-spacing:.15pt'>
-</span>per<span style='letter-spacing:.15pt'> </span>percorrere<span
-style='letter-spacing:.15pt'> </span>quella<span style='letter-spacing:.15pt'> </span>strada<span
-style='letter-spacing:.15pt'> </span>in<span style='letter-spacing:.15pt'> </span>base<span
-style='letter-spacing:.15pt'> </span>al<span style='letter-spacing:.15pt'> </span>mezzo<span
-style='letter-spacing:.15pt'> </span>scelto.<span style='letter-spacing:.15pt'>
-</span>Tutti<span style='letter-spacing:.15pt'> </span>e<span style='letter-spacing:
-.15pt'> </span>tre<span style='letter-spacing:.15pt'> </span>questi<span
-style='letter-spacing:-2.95pt'> </span>servizi sono<span style='letter-spacing:
-.05pt'> </span>chiesti dall’utente<span style='letter-spacing:.05pt'> </span>tramite<span
-style='letter-spacing:.05pt'> </span>Beatrice con<span style='letter-spacing:
-.05pt'> </span>una richiesta<span style='letter-spacing:.05pt'> </span>REST<span
-style='letter-spacing:.05pt'> </span>al prosumer.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il provider MAPBOX fornisce, sempre secondo lo stesso principio, tre tipi servizi all’utente: la visualizzazione della mappa, la visualizzazione del percorso a seconda del mezzo di trasporto scelto<span style='letter-spacing:.15pt'> </span>ed il<span style='letter-spacing:.15pt'> </span>tempo impiegato per<span style='letter-spacing:.15pt'> </span>percorrere quella<span style='letter-spacing:.15pt'> </span>strada in<span style='letter-spacing:.15pt'> </span>base al<span style='letter-spacing:.15pt'> </span>mezzo scelto. Tutti<span style='letter-spacing:.15pt'> </span>e tre<span style='letter-spacing:.15pt'> </span>questi<span
+style='letter-spacing:-2.95pt'> </span>servizi sono chiesti dall’utente tramite Beatrice con una richiesta REST al prosumer.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Successivamente<span
@@ -13090,25 +12536,9 @@ style='letter-spacing:-.35pt'> </span>servizio<span style='letter-spacing:-.4pt'
 style='letter-spacing:-.4pt'> </span>MAPBOX<span style='letter-spacing:-.35pt'>
 </span>tramite<span style='letter-spacing:-.4pt'> </span>REST.<span
 style='letter-spacing:-.35pt'> </span>Quando<span style='letter-spacing:-2.9pt'>
-</span>il<span style='letter-spacing:.1pt'> </span>provider<span
-style='letter-spacing:.1pt'> </span>darà<span style='letter-spacing:.1pt'> </span>la<span
-style='letter-spacing:.1pt'> </span>risposta<span style='letter-spacing:.1pt'> </span>a<span
-style='letter-spacing:.1pt'> </span>TravelManager,<span style='letter-spacing:
-.1pt'> </span>quest’ultimo<span style='letter-spacing:.1pt'> </span>filtrerà<span
-style='letter-spacing:.1pt'> </span>tale<span style='letter-spacing:.1pt'> </span>risposta<span
-style='letter-spacing:.1pt'> </span>a<span style='letter-spacing:.1pt'> </span>seconda<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.1pt'> </span>ciò<span
-style='letter-spacing:.15pt'> </span>che<span style='letter-spacing:-2.95pt'> </span>ha<span
-style='letter-spacing:.15pt'> </span>chiesto<span style='letter-spacing:.15pt'>
-</span>l’utente,<span style='letter-spacing:.15pt'> </span>riadattando<span
-style='letter-spacing:.2pt'> </span>anche<span style='letter-spacing:.15pt'> </span>i<span
-style='letter-spacing:.15pt'> </span>dati<span style='letter-spacing:.2pt'> </span>per<span
-style='letter-spacing:.15pt'> </span>l’applicazione.<span style='letter-spacing:
-.15pt'> </span>Terminata<span style='letter-spacing:.2pt'> </span>questa<span
-style='letter-spacing:.15pt'> </span>operazione<span style='letter-spacing:
-.05pt'> </span>restituirà il<span style='letter-spacing:.05pt'> </span>risultato
-all’utente<span style='letter-spacing:.05pt'> </span>tramite<span
-style='letter-spacing:.05pt'> </span>il client.</span></p>
+</span>il provider darà la risposta a TravelManager,<span style='letter-spacing:
+.1pt'> </span>quest’ultimo filtrerà tale risposta a seconda di ciò che<span style='letter-spacing:-2.95pt'> </span>ha chiesto l’utente,<span style='letter-spacing:.15pt'> </span>riadattando anche<span style='letter-spacing:.15pt'> </span>i dati per l’applicazione. Terminata questa operazione restituirà il risultato
+all’utente tramite il client.</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13159,32 +12589,12 @@ style='letter-spacing:-.65pt'> </span>USER</span></p>
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando<span
-style='letter-spacing:.1pt'> </span>l’utente<span style='letter-spacing:.05pt'>
-</span>ha<span style='letter-spacing:.1pt'> </span>effettuato<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>login<span
-style='letter-spacing:.1pt'> </span>può<span style='letter-spacing:.1pt'> </span>visualizzare<span
-style='letter-spacing:.1pt'> </span>i<span style='letter-spacing:.1pt'> </span>like<span
-style='letter-spacing:.1pt'> </span>da<span style='letter-spacing:.1pt'> </span>lui<span
-style='letter-spacing:.1pt'> </span>assegnati<span style='letter-spacing:.1pt'>
-</span>in<span style='letter-spacing:.1pt'> </span>precedenza.<span
-style='letter-spacing:.1pt'> </span>Questa<span style='letter-spacing:.05pt'> </span>operazione<span
-style='letter-spacing:.25pt'> </span>avviene<span style='letter-spacing:.3pt'> </span>automaticamente<span
-style='letter-spacing:.3pt'> </span>non<span style='letter-spacing:.3pt'> </span>appena<span
-style='letter-spacing:.3pt'> </span>l’utente<span style='letter-spacing:.3pt'> </span>effettua<span
-style='letter-spacing:.3pt'> </span>il<span style='letter-spacing:.25pt'> </span>login:<span
-style='letter-spacing:.3pt'> </span>per<span style='letter-spacing:.3pt'> </span>prima<span
-style='letter-spacing:.3pt'> </span>cosa<span style='letter-spacing:.3pt'> </span>il<span
-style='letter-spacing:.3pt'> </span>client<span style='letter-spacing:.05pt'> </span>invia
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente ha effettuato il login può visualizzare i like da lui assegnati<span style='letter-spacing:.1pt'>
+</span>in precedenza. Questa operazione avviene automaticamente non appena l’utente effettua il login: per prima cosa il client invia
 al prosumer la userKey dell’utente tramite servizio REST. Poi il prosumer
-chiede al<span style='letter-spacing:.05pt'> </span>Loadbalancer<span
-style='letter-spacing:.05pt'> </span>l’indirizzo<span style='letter-spacing:
-.1pt'> </span>del<span style='letter-spacing:.1pt'> </span>provider<span
-style='letter-spacing:.1pt'> </span>a<span style='letter-spacing:.1pt'> </span>cui<span
-style='letter-spacing:.1pt'> </span>fare<span style='letter-spacing:.05pt'> </span>richiesta.<span
-style='letter-spacing:.1pt'> </span>Fornitogli<span style='letter-spacing:.1pt'>
-</span>l’indirizzo,<span style='letter-spacing:.1pt'> </span>Travel<span
-style='letter-spacing:.1pt'> </span>Manager<span style='letter-spacing:.05pt'> </span>invierà<span
+chiede al Loadbalancer l’indirizzo<span style='letter-spacing:
+.1pt'> </span>del provider a cui fare richiesta. Fornitogli<span style='letter-spacing:.1pt'>
+</span>l’indirizzo, Travel Manager invierà<span
 style='letter-spacing:-.15pt'> </span>la<span style='letter-spacing:-.15pt'> </span>richiesta<span
 style='letter-spacing:-.1pt'> </span>di<span style='letter-spacing:-.15pt'> </span>visualizzazione<span
 style='letter-spacing:-.15pt'> </span>dei<span style='letter-spacing:-.1pt'> </span>like,<span
@@ -13194,41 +12604,23 @@ style='letter-spacing:-.15pt'> </span>uno<span style='letter-spacing:-.1pt'> </s
 style='letter-spacing:-.15pt'> </span>server<span style='letter-spacing:-.1pt'>
 </span>su<span style='letter-spacing:-.15pt'> </span>cui<span style='letter-spacing:
 -.15pt'> </span>è<span style='letter-spacing:-.1pt'> </span>disponibile<span
-style='letter-spacing:-.15pt'> </span>il<span style='letter-spacing:-2.9pt'> </span>servizio<span
-style='letter-spacing:.15pt'> </span>Place<span style='letter-spacing:.2pt'> </span>of<span
-style='letter-spacing:.2pt'> </span>City.<span style='letter-spacing:.2pt'> </span>Quest’ultimo<span
-style='letter-spacing:.45pt'> </span>controllerà<span style='letter-spacing:
-.2pt'> </span>nel<span style='letter-spacing:.15pt'> </span>Data<span
-style='letter-spacing:.2pt'> </span>Base<span style='letter-spacing:.2pt'> </span>se<span
-style='letter-spacing:.2pt'> </span>l’userKey<span style='letter-spacing:.2pt'>
-</span>fornitagli<span style='letter-spacing:.15pt'> </span>corrisponde<span
-style='letter-spacing:.05pt'> </span>effettivamente ad<span style='letter-spacing:
-.05pt'> </span>un utente<span style='letter-spacing:.05pt'> </span>esistente
-nella<span style='letter-spacing:.05pt'> </span>base di<span style='letter-spacing:
-.05pt'> </span>dati.</span></p>
+style='letter-spacing:-.15pt'> </span>il servizio Place of City. Quest’ultimo controllerà nel<span style='letter-spacing:.15pt'> </span>Data Base se l’userKey fornitagli<span style='letter-spacing:.15pt'> </span>corrisponde effettivamente ad un utente esistente
+nella base di dati.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se
 la risposta è positiva ( quindi l’IDuser è diverso da NULL ), significa che il
 Data Base restituirà<span style='letter-spacing:-2.95pt'> </span>la lista dei
 like al provider che a sua volta la inoltrerà al prosumer tramite SOAP, che
-infine la<span style='letter-spacing:.05pt'> </span>restituirà<span
+infine la restituirà<span
 style='letter-spacing:-.05pt'> </span>all’utente grazie al<span
 style='letter-spacing:-.05pt'> </span>client tramite REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.9pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Invece,
 nel caso in cui l’userKey non ha un IDuser corrispondente nel Data Base (
-quindi l’IDuser è<span style='letter-spacing:-2.95pt'> </span>NULL<span
-style='letter-spacing:.05pt'> </span>),<span style='letter-spacing:.1pt'> </span>il<span
-style='letter-spacing:.05pt'> </span>provider<span style='letter-spacing:.1pt'>
-</span>lo<span style='letter-spacing:.1pt'> </span>comunicherà<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.1pt'> </span>prosumer<span
-style='letter-spacing:.1pt'> </span>tramite<span style='letter-spacing:.05pt'> </span>SOAP<span
-style='letter-spacing:.1pt'> </span>e,<span style='letter-spacing:.1pt'> </span>come<span
-style='letter-spacing:.05pt'> </span>sempre,<span style='letter-spacing:.1pt'> </span>tale<span
-style='letter-spacing:.1pt'> </span>risultato<span style='letter-spacing:.05pt'>
-</span>sarà<span style='letter-spacing:.05pt'> </span>inoltrato<span
+quindi l’IDuser è<span style='letter-spacing:-2.95pt'> </span>NULL ), il provider<span style='letter-spacing:.1pt'>
+</span>lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato<span
 style='letter-spacing:-.05pt'> </span>da<span style='letter-spacing:-.05pt'> </span>TravelManager
 al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
 -.05pt'> </span>tramite REST.</span></p>
@@ -13285,59 +12677,11 @@ lang=IT><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman
 -.3pt'> </span>COMMENT</span></p>
 
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando<span
-style='letter-spacing:.15pt'> </span>l’utente<span style='letter-spacing:.2pt'>
-</span>desidera<span style='letter-spacing:.2pt'> </span>visualizzare<span
-style='letter-spacing:.15pt'> </span>i<span style='letter-spacing:.2pt'> </span>commenti<span
-style='letter-spacing:.2pt'> </span>lasciati<span style='letter-spacing:.15pt'>
-</span>per<span style='letter-spacing:.2pt'> </span>un’attività,<span
-style='letter-spacing:.2pt'> </span>il<span style='letter-spacing:.15pt'> </span>client<span
-style='letter-spacing:.2pt'> </span>invia<span style='letter-spacing:.2pt'> </span>questa<span
-style='letter-spacing:.05pt'> </span>richiesta<span style='letter-spacing:.15pt'>
-</span>tramite<span style='letter-spacing:.15pt'> </span>REST<span
-style='letter-spacing:.2pt'> </span>al<span style='letter-spacing:.15pt'> </span>prosumer,<span
-style='letter-spacing:.15pt'> </span>passando<span style='letter-spacing:.2pt'>
-</span>l’id<span style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:
-.2pt'> </span>dell’attività<span style='letter-spacing:.15pt'> </span>richiesta.<span
-style='letter-spacing:.15pt'> </span>Poi<span style='letter-spacing:.2pt'> </span>il<span
-style='letter-spacing:.15pt'> </span>prosumer<span style='letter-spacing:.2pt'>
-</span>chiede<span style='letter-spacing:.15pt'> </span>al<span
-style='letter-spacing:-2.9pt'> </span>Loadbalancer<span style='letter-spacing:
-.05pt'> </span>l’indirizzo<span style='letter-spacing:.1pt'> </span>del<span
-style='letter-spacing:.1pt'> </span>provider<span style='letter-spacing:.1pt'> </span>a<span
-style='letter-spacing:.1pt'> </span>cui<span style='letter-spacing:.1pt'> </span>fare<span
-style='letter-spacing:.05pt'> </span>richiesta.<span style='letter-spacing:
-.1pt'> </span>Fornitogli<span style='letter-spacing:.1pt'> </span>l’indirizzo,<span
-style='letter-spacing:.1pt'> </span>Travel<span style='letter-spacing:.1pt'> </span>Manager<span
-style='letter-spacing:.05pt'> </span>invierà la richiesta di visualizzazione
-dei commenti, tramite SOAP, ad uno dei server su cui è<span style='letter-spacing:
-.05pt'> </span>disponibile<span style='letter-spacing:.2pt'> </span>il<span
-style='letter-spacing:.25pt'> </span>servizio<span style='letter-spacing:.25pt'>
-</span>Place<span style='letter-spacing:.2pt'> </span>of<span style='letter-spacing:
-.25pt'> </span>City.<span style='letter-spacing:.25pt'> </span>In<span
-style='letter-spacing:.2pt'> </span>questo<span style='letter-spacing:.25pt'> </span>modo<span
-style='letter-spacing:.25pt'> </span>il<span style='letter-spacing:.25pt'> </span>provider<span
-style='letter-spacing:.2pt'> </span>può<span style='letter-spacing:.25pt'> </span>quindi<span
-style='letter-spacing:.25pt'> </span>richiedere<span style='letter-spacing:
-.2pt'> </span>le<span style='letter-spacing:.25pt'> </span>informazioni<span
-style='letter-spacing:-2.9pt'> </span>desiderate<span style='letter-spacing:
-.1pt'> </span>al<span style='letter-spacing:.1pt'> </span>Data<span
-style='letter-spacing:.1pt'> </span>Base.<span style='letter-spacing:.1pt'> </span>Quando<span
-style='letter-spacing:.15pt'> </span>la<span style='letter-spacing:.1pt'> </span>base<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.1pt'> </span>dati<span
-style='letter-spacing:.1pt'> </span>risponderà,<span style='letter-spacing:
-.15pt'> </span>restituirà<span style='letter-spacing:.1pt'> </span>la<span
-style='letter-spacing:.1pt'> </span>lista<span style='letter-spacing:.1pt'> </span>dei<span
-style='letter-spacing:.15pt'> </span>commenti<span style='letter-spacing:.1pt'>
-</span>al<span style='letter-spacing:.05pt'> </span>provider<span
-style='letter-spacing:.15pt'> </span>che,<span style='letter-spacing:.2pt'> </span>a<span
-style='letter-spacing:.2pt'> </span>sua<span style='letter-spacing:.2pt'> </span>volta,<span
-style='letter-spacing:.2pt'> </span>la<span style='letter-spacing:.2pt'> </span>inoltrerà<span
-style='letter-spacing:.2pt'> </span>al<span style='letter-spacing:.2pt'> </span>prosumer<span
-style='letter-spacing:.15pt'> </span>con<span style='letter-spacing:.2pt'> </span>il<span
-style='letter-spacing:.2pt'> </span>fine<span style='letter-spacing:.2pt'> </span>di<span
-style='letter-spacing:.2pt'> </span>fornirla<span style='letter-spacing:.2pt'> </span>all’utente<span
-style='letter-spacing:.2pt'> </span>tramite<span style='letter-spacing:.2pt'> </span>Beatrice.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente desidera visualizzare i commenti lasciati per un’attività, il<span style='letter-spacing:.15pt'> </span>client invia questa richiesta tramite<span style='letter-spacing:.15pt'> </span>REST al<span style='letter-spacing:.15pt'> </span>prosumer, passando l’id<span style='letter-spacing:.15pt'> </span>di dell’attività<span style='letter-spacing:.15pt'> </span>richiesta. Poi il prosumer chiede<span style='letter-spacing:.15pt'> </span>al Loadbalancer l’indirizzo del provider a cui fare richiesta.<span style='letter-spacing:
+.1pt'> </span>Fornitogli l’indirizzo, Travel Manager invierà la richiesta di visualizzazione
+dei commenti, tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. In questo modo il provider può quindi richiedere le informazioni desiderate<span style='letter-spacing:
+.1pt'> </span>al Data Base. Quando la base di dati risponderà, restituirà la lista dei commenti<span style='letter-spacing:.1pt'>
+</span>al provider che, a sua volta, la inoltrerà al prosumer con il fine di fornirla all’utente tramite Beatrice.</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13390,108 +12734,29 @@ lang=IT>ADD<span style='letter-spacing:-.7pt'> </span>LIKE</span></p>
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se<span
-style='letter-spacing:.15pt'> </span>l’utente<span style='letter-spacing:.2pt'>
-</span>desidera<span style='letter-spacing:.2pt'> </span>mettere<span
-style='letter-spacing:.2pt'> </span>un<span style='letter-spacing:.2pt'> </span>like<span
-style='letter-spacing:.2pt'> </span>ad<span style='letter-spacing:.2pt'> </span>un’attività,<span
-style='letter-spacing:.2pt'> </span>il<span style='letter-spacing:.2pt'> </span>client<span
-style='letter-spacing:.2pt'> </span>inoltrerà<span style='letter-spacing:.2pt'>
-</span>tale<span style='letter-spacing:.2pt'> </span>richiesta<span
-style='letter-spacing:.2pt'> </span>al<span style='letter-spacing:.2pt'> </span>prosumer<span
-style='letter-spacing:-2.9pt'> </span>tramite<span style='letter-spacing:-.05pt'>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se l’utente desidera mettere un like ad un’attività, il client inoltrerà tale richiesta al prosumer tramite<span style='letter-spacing:-.05pt'>
 </span>servizio<span style='letter-spacing:-.05pt'> </span>REST,<span
 style='letter-spacing:-.05pt'> </span>passandogli la<span style='letter-spacing:
 -.05pt'> </span>userKey<span style='letter-spacing:-.05pt'> </span>e<span
 style='letter-spacing:-.05pt'> </span>l’IDactivity.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Poi<span
-style='letter-spacing:.15pt'> </span>il<span style='letter-spacing:.15pt'> </span>prosumer<span
-style='letter-spacing:.2pt'> </span>chiede<span style='letter-spacing:.15pt'> </span>al<span
-style='letter-spacing:.2pt'> </span>Loadbalancer<span style='letter-spacing:
-.15pt'> </span>l’indirizzo<span style='letter-spacing:.15pt'> </span>del<span
-style='letter-spacing:.2pt'> </span>provider<span style='letter-spacing:.15pt'>
-</span>a<span style='letter-spacing:.2pt'> </span>cui<span style='letter-spacing:
-.15pt'> </span>fare<span style='letter-spacing:.15pt'> </span>richiesta.<span
-style='letter-spacing:.2pt'> </span>Fornitogli<span style='letter-spacing:.05pt'>
-</span>l’indirizzo, Travel Manager invierà la richiesta di aggiungere un like,
-tramite SOAP, ad uno dei<span style='letter-spacing:.05pt'> </span>server<span
-style='letter-spacing:.1pt'> </span>su<span style='letter-spacing:.1pt'> </span>cui<span
-style='letter-spacing:.15pt'> </span>è<span style='letter-spacing:.1pt'> </span>disponibile<span
-style='letter-spacing:.15pt'> </span>il<span style='letter-spacing:.1pt'> </span>servizio<span
-style='letter-spacing:.15pt'> </span>Place<span style='letter-spacing:.1pt'> </span>of<span
-style='letter-spacing:.15pt'> </span>City.<span style='letter-spacing:.1pt'> </span>Il<span
-style='letter-spacing:.15pt'> </span>provider<span style='letter-spacing:.1pt'>
-</span>comunicherà<span style='letter-spacing:.15pt'> </span>poi<span
-style='letter-spacing:.1pt'> </span>con<span style='letter-spacing:.1pt'> </span>il<span
-style='letter-spacing:.15pt'> </span>Data<span style='letter-spacing:.1pt'> </span>Base<span
-style='letter-spacing:.05pt'> </span>per<span style='letter-spacing:.25pt'> </span>capire<span
-style='letter-spacing:.3pt'> </span>se<span style='letter-spacing:.25pt'> </span>l’azione<span
-style='letter-spacing:.3pt'> </span>richiesta<span style='letter-spacing:.3pt'>
-</span>dall’utente<span style='letter-spacing:.25pt'> </span>è<span
-style='letter-spacing:.3pt'> </span>possibile.<span style='letter-spacing:.3pt'>
-</span>Infatti<span style='letter-spacing:.25pt'> </span>per<span
-style='letter-spacing:.3pt'> </span>prima<span style='letter-spacing:.3pt'> </span>cosa<span
-style='letter-spacing:.25pt'> </span>PlacesOfCity<span style='letter-spacing:
-.3pt'> </span>fornirà<span style='letter-spacing:-2.9pt'> </span>l’userKey<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.05pt'> </span>Data<span
-style='letter-spacing:.05pt'> </span>Base<span style='letter-spacing:.05pt'> </span>con<span
-style='letter-spacing:.05pt'> </span>il<span style='letter-spacing:.05pt'> </span>fine<span
-style='letter-spacing:.05pt'> </span>di<span style='letter-spacing:.1pt'> </span>vedere<span
-style='letter-spacing:.05pt'> </span>se<span style='letter-spacing:.05pt'> </span>esiste<span
-style='letter-spacing:.05pt'> </span>l’IDuser<span style='letter-spacing:.05pt'>
-</span>per<span style='letter-spacing:.05pt'> </span>quell’utente.<span
-style='letter-spacing:.05pt'> </span>Se<span style='letter-spacing:.1pt'> </span>la<span
-style='letter-spacing:.05pt'> </span>risposta<span style='letter-spacing:.05pt'>
-</span>è<span style='letter-spacing:.05pt'> </span>positiva<span
-style='letter-spacing:.1pt'> </span>(<span style='letter-spacing:.1pt'> </span>quindi<span
-style='letter-spacing:.15pt'> </span>l’IDuser<span style='letter-spacing:.1pt'>
-</span>è<span style='letter-spacing:.15pt'> </span>diverso<span
-style='letter-spacing:.1pt'> </span>da<span style='letter-spacing:.15pt'> </span>NULL<span
-style='letter-spacing:.1pt'> </span>),<span style='letter-spacing:.15pt'> </span>significa<span
-style='letter-spacing:.1pt'> </span>che<span style='letter-spacing:.15pt'> </span>viene<span
-style='letter-spacing:.1pt'> </span>effettuata<span style='letter-spacing:.15pt'>
-</span>l’aggiunta<span style='letter-spacing:.1pt'> </span>del<span
-style='letter-spacing:.15pt'> </span>like.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Poi il<span style='letter-spacing:.15pt'> </span>prosumer chiede<span style='letter-spacing:.15pt'> </span>al Loadbalancer l’indirizzo<span style='letter-spacing:.15pt'> </span>del provider a cui fare<span style='letter-spacing:.15pt'> </span>richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di aggiungere un like,
+tramite SOAP, ad uno dei server su cui è disponibile il servizio Place of City. Il provider<span style='letter-spacing:.1pt'>
+</span>comunicherà<span style='letter-spacing:.15pt'> </span>poi con il Data Base per capire se l’azione richiesta<span style='letter-spacing:.3pt'>
+</span>dall’utente è possibile.<span style='letter-spacing:.3pt'>
+</span>Infatti per prima cosa PlacesOfCity<span style='letter-spacing:
+.3pt'> </span>fornirà l’userKey al Data Base con il fine di vedere se esiste l’IDuser per quell’utente. Se la risposta è positiva ( quindi l’IDuser<span style='letter-spacing:.1pt'>
+</span>è<span style='letter-spacing:.15pt'> </span>diverso da<span style='letter-spacing:.15pt'> </span>NULL ),<span style='letter-spacing:.15pt'> </span>significa che<span style='letter-spacing:.15pt'> </span>viene effettuata l’aggiunta del like.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Successivamente<span
-style='letter-spacing:.2pt'> </span>il<span style='letter-spacing:.25pt'> </span>sistema<span
-style='letter-spacing:.2pt'> </span>controllerà<span style='letter-spacing:
-.25pt'> </span>l’esito<span style='letter-spacing:.2pt'> </span>di<span
-style='letter-spacing:.25pt'> </span>tale<span style='letter-spacing:.2pt'> </span>operazione,<span
-style='letter-spacing:.25pt'> </span>restituendo<span style='letter-spacing:
-.2pt'> </span>la<span style='letter-spacing:.25pt'> </span>risposta<span
-style='letter-spacing:.2pt'> </span>di<span style='letter-spacing:.25pt'> </span>errore<span
-style='letter-spacing:.2pt'> </span>o<span style='letter-spacing:-2.9pt'> </span>di<span
-style='letter-spacing:.05pt'> </span>corretto<span style='letter-spacing:.05pt'>
-</span>funzionamento<span style='letter-spacing:.05pt'> </span>al<span
-style='letter-spacing:.05pt'> </span>prosumer<span style='letter-spacing:.05pt'>
-</span>tramite<span style='letter-spacing:.05pt'> </span>SOAP,<span
-style='letter-spacing:.1pt'> </span>che<span style='letter-spacing:.05pt'> </span>sarà<span
-style='letter-spacing:.05pt'> </span>infine<span style='letter-spacing:.05pt'> </span>inviata<span
-style='letter-spacing:.05pt'> </span>dal<span style='letter-spacing:.05pt'> </span>prosumer<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.1pt'> </span>client<span
-style='letter-spacing:.05pt'> </span>tramite<span style='letter-spacing:-.05pt'>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Successivamente il sistema controllerà l’esito di tale operazione, restituendo la risposta di errore o di corretto funzionamento al prosumer tramite SOAP, che sarà infine inviata dal prosumer al client tramite<span style='letter-spacing:-.05pt'>
 </span>REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Invece,
-nel caso<span style='letter-spacing:.05pt'> </span>in cui<span
-style='letter-spacing:.05pt'> </span>l’userKey non<span style='letter-spacing:
-.05pt'> </span>ha un’IDuser<span style='letter-spacing:.05pt'> </span>corrispondente
-nel<span style='letter-spacing:.05pt'> </span>Data Base<span style='letter-spacing:
-.05pt'> </span>( quindi<span style='letter-spacing:.05pt'> </span>l’IDuser è<span
-style='letter-spacing:-2.9pt'> </span>NULL<span style='letter-spacing:.05pt'> </span>),<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.05pt'> </span>provider<span
-style='letter-spacing:.1pt'> </span>lo<span style='letter-spacing:.1pt'> </span>comunicherà<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.1pt'> </span>prosumer<span
-style='letter-spacing:.1pt'> </span>tramite<span style='letter-spacing:.05pt'> </span>SOAP<span
-style='letter-spacing:.1pt'> </span>e,<span style='letter-spacing:.1pt'> </span>come<span
-style='letter-spacing:.05pt'> </span>sempre,<span style='letter-spacing:.1pt'> </span>tale<span
-style='letter-spacing:.1pt'> </span>risultato<span style='letter-spacing:.05pt'>
-</span>sarà<span style='letter-spacing:.05pt'> </span>inoltrato<span
+nel caso in cui l’userKey non ha un’IDuser corrispondente
+nel Data Base ( quindi l’IDuser è NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato<span
 style='letter-spacing:-.05pt'> </span>da<span style='letter-spacing:-.05pt'> </span>TravelManager
 al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
 -.05pt'> </span>tramite REST.</span></p>
@@ -13541,103 +12806,26 @@ lang=IT>ADD<span style='letter-spacing:-.5pt'> </span>COMMENT</span></p>
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il<span
-style='letter-spacing:.1pt'> </span>processo<span style='letter-spacing:.1pt'> </span>per<span
-style='letter-spacing:.1pt'> </span>inserire<span style='letter-spacing:.1pt'> </span>un<span
-style='letter-spacing:.1pt'> </span>commento<span style='letter-spacing:.1pt'> </span>è<span
-style='letter-spacing:.1pt'> </span>molto<span style='letter-spacing:.1pt'> </span>simile<span
-style='letter-spacing:.1pt'> </span>a<span style='letter-spacing:.1pt'> </span>quello<span
-style='letter-spacing:.1pt'> </span>per<span style='letter-spacing:.1pt'> </span>inserire<span
-style='letter-spacing:.1pt'> </span>un<span style='letter-spacing:.1pt'> </span>like:<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>client<span
-style='letter-spacing:.1pt'> </span>inoltrerà<span style='letter-spacing:.1pt'>
-</span>il<span style='letter-spacing:-2.9pt'> </span>commento appena inserito
-dall’user al prosumer, tramite servizio REST, passandogli anche la<span
-style='letter-spacing:.05pt'> </span>userKey<span style='letter-spacing:-.05pt'>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il processo per inserire un commento è molto simile a quello per inserire un like: il client inoltrerà<span style='letter-spacing:.1pt'>
+</span>il commento appena inserito
+dall’user al prosumer, tramite servizio REST, passandogli anche la userKey<span style='letter-spacing:-.05pt'>
 </span>e l’IDactivity.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:55.2pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Poi<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.15pt'> </span>prosumer<span
-style='letter-spacing:.15pt'> </span>chiede<span style='letter-spacing:.15pt'> </span>al<span
-style='letter-spacing:.15pt'> </span>Loadbalancer<span style='letter-spacing:
-.15pt'> </span>l’indirizzo<span style='letter-spacing:.15pt'> </span>del<span
-style='letter-spacing:.15pt'> </span>provider<span style='letter-spacing:.15pt'>
-</span>a<span style='letter-spacing:.15pt'> </span>cui<span style='letter-spacing:
-.15pt'> </span>fare<span style='letter-spacing:.15pt'> </span>richiesta.<span
-style='letter-spacing:.15pt'> </span>Fornitogli<span style='letter-spacing:
-.05pt'> </span>l’indirizzo, Travel Manager invierà la richiesta di aggiunta
-commento, tramite SOAP, ad uno dei<span style='letter-spacing:.05pt'> </span>server<span
-style='letter-spacing:.1pt'> </span>su<span style='letter-spacing:.1pt'> </span>cui<span
-style='letter-spacing:.1pt'> </span>è<span style='letter-spacing:.15pt'> </span>disponibile<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>servizio<span
-style='letter-spacing:.15pt'> </span>Place<span style='letter-spacing:.1pt'> </span>of<span
-style='letter-spacing:.1pt'> </span>City.<span style='letter-spacing:.15pt'> </span>Il<span
-style='letter-spacing:.1pt'> </span>provider,<span style='letter-spacing:.1pt'>
-</span>successivamente,<span style='letter-spacing:.15pt'> </span>comunicherà<span
-style='letter-spacing:.1pt'> </span>con<span style='letter-spacing:.05pt'> </span>il<span
-style='letter-spacing:.1pt'> </span>Data<span style='letter-spacing:.1pt'> </span>Base<span
-style='letter-spacing:.15pt'> </span>per<span style='letter-spacing:.1pt'> </span>capire<span
-style='letter-spacing:.15pt'> </span>se<span style='letter-spacing:.1pt'> </span>l’azione<span
-style='letter-spacing:.15pt'> </span>richiesta<span style='letter-spacing:.1pt'>
-</span>dall’utente<span style='letter-spacing:.1pt'> </span>è<span
-style='letter-spacing:.15pt'> </span>possibile.<span style='letter-spacing:
-.1pt'> </span>Infatti<span style='letter-spacing:.15pt'> </span>per<span
-style='letter-spacing:.1pt'> </span>prima<span style='letter-spacing:.15pt'> </span>cosa<span
-style='letter-spacing:.05pt'> </span>PlacesOfCity<span style='letter-spacing:
-.05pt'> </span>fornirà<span style='letter-spacing:.05pt'> </span>l’userKey<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.05pt'> </span>Data<span
-style='letter-spacing:.1pt'> </span>Base<span style='letter-spacing:.05pt'> </span>con<span
-style='letter-spacing:.05pt'> </span>il<span style='letter-spacing:.05pt'> </span>fine<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.05pt'> </span>vedere<span
-style='letter-spacing:.05pt'> </span>se<span style='letter-spacing:.05pt'> </span>esiste<span
-style='letter-spacing:.1pt'> </span>l’IDuser<span style='letter-spacing:.05pt'>
-</span>per<span style='letter-spacing:.05pt'> </span>quell’utente.<span
-style='letter-spacing:-2.9pt'> </span>Se la<span style='letter-spacing:.05pt'> </span>risposta<span
-style='letter-spacing:.05pt'> </span>è<span style='letter-spacing:.05pt'> </span>positiva<span
-style='letter-spacing:.05pt'> </span>(<span style='letter-spacing:.05pt'> </span>quindi<span
-style='letter-spacing:.05pt'> </span>l’IDuser<span style='letter-spacing:.05pt'>
-</span>è<span style='letter-spacing:.05pt'> </span>diverso da<span
-style='letter-spacing:.05pt'> </span>NULL<span style='letter-spacing:.05pt'> </span>),<span
-style='letter-spacing:.05pt'> </span>significa<span style='letter-spacing:.05pt'>
-</span>che<span style='letter-spacing:.05pt'> </span>viene<span
-style='letter-spacing:.05pt'> </span>effettuata<span style='letter-spacing:
-.05pt'> </span>l’aggiunta<span style='letter-spacing:.2pt'> </span>del<span
-style='letter-spacing:.25pt'> </span>commento.<span style='letter-spacing:.25pt'>
-</span>Successivamente<span style='letter-spacing:.2pt'> </span>il<span
-style='letter-spacing:.25pt'> </span>sistema<span style='letter-spacing:.25pt'>
-</span>controllerà<span style='letter-spacing:.2pt'> </span>l’esito<span
-style='letter-spacing:.25pt'> </span>di<span style='letter-spacing:.25pt'> </span>tale<span
-style='letter-spacing:.2pt'> </span>operazione,<span style='letter-spacing:
-.05pt'> </span>restituendo<span style='letter-spacing:.05pt'> </span>la<span
-style='letter-spacing:.05pt'> </span>risposta<span style='letter-spacing:.1pt'>
-</span>di<span style='letter-spacing:.05pt'> </span>errore<span
-style='letter-spacing:.1pt'> </span>o<span style='letter-spacing:.05pt'> </span>di<span
-style='letter-spacing:.1pt'> </span>corretto<span style='letter-spacing:.05pt'>
-</span>funzionamento<span style='letter-spacing:.1pt'> </span>al<span
-style='letter-spacing:.05pt'> </span>prosumer<span style='letter-spacing:.1pt'>
-</span>tramite<span style='letter-spacing:.05pt'> </span>SOAP,<span
-style='letter-spacing:.1pt'> </span>che<span style='letter-spacing:.05pt'> </span>sarà<span
-style='letter-spacing:.05pt'> </span>infine<span style='letter-spacing:-.05pt'>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Poi il<span style='letter-spacing:.15pt'> </span>prosumer chiede<span style='letter-spacing:.15pt'> </span>al Loadbalancer l’indirizzo<span style='letter-spacing:.15pt'> </span>del provider a<span style='letter-spacing:.15pt'> </span>cui fare<span style='letter-spacing:.15pt'> </span>richiesta. Fornitogli l’indirizzo, Travel Manager invierà la richiesta di aggiunta
+commento, tramite SOAP, ad uno dei server su cui è<span style='letter-spacing:.15pt'> </span>disponibile il servizio Place of City.<span style='letter-spacing:.15pt'> </span>Il provider,<span style='letter-spacing:.1pt'>
+</span>successivamente,<span style='letter-spacing:.15pt'> </span>comunicherà con il Data Base per capire se l’azione richiesta<span style='letter-spacing:.1pt'>
+</span>dall’utente è possibile.<span style='letter-spacing:
+.1pt'> </span>Infatti<span style='letter-spacing:.15pt'> </span>per prima<span style='letter-spacing:.15pt'> </span>cosa PlacesOfCity fornirà l’userKey al Data Base con il fine di vedere se esiste l’IDuser per quell’utente. Se la risposta è positiva ( quindi l’IDuser è diverso da NULL ), significa che viene effettuata l’aggiunta del commento. Successivamente il sistema controllerà l’esito di tale operazione, restituendo la risposta<span style='letter-spacing:.1pt'>
+</span>di errore o di corretto funzionamento al prosumer<span style='letter-spacing:.1pt'>
+</span>tramite SOAP, che sarà infine<span style='letter-spacing:-.05pt'>
 </span>inviata dal prosumer<span style='letter-spacing:-.05pt'> </span>al
 client tramite<span style='letter-spacing:-.05pt'> </span>REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Invece,
-nel caso<span style='letter-spacing:.05pt'> </span>in cui<span
-style='letter-spacing:.05pt'> </span>l’userKey non<span style='letter-spacing:
-.05pt'> </span>ha un’IDuser<span style='letter-spacing:.05pt'> </span>corrispondente
-nel<span style='letter-spacing:.05pt'> </span>Data Base<span style='letter-spacing:
-.05pt'> </span>( quindi<span style='letter-spacing:.05pt'> </span>l’IDuser è<span
-style='letter-spacing:-2.9pt'> </span>NULL<span style='letter-spacing:.05pt'> </span>),<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.05pt'> </span>provider<span
-style='letter-spacing:.1pt'> </span>lo<span style='letter-spacing:.1pt'> </span>comunicherà<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.1pt'> </span>prosumer<span
-style='letter-spacing:.1pt'> </span>tramite<span style='letter-spacing:.05pt'> </span>SOAP<span
-style='letter-spacing:.1pt'> </span>e,<span style='letter-spacing:.1pt'> </span>come<span
-style='letter-spacing:.05pt'> </span>sempre,<span style='letter-spacing:.1pt'> </span>tale<span
-style='letter-spacing:.1pt'> </span>risultato<span style='letter-spacing:.05pt'>
-</span>sarà<span style='letter-spacing:.05pt'> </span>inoltrato<span
+nel caso in cui l’userKey non ha un’IDuser corrispondente
+nel Data Base ( quindi l’IDuser è NULL ), il provider lo comunicherà al prosumer tramite SOAP e, come sempre, tale risultato sarà inoltrato<span
 style='letter-spacing:-.05pt'> </span>da<span style='letter-spacing:-.05pt'> </span>TravelManager
 al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
 -.05pt'> </span>tramite REST.</span></p>
@@ -13684,63 +12872,23 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <p class=MsoListParagraph style='margin-left:64.3pt;mso-list:l0 level1 lfo4;
 tab-stops:64.35pt'><![if !supportLists]><span lang=IT><span style='mso-list:
 Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-lang=IT style='mso-font-width:95%'>ACTIVITY<span style='letter-spacing:.4pt'> </span>LIST</span></p>
+lang=IT style='mso-font-width:95%'>ACTIVITY LIST</span></p>
 
 <p class=MsoBodyText style='margin-top:.25pt'><span lang=IT><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando<span
-style='letter-spacing:.05pt'> </span>l’utente<span style='letter-spacing:.1pt'>
-</span>richiede<span style='letter-spacing:.05pt'> </span>al<span
-style='letter-spacing:.1pt'> </span>prosumer,<span style='letter-spacing:.1pt'>
-</span>tramite<span style='letter-spacing:.05pt'> </span>REST,<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.05pt'> </span>lista<span
-style='letter-spacing:.1pt'> </span>delle<span style='letter-spacing:.1pt'> </span>attività<span
-style='letter-spacing:.05pt'> </span>proposte<span style='letter-spacing:.1pt'>
-</span>da<span style='letter-spacing:.05pt'> </span>Beatrice<span
-style='letter-spacing:.1pt'> </span>per<span style='letter-spacing:-2.9pt'> </span>quella<span
-style='letter-spacing:.3pt'> </span>città,<span style='letter-spacing:.3pt'> </span>questo<span
-style='letter-spacing:.35pt'> </span>chiede<span style='letter-spacing:.3pt'> </span>per<span
-style='letter-spacing:.35pt'> </span>prima<span style='letter-spacing:.3pt'> </span>cosa<span
-style='letter-spacing:.35pt'> </span>al<span style='letter-spacing:.3pt'> </span>Loadbalancer<span
-style='letter-spacing:.35pt'> </span>l’indirizzo<span style='letter-spacing:
-.3pt'> </span>del<span style='letter-spacing:.35pt'> </span>provider<span
-style='letter-spacing:.3pt'> </span>Place<span style='letter-spacing:.35pt'> </span>of<span
-style='letter-spacing:.3pt'> </span>City<span style='letter-spacing:.3pt'> </span>a<span
-style='letter-spacing:.05pt'> </span>cui effettuare la<span style='letter-spacing:
-.05pt'> </span>richiesta di questa<span style='letter-spacing:.05pt'> </span>lista.
-Fornitogli<span style='letter-spacing:.05pt'> </span>tale indirizzo,
-TravelManager<span style='letter-spacing:.05pt'> </span>inoltrerà<span
-style='letter-spacing:.05pt'> </span>parallelamente<span style='letter-spacing:
-.05pt'> </span>due<span style='letter-spacing:.1pt'> </span>richieste:<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.1pt'> </span>richiesta<span
-style='letter-spacing:.1pt'> </span>(tramite<span style='letter-spacing:.1pt'> </span>REST)<span
-style='letter-spacing:.1pt'> </span>del<span style='letter-spacing:.1pt'> </span>tempo<span
-style='letter-spacing:.1pt'> </span>atmosferico<span style='letter-spacing:
-.1pt'> </span>per<span style='letter-spacing:.1pt'> </span>quella<span
-style='letter-spacing:.1pt'> </span>città<span style='letter-spacing:.1pt'> </span>in<span
-style='letter-spacing:.05pt'> </span>quel giorno<span style='letter-spacing:
-.05pt'> </span>e la<span style='letter-spacing:.05pt'> </span>richiesta
-(tramite<span style='letter-spacing:.05pt'> </span>SOAP)<span style='letter-spacing:
-.05pt'> </span>delle attività<span style='letter-spacing:.05pt'> </span>per
-quella<span style='letter-spacing:.05pt'> </span>città<span style='letter-spacing:
-.05pt'> </span>( all’indirizzo<span style='letter-spacing:.05pt'> </span>che il<span
-style='letter-spacing:.05pt'> </span>Loadbalancer ha<span style='letter-spacing:
-.05pt'> </span>restituito<span style='letter-spacing:.05pt'> </span>al
-prosumer).<span style='letter-spacing:.05pt'> </span>La<span style='letter-spacing:
-.05pt'> </span>prima<span style='letter-spacing:.05pt'> </span>verrà richiesta<span
-style='letter-spacing:.05pt'> </span>al<span style='letter-spacing:.05pt'> </span>provider<span
-style='letter-spacing:.05pt'> </span>PlacesOfCity, che<span style='letter-spacing:
-.05pt'> </span>a<span style='letter-spacing:.05pt'> </span>sua volta<span
-style='letter-spacing:.05pt'> </span>interrogherà<span style='letter-spacing:
-.05pt'> </span>il<span style='letter-spacing:.05pt'> </span>Data<span
-style='letter-spacing:.05pt'> </span>Base<span style='letter-spacing:.05pt'> </span>per<span
-style='letter-spacing:.05pt'> </span>essere<span style='letter-spacing:.05pt'> </span>in<span
-style='letter-spacing:.05pt'> </span>grado<span style='letter-spacing:.05pt'> </span>di<span
-style='letter-spacing:.05pt'> </span>fornire<span style='letter-spacing:.05pt'>
-</span>tale<span style='letter-spacing:.05pt'> </span>risposta.<span
-style='letter-spacing:.05pt'> </span>La<span style='letter-spacing:.05pt'> </span>seconda
-verrà<span style='letter-spacing:.05pt'> </span>richiesta<span
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quando l’utente<span style='letter-spacing:.1pt'>
+</span>richiede al prosumer,<span style='letter-spacing:.1pt'>
+</span>tramite REST, la lista delle attività proposte<span style='letter-spacing:.1pt'>
+</span>da Beatrice per quella città, questo chiede per prima cosa al Loadbalancer l’indirizzo<span style='letter-spacing:
+.3pt'> </span>del provider Place of City a cui effettuare la richiesta di questa lista.
+Fornitogli tale indirizzo,
+TravelManager inoltrerà parallelamente due richieste: la richiesta (tramite REST) del tempo atmosferico<span style='letter-spacing:
+.1pt'> </span>per quella città in quel giorno e la richiesta
+(tramite SOAP) delle attività per
+quella città ( all’indirizzo che il Loadbalancer ha restituito al
+prosumer). La prima verrà richiesta al provider PlacesOfCity, che a sua volta interrogherà il Data Base per essere in grado di fornire tale risposta. La seconda
+verrà richiesta<span
 style='letter-spacing:-.25pt'> </span>al<span style='letter-spacing:-.25pt'> </span>provider<span
 style='letter-spacing:-.2pt'> </span>Weather.<span style='letter-spacing:-.25pt'>
 </span>Non<span style='letter-spacing:-.25pt'> </span>appena<span
@@ -13748,14 +12896,7 @@ style='letter-spacing:-.2pt'> </span>i<span style='letter-spacing:-.25pt'> </spa
 style='letter-spacing:-.25pt'> </span>avranno<span style='letter-spacing:-.2pt'>
 </span>risposto<span style='letter-spacing:-.25pt'> </span>al<span
 style='letter-spacing:-.2pt'> </span>prosumer,<span style='letter-spacing:-.25pt'>
-</span>TravelManager<span style='letter-spacing:-2.9pt'> </span>gestirà<span
-style='letter-spacing:.2pt'> </span>le<span style='letter-spacing:.25pt'> </span>informazioni<span
-style='letter-spacing:.2pt'> </span>appena<span style='letter-spacing:.25pt'> </span>ricevute<span
-style='letter-spacing:.25pt'> </span>componendo<span style='letter-spacing:
-.2pt'> </span>la<span style='letter-spacing:.25pt'> </span>lista<span
-style='letter-spacing:.2pt'> </span>delle<span style='letter-spacing:.25pt'> </span>attività<span
-style='letter-spacing:.25pt'> </span>secondo<span style='letter-spacing:.2pt'> </span>il<span
-style='letter-spacing:.25pt'> </span>tempo<span style='letter-spacing:.05pt'> </span>metereologico<span
+</span>TravelManager gestirà le informazioni appena ricevute componendo la lista delle attività secondo il tempo metereologico<span
 style='letter-spacing:.55pt'> </span>della<span style='letter-spacing:.55pt'> </span>città<span
 style='letter-spacing:.55pt'> </span>in<span style='letter-spacing:.6pt'> </span>quel<span
 style='letter-spacing:.55pt'> </span>momento,<span style='letter-spacing:.55pt'>
@@ -13763,16 +12904,9 @@ style='letter-spacing:.55pt'> </span>momento,<span style='letter-spacing:.55pt'>
 style='letter-spacing:.6pt'> </span>le<span style='letter-spacing:.55pt'> </span>attività<span
 style='letter-spacing:.55pt'> </span>disponibili<span style='letter-spacing:
 .55pt'> </span>in<span style='letter-spacing:.6pt'> </span>quel<span
-style='letter-spacing:.55pt'> </span>momento<span style='letter-spacing:.05pt'>
-</span>secondo<span style='letter-spacing:.3pt'> </span>il<span
-style='letter-spacing:.35pt'> </span>meteo<span style='letter-spacing:.35pt'> </span>e<span
-style='letter-spacing:.35pt'> </span>l’orario.<span style='letter-spacing:.3pt'>
-</span>Composta<span style='letter-spacing:.35pt'> </span>questa<span
-style='letter-spacing:.35pt'> </span>lista,<span style='letter-spacing:.35pt'> </span>il<span
-style='letter-spacing:.3pt'> </span>risultato<span style='letter-spacing:.35pt'>
-</span>sarà<span style='letter-spacing:.35pt'> </span>mostrato<span
-style='letter-spacing:.35pt'> </span>all’utente<span style='letter-spacing:
-.3pt'> </span>tramite<span style='letter-spacing:.05pt'> </span>Beatrice.</span></p>
+style='letter-spacing:.55pt'> </span>momento secondo il meteo e l’orario.<span style='letter-spacing:.3pt'>
+</span>Composta questa lista, il risultato sarà mostrato all’utente<span style='letter-spacing:
+.3pt'> </span>tramite Beatrice.</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13833,14 +12967,12 @@ style='letter-spacing:-.75pt'> </span>ME</span></p>
 11.0pt;font-family:"Arial MT",sans-serif;mso-hansi-font-family:Arial;
 position:relative;top:-1.0pt;mso-text-raise:1.0pt;font-weight:normal;
 mso-bidi-font-weight:bold'>-<span style='letter-spacing:3.45pt'> </span></span><span
-lang=IT>Per<span style='letter-spacing:.1pt'> </span>l'utilizzo<span
-style='letter-spacing:.15pt'> </span>del<span style='letter-spacing:.1pt'> </span>progetto:</span></h1>
+lang=IT>Per l'utilizzo del progetto:</span></h1>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:211.05pt;
 margin-bottom:0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:190%'><span
 lang=IT>utilizzando eclipse, importare il contenuto della cartella PROJECT:<span
-style='letter-spacing:-2.95pt'> </span>File/Import/Existing Maven<span
-style='letter-spacing:.05pt'> </span>Projects</span></p>
+style='letter-spacing:-2.95pt'> </span>File/Import/Existing Maven Projects</span></p>
 
 <p class=MsoBodyText style='margin-top:.45pt;margin-right:58.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una<span
@@ -13851,8 +12983,8 @@ style='letter-spacing:.65pt'> </span>pacchetti<span style='letter-spacing:.7pt'>
 style='letter-spacing:.7pt'> </span>il<span style='letter-spacing:.65pt'> </span>progetto,<span
 style='letter-spacing:.7pt'> </span>importare<span style='letter-spacing:.7pt'>
 </span>in<span style='letter-spacing:.7pt'> </span>phpmyadmin<span
-style='letter-spacing:.65pt'> </span>il<span style='letter-spacing:-2.9pt'> </span>dump
-del database presente<span style='letter-spacing:.05pt'> </span>nella cartella:</span></p>
+style='letter-spacing:.65pt'> </span>il dump
+del database presente nella cartella:</span></p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13867,37 +12999,10 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT"'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quindi<span
-style='letter-spacing:.15pt'> </span>creare<span style='letter-spacing:.2pt'> </span>un<span
-style='letter-spacing:.2pt'> </span>nuovo<span style='letter-spacing:.2pt'> </span>database<span
-style='letter-spacing:.2pt'> </span>denominato<span style='letter-spacing:.2pt'>
-</span>placesofcity<span style='letter-spacing:.2pt'> </span>e<span
-style='letter-spacing:.2pt'> </span>importare<span style='letter-spacing:.15pt'>
-</span>il<span style='letter-spacing:.2pt'> </span>file<span style='letter-spacing:
-.2pt'> </span>in<span style='letter-spacing:.2pt'> </span>precendenza<span
-style='letter-spacing:-2.9pt'> </span>descritto.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Quindi creare un nuovo database denominato placesofcity e importare il file in precendenza descritto.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.5pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il<span
-style='letter-spacing:.25pt'> </span>progetto<span style='letter-spacing:.25pt'>
-</span>di<span style='letter-spacing:.3pt'> </span>default<span
-style='letter-spacing:.25pt'> </span>si<span style='letter-spacing:.25pt'> </span>aspetta<span
-style='letter-spacing:.3pt'> </span>di<span style='letter-spacing:.25pt'> </span>accedere<span
-style='letter-spacing:.25pt'> </span>al<span style='letter-spacing:.25pt'> </span>database<span
-style='letter-spacing:.3pt'> </span>sulla<span style='letter-spacing:.25pt'> </span>porta<span
-style='letter-spacing:.25pt'> </span>8889,<span style='letter-spacing:.3pt'> </span>in<span
-style='letter-spacing:.25pt'> </span>caso<span style='letter-spacing:.25pt'> </span>questa<span
-style='letter-spacing:.3pt'> </span>non<span style='letter-spacing:.25pt'> </span>risulti<span
-style='letter-spacing:-2.9pt'> </span>essere la<span style='letter-spacing:
-.05pt'> </span>stessa<span style='letter-spacing:.05pt'> </span>di<span
-style='letter-spacing:.05pt'> </span>quella<span style='letter-spacing:.05pt'> </span>in<span
-style='letter-spacing:.05pt'> </span>esecuzione<span style='letter-spacing:
-.05pt'> </span>sul<span style='letter-spacing:.05pt'> </span>proprio<span
-style='letter-spacing:.05pt'> </span>PC,<span style='letter-spacing:.05pt'> </span>bisognerà<span
-style='letter-spacing:.05pt'> </span>cambiarla<span style='letter-spacing:.05pt'>
-</span>nella<span style='letter-spacing:.05pt'> </span>configurazione<span
-style='letter-spacing:.05pt'> </span>di accesso nel file<span style='letter-spacing:
-.05pt'> </span>situato in:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il progetto di default si aspetta di accedere al database sulla porta 8889, in caso questa non risulti essere la stessa di quella in esecuzione sul proprio PC, bisognerà cambiarla nella configurazione di accesso nel file situato in:</span></p>
 
 <p class=MsoBodyText style='margin-top:.3pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13923,38 +13028,14 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 "Arial MT";mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>cambiando<span
-style='letter-spacing:.15pt'> </span>la<span style='letter-spacing:.15pt'> </span>porta<span
-style='letter-spacing:.15pt'> </span>8889<span style='letter-spacing:.15pt'> </span>con<span
-style='letter-spacing:.2pt'> </span>quella<span style='letter-spacing:.15pt'> </span>che<span
-style='letter-spacing:.15pt'> </span>si<span style='letter-spacing:.15pt'> </span>ha<span
-style='letter-spacing:.2pt'> </span>a<span style='letter-spacing:.15pt'> </span>disposizione.<span
-style='letter-spacing:.15pt'> </span>Nel<span style='letter-spacing:.15pt'> </span>caso<span
-style='letter-spacing:.2pt'> </span>si<span style='letter-spacing:.15pt'> </span>voglia<span
-style='letter-spacing:.15pt'> </span>cambiare<span style='letter-spacing:.15pt'>
-</span>il<span style='letter-spacing:.2pt'> </span>nome<span style='letter-spacing:
--2.95pt'> </span>al database<span style='letter-spacing:.05pt'> </span>su
-phpmyadmin<span style='letter-spacing:.05pt'> </span>sarà<span
-style='letter-spacing:.05pt'> </span>necessario modificare<span
-style='letter-spacing:.05pt'> </span>la<span style='letter-spacing:.05pt'> </span>stessa
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>cambiando la<span style='letter-spacing:.15pt'> </span>porta 8889<span style='letter-spacing:.15pt'> </span>con quella<span style='letter-spacing:.15pt'> </span>che si<span style='letter-spacing:.15pt'> </span>ha a<span style='letter-spacing:.15pt'> </span>disposizione. Nel<span style='letter-spacing:.15pt'> </span>caso si<span style='letter-spacing:.15pt'> </span>voglia cambiare il nome<span style='letter-spacing:
+-2.95pt'> </span>al database su
+phpmyadmin sarà necessario modificare la stessa
 riga.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una<span
-style='letter-spacing:.1pt'> </span>volta<span style='letter-spacing:.15pt'> </span>fatti<span
-style='letter-spacing:.1pt'> </span>tutti<span style='letter-spacing:.15pt'> </span>i<span
-style='letter-spacing:.1pt'> </span>passaggi<span style='letter-spacing:.15pt'>
-</span>in<span style='letter-spacing:.1pt'> </span>precedenza<span
-style='letter-spacing:.1pt'> </span>spiegati<span style='letter-spacing:.15pt'>
-</span>bisognerà<span style='letter-spacing:.1pt'> </span>creare<span
-style='letter-spacing:.15pt'> </span>un<span style='letter-spacing:.1pt'> </span>server<span
-style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:.1pt'> </span>esecuzione<span
-style='letter-spacing:.15pt'> </span>per<span style='letter-spacing:-2.9pt'> </span>il
-progetto.<span style='letter-spacing:.05pt'> </span>Sempre<span
-style='letter-spacing:.05pt'> </span>all'interno<span style='letter-spacing:
-.05pt'> </span>di<span style='letter-spacing:.05pt'> </span>eclipse<span
-style='letter-spacing:.05pt'> </span>seguire<span style='letter-spacing:.05pt'>
-</span>il<span style='letter-spacing:.05pt'> </span>path:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta<span style='letter-spacing:.15pt'> </span>fatti tutti<span style='letter-spacing:.15pt'> </span>i passaggi in precedenza spiegati bisognerà creare un server di esecuzione per il
+progetto. Sempre all'interno di eclipse seguire il path:</span></p>
 
 <p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -13972,64 +13053,31 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>una
 volta aperta la finestra di configurazione del server scegliere la versione
 &quot;Tomcat v8.5 Server&quot;<span style='letter-spacing:-2.95pt'> </span>importando
-il path<span style='letter-spacing:.05pt'> </span>della cartella<span
-style='letter-spacing:.05pt'> </span>di Tomcat<span style='letter-spacing:.05pt'>
-</span>8.5.</span></p>
+il path della cartella di Tomcat 8.5.</span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Prima
-di<span style='letter-spacing:.05pt'> </span>eseguire<span style='letter-spacing:
-.05pt'> </span>l'intero<span style='letter-spacing:.05pt'> </span>progetto<span
-style='letter-spacing:.05pt'> </span>sul<span style='letter-spacing:.05pt'> </span>server<span
-style='letter-spacing:.05pt'> </span>è<span style='letter-spacing:.05pt'> </span>necessario<span
-style='letter-spacing:.05pt'> </span>configurare<span style='letter-spacing:
-.05pt'> </span>altri<span style='letter-spacing:.05pt'> </span>due server.<span
-style='letter-spacing:.05pt'> </span>Questo<span style='letter-spacing:.05pt'> </span>perchè
-il loadbalancer<span style='letter-spacing:.05pt'> </span>si aspetta<span
-style='letter-spacing:.05pt'> </span>di trovare in<span style='letter-spacing:
-.05pt'> </span>esecuzione un<span style='letter-spacing:.05pt'> </span>server
-in esecuzione<span style='letter-spacing:.05pt'> </span>sulla porta<span
-style='letter-spacing:.05pt'> </span>8081<span style='letter-spacing:-2.95pt'> </span>ed<span
-style='letter-spacing:.2pt'> </span>uno<span style='letter-spacing:.2pt'> </span>sulla<span
-style='letter-spacing:.25pt'> </span>porta<span style='letter-spacing:.2pt'> </span>8082.<span
-style='letter-spacing:.25pt'> </span>Questi<span style='letter-spacing:.2pt'> </span>due<span
-style='letter-spacing:.25pt'> </span>ospiteranno<span style='letter-spacing:
-.2pt'> </span>l'esecuzione<span style='letter-spacing:.2pt'> </span>del<span
-style='letter-spacing:.25pt'> </span>servizio<span style='letter-spacing:.2pt'>
-</span>&quot;placesofcity&quot;.</span></p>
+di eseguire l'intero progetto sul server è necessario configurare altri due server. Questo perchè
+il loadbalancer si aspetta di trovare in esecuzione un server
+in esecuzione sulla porta 8081<span style='letter-spacing:-2.95pt'> </span>ed uno sulla porta 8082. Questi due ospiteranno l'esecuzione del servizio &quot;placesofcity&quot;.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:54.75pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una
 volta creati tutti i server, mandare in esecuzione sui server 8081 e 8082 il
-servizio placesofcity<span style='letter-spacing:-2.95pt'> </span>e<span
-style='letter-spacing:.05pt'> </span>lanciare<span style='letter-spacing:.1pt'>
-</span>l'esecuzione<span style='letter-spacing:.05pt'> </span>di<span
-style='letter-spacing:.1pt'> </span>tutti<span style='letter-spacing:.1pt'> </span>i<span
-style='letter-spacing:.05pt'> </span>servizi<span style='letter-spacing:.1pt'> </span>creati<span
-style='letter-spacing:.1pt'> </span>sul<span style='letter-spacing:.05pt'> </span>server<span
-style='letter-spacing:.1pt'> </span>in<span style='letter-spacing:.1pt'> </span>esecuzione<span
-style='letter-spacing:.05pt'> </span>sulla<span style='letter-spacing:.1pt'> </span>porta<span
-style='letter-spacing:.1pt'> </span>8080<span style='letter-spacing:.05pt'> </span>COMPRESO<span
+servizio placesofcity<span style='letter-spacing:-2.95pt'> </span>e lanciare<span style='letter-spacing:.1pt'>
+</span>l'esecuzione di tutti i servizi creati sul server in esecuzione sulla porta 8080 COMPRESO<span
 style='letter-spacing:-.05pt'> </span>placesofcity.</span></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:57.9pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se<span
-style='letter-spacing:.05pt'> </span>si<span style='letter-spacing:.05pt'> </span>vogliono<span
-style='letter-spacing:.1pt'> </span>creare<span style='letter-spacing:.05pt'> </span>delle<span
-style='letter-spacing:.1pt'> </span>altre<span style='letter-spacing:.05pt'> </span>istanze<span
-style='letter-spacing:.1pt'> </span>per<span style='letter-spacing:.05pt'> </span>il<span
-style='letter-spacing:.1pt'> </span>servizio<span style='letter-spacing:.05pt'>
-</span>&quot;placesofcity&quot;<span style='letter-spacing:.1pt'> </span>è<span
-style='letter-spacing:.05pt'> </span>necessario<span style='letter-spacing:
-.1pt'> </span>creare<span style='letter-spacing:.05pt'> </span>altri<span
-style='letter-spacing:.05pt'> </span>server, eseguire su questi il servizio e
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Se si vogliono creare delle altre istanze per il servizio &quot;placesofcity&quot; è necessario<span style='letter-spacing:
+.1pt'> </span>creare altri server, eseguire su questi il servizio e
 modificare il loadbalancer così da fargli presente l'esistenza<span
 style='letter-spacing:-2.95pt'> </span>di altri server che fruiscono il
 servizio. </span><span lang=EN-US style='mso-ansi-language:EN-US'>Per
-aggiungere<span style='letter-spacing:.05pt'> </span>altri server al
+aggiungere altri server al
 loadbalacer andare in:<o:p></o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:.25pt'><span lang=EN-US
@@ -14038,21 +13086,11 @@ style='font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ansi-language:EN-US'><o:p>
 <p class=MsoNormal style='margin-left:46.0pt;line-height:101%'><i
 style='mso-bidi-font-style:normal'><span lang=EN-US style='font-family:"Arial",sans-serif;
 mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-language:
-EN-US'>loadbalancer/src/main/java/it/univaq/disim/sose/project./loadbalancer/business/impl/<span
-style='letter-spacing:.05pt'> </span>LoadBalancerServiceImpl.java<o:p></o:p></span></i></p>
+EN-US'>loadbalancer/src/main/java/it/univaq/disim/sose/project./loadbalancer/business/impl/ LoadBalancerServiceImpl.java<o:p></o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:11.45pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una<span
-style='letter-spacing:.05pt'> </span>volta<span style='letter-spacing:.1pt'> </span>aperto<span
-style='letter-spacing:.05pt'> </span>il<span style='letter-spacing:.1pt'> </span>file<span
-style='letter-spacing:.1pt'> </span>aggiungere<span style='letter-spacing:.05pt'>
-</span>alla<span style='letter-spacing:.1pt'> </span>lista<span
-style='letter-spacing:.1pt'> </span>tutte<span style='letter-spacing:.05pt'> </span>le<span
-style='letter-spacing:.1pt'> </span>istanze<span style='letter-spacing:.05pt'> </span>che<span
-style='letter-spacing:.1pt'> </span>si<span style='letter-spacing:.1pt'> </span>vogliono,<span
-style='letter-spacing:.05pt'> </span>tenendo<span style='letter-spacing:.1pt'> </span>presente<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:-2.95pt'> </span>porta
-in cui vengono<span style='letter-spacing:.05pt'> </span>eseguite.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Una volta aperto il file aggiungere alla lista tutte le istanze che si vogliono, tenendo presente la<span style='letter-spacing:-2.95pt'> </span>porta
+in cui vengono eseguite.</span></p>
 
 <p class=MsoBodyText style='margin-top:.3pt'><span lang=IT style='font-size:
 10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -14125,22 +13163,14 @@ exactly'>Per l'utilizzo:</p>
 <p class=MsoBodyText style='margin-top:.2pt;margin-right:58.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>aprire il Terminale e recarsi all'interno della cartella ARCHETYPE. Una volta all'interno della cartella digitare il comando:</p>
 
-<p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
-10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal style='margin-left:46.0pt'><b>mvn</b> clean install</p>
 
-<p class=MsoNormal style='margin-left:46.0pt'><b style='mso-bidi-font-weight:
-normal'><i style='mso-bidi-font-style:normal'><b>mvn</b> clean install</p>
-
-<p class=MsoBodyText style='margin-top:.35pt'><i style='mso-bidi-font-style:
-normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT"'><o:p>&nbsp;</o:p></span></i></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:.05pt;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>Eseguito il comando uscire dalla cartella e posizionarsi nella cartella in cui si vuole generare il progetto. Eseguire quindi il comando:</p>
 
-<p class=MsoBodyText style='margin-top:.35pt'><span lang=IT style='font-size:
-10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoBodyText style='margin-top:.35pt'></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:86.15pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:101%'>
@@ -14149,48 +13179,38 @@ font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-fa
 </p>
 
 <p class=MsoBodyText style='margin-top:10.9pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT>Modificando a<span style='letter-spacing:.95pt'> </span>proprio piacimento:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt'>>Modificando a proprio piacimento:</p>
+
+<br>
+
+<p class=MsoBodyText style='margin-left:46.0pt;line-height:12.0pt;mso-line-height-rule:
+exactly'>-DartifactId</p>
+
+<p class=MsoBodyText style='margin-left:46.0pt;line-height:12.0pt;mso-line-height-rule:
+exactly'>-Dversion</p>
+
+<p class=MsoBodyText style='margin-left:46.0pt;line-height:12.3pt;mso-line-height-rule:
+exactly'>-DarchetypeGroupId</p>
+
+<p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:46.0pt;margin-bottom:.0001pt'>e mantenendo invariate:</p>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT style='mso-font-width:105%'>-DgroupId</span></p>
-
-<p class=MsoBodyText style='margin-left:46.0pt;line-height:12.0pt;mso-line-height-rule:
-exactly'><span lang=IT style='mso-font-width:105%'>-DartifactId</span></p>
-
-<p class=MsoBodyText style='margin-left:46.0pt;line-height:12.0pt;mso-line-height-rule:
-exactly'><span lang=IT>-Dversion</span></p>
+exactly'>-DarchetypeArtifactId</p>
 
 <p class=MsoBodyText style='margin-left:46.0pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>-DarchetypeGroupId</span></p>
-
-<p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT>e mantenendo<span
-style='letter-spacing:.05pt'> </span>invariate:</span></p>
-
-<p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>-DarchetypeArtifactId</span></p>
-
-<p class=MsoBodyText style='margin-left:46.0pt;line-height:12.3pt;mso-line-height-rule:
-exactly'><span lang=IT>-DarchetypeVersion</span></p>
+exactly'>-DarchetypeVersion</p>
 
 </div>
 
-<span lang=IT style='font-size:11.0pt;font-family:"Arial MT",sans-serif;
-mso-fareast-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-language:
-IT;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br clear=all
-style='page-break-before:always;mso-break-type:section-break'>
-</span>
+<br>
 
 <div class=WordSection17>
 
-<h1><span lang=IT>DESKTOP<span style='letter-spacing:-.7pt'> </span>APPLICATION</span></h1>
+<h1><span lang=IT>DESKTOP APPLICATION</h1>
 
-<p class=MsoBodyText style='margin-top:.4pt'><b style='mso-bidi-font-weight:
-normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT"'><o:p>&nbsp;</o:p></span></b></p>
+<br>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:71.0pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La
@@ -14227,25 +13247,9 @@ style='mso-ignore:vglayout' clear=ALL>
 11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:9.9pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La<span
-style='letter-spacing:.3pt'> </span>seguente<span style='letter-spacing:.35pt'>
-</span>view<span style='letter-spacing:.3pt'> </span>mostra<span
-style='letter-spacing:.35pt'> </span>cosa<span style='letter-spacing:.35pt'> </span>succede<span
-style='letter-spacing:.3pt'> </span>quando<span style='letter-spacing:.35pt'> </span>si<span
-style='letter-spacing:.35pt'> </span>seleziona<span style='letter-spacing:.3pt'>
-</span>un’attività<span style='letter-spacing:.35pt'> </span>dall’elenco<span
-style='letter-spacing:.3pt'> </span>sulla<span style='letter-spacing:.35pt'> </span>parte<span
-style='letter-spacing:.05pt'> </span>sinistra<span style='letter-spacing:.2pt'>
-</span>dell’immagine.<span style='letter-spacing:.25pt'> </span>Si<span
-style='letter-spacing:.25pt'> </span>noti<span style='letter-spacing:.25pt'> </span>che<span
-style='letter-spacing:.25pt'> </span>vengono<span style='letter-spacing:.25pt'>
-</span>indicati<span style='letter-spacing:.25pt'> </span>i<span
-style='letter-spacing:.2pt'> </span>tempi<span style='letter-spacing:.25pt'> </span>di<span
-style='letter-spacing:.25pt'> </span>percorrenza<span style='letter-spacing:
-.25pt'> </span>per<span style='letter-spacing:.25pt'> </span>raggiungere<span
-style='letter-spacing:.25pt'> </span>tale<span style='letter-spacing:-2.9pt'> </span>attività
-a<span style='letter-spacing:.05pt'> </span>seconda del<span style='letter-spacing:
-.05pt'> </span>mezzo mostrato:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La seguente view mostra cosa succede quando si seleziona<span style='letter-spacing:.3pt'>
+</span>un’attività dall’elenco sulla parte sinistra dell’immagine. Si noti che vengono indicati i tempi di percorrenza per raggiungere tale attività
+a seconda del mezzo mostrato:</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -14290,16 +13294,9 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 <div class=WordSection18>
 
 <p class=MsoBodyText style='margin-top:4.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Cliccando<span
-style='letter-spacing:.3pt'> </span>su<span style='letter-spacing:.3pt'> </span>uno<span
-style='letter-spacing:.3pt'> </span>dei<span style='letter-spacing:.3pt'> </span>tre<span
-style='letter-spacing:.3pt'> </span>mezzi<span style='letter-spacing:.3pt'> </span>di<span
-style='letter-spacing:.3pt'> </span>trasporto<span style='letter-spacing:.3pt'>
-</span>proposti<span style='letter-spacing:.3pt'> </span>viene<span
-style='letter-spacing:.3pt'> </span>visualizzato<span style='letter-spacing:
-.35pt'> </span>il<span style='letter-spacing:.3pt'> </span>percorso<span
-style='letter-spacing:.3pt'> </span>più<span style='letter-spacing:.3pt'> </span>conveniente<span
-style='letter-spacing:-2.9pt'> </span>da effettuare con quel mezzo :</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Cliccando su uno dei tre mezzi di trasporto<span style='letter-spacing:.3pt'>
+</span>proposti viene visualizzato<span style='letter-spacing:
+.35pt'> </span>il percorso più conveniente da effettuare con quel mezzo :</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
@@ -14334,19 +13331,8 @@ style='mso-ignore:vglayout' clear=ALL>
 11.0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:10.1pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Effettuato<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>login<span
-style='letter-spacing:.1pt'> </span>è<span style='letter-spacing:.1pt'> </span>possibile<span
-style='letter-spacing:.1pt'> </span>visualizzare<span style='letter-spacing:
-.15pt'> </span>i<span style='letter-spacing:.1pt'> </span>like<span
-style='letter-spacing:.1pt'> </span>lasciati<span style='letter-spacing:.1pt'> </span>con<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>proprio<span
-style='letter-spacing:.1pt'> </span>profilo<span style='letter-spacing:.15pt'> </span>e<span
-style='letter-spacing:.1pt'> </span>la<span style='letter-spacing:.1pt'> </span>form<span
-style='letter-spacing:.1pt'> </span>per<span style='letter-spacing:.1pt'> </span>inserire<span
-style='letter-spacing:.1pt'> </span>un<span style='letter-spacing:-2.9pt'> </span>nuovo
-commento<span style='letter-spacing:.05pt'> </span>per una<span
-style='letter-spacing:.05pt'> </span>data<span style='letter-spacing:.05pt'> </span>attività:</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Effettuato il login è possibile visualizzare i like lasciati con il proprio profilo<span style='letter-spacing:.15pt'> </span>e la form per inserire un nuovo
+commento per una data attività:</span></p>
 
 <p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
 11.0pt'><o:p>&nbsp;</o:p></span></p>
