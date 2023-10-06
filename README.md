@@ -1777,7 +1777,7 @@ exactly'>Per l'utilizzo:</p>
 </p>
 
 <p class=MsoBodyText style='margin-top:10.9pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'>>Modificando a proprio piacimento:</p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt'>Editing to your liking:</p>
 
 <br>
 
