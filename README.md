@@ -12861,7 +12861,7 @@ style='letter-spacing:-.05pt'> </span>lo comunica al client tramite il REST.</sp
   </tr>
   <tr>
    <td></td>
-   <td><img width=500 height=377 src="README.fld/image004.jpg" v:shapes="image004.jpeg"></td>
+   <td><img width=538 height=307 src="README.fld/image018.jpg" v:shapes="image4.png"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
