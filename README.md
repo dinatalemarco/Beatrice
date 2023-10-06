@@ -28,19 +28,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
 
 <h1>Beatrice</h1>
-<h2>The Web Application that guides you on a amazing journey like Beatrice guides Dante in Haven</h2>
-
-<p class=MsoBodyText><b style='mso-bidi-font-weight:normal'><span lang=IT
-style='font-size:30.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
-mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></b></p>
+<span>The Web Application that guides you on a amazing journey like Beatrice guides Dante in Haven</span>
 
 </div>
-
-<span lang=IT style='font-size:16.0pt;mso-bidi-font-size:11.0pt;font-family:
-"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT";mso-ansi-language:IT;mso-fareast-language:EN-US;mso-bidi-language:
-AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-break'>
-</span>
 
 <div class=WordSection2>
 
