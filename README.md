@@ -14120,7 +14120,7 @@ font-family:"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";
 mso-bidi-font-family:"Arial MT";position:relative;top:-1.0pt;mso-text-raise:
 1.0pt;mso-font-width:118%;font-weight:normal;mso-bidi-font-weight:bold'><span
 style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IT>Per utilizzare l'ARCHETYPE realizzato:</span></h1>
+</span></span></span><![endif]><span lang=IT>To use the realized ARCHETYPE:</span></h1>
 
 <p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
