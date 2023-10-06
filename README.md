@@ -12853,7 +12853,7 @@ style='letter-spacing:.1pt'> </span>o<span style='letter-spacing:-2.9pt'> </span
 style='letter-spacing:-.05pt'> </span>lo comunica al client tramite il REST.</span></p>
 
 <p class=MsoBodyText style='margin-top:.45pt'>
-<img width=500 height=377 src="README.fld/image004.jpg" v:shapes="image2.jpeg">
+
  <span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
   <tr>
@@ -12861,7 +12861,7 @@ style='letter-spacing:-.05pt'> </span>lo comunica al client tramite il REST.</sp
   </tr>
   <tr>
    <td></td>
-   <td><img width=542 height=370 v:shapes="Group_x0020_13 Picture_x0020_14 Freeform_x0020_15"></td>
+   <td><img width=500 height=377 src="README.fld/image004.jpg" v:shapes="image004.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
