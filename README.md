@@ -22,35 +22,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <div class=WordSection1>
 
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;font-family:"Times New Roman",serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;font-family:"Times New Roman",serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;font-family:"Times New Roman",serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;font-family:"Times New Roman",serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;font-family:"Times New Roman",serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;font-family:"Times New Roman",serif;mso-hansi-font-family:"Arial MT";
-mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoBodyText style='margin-top:.5pt'><span lang=IT style='font-size:
 11.5pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman",serif;
 mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoTitle><span lang=IT style='color:#3D3C3D'>Beatrice</span></p>
+<div style="width: 100%; text-align: center;"><h1>Beatrice</h1></div>
 
 <p class=MsoBodyText><b style='mso-bidi-font-weight:normal'><span lang=IT
 style='font-size:30.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
