@@ -13813,1550 +13813,503 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
 
 <div class=WordSection12>
 
-<h1 style='line-height:12.3pt;mso-line-height-rule:exactly'><span lang=IT>INSTALLAZIONE</span></h1>
-
-<p class=MsoBodyText style='margin-top:.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>In<span
-style='letter-spacing:.1pt'> </span>questa<span style='letter-spacing:.15pt'> </span>sezione<span
-style='letter-spacing:.15pt'> </span>illustriamo<span style='letter-spacing:
-.15pt'> </span>le<span style='letter-spacing:.15pt'> </span>tecnologie<span
-style='letter-spacing:.1pt'> </span>e<span style='letter-spacing:.15pt'> </span>i<span
-style='letter-spacing:.15pt'> </span>tools<span style='letter-spacing:.15pt'> </span>usati<span
-style='letter-spacing:.15pt'> </span>ed<span style='letter-spacing:.1pt'> </span>una<span
-style='letter-spacing:.15pt'> </span>breve<span style='letter-spacing:.15pt'> </span>descrizione<span
-style='letter-spacing:.15pt'> </span>di<span style='letter-spacing:.15pt'> </span>come<span
-style='letter-spacing:-2.9pt'> </span>installare<span style='letter-spacing:
--.05pt'> </span>il sistema.</span></p>
-
-<p class=MsoBodyText style='margin-top:11.45pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT style='mso-font-width:
-95%'>TECHNOLOGIES<span style='letter-spacing:1.15pt'> </span>AND<span
-style='letter-spacing:1.2pt'> </span>TOOLS</span></p>
-
-<p class=MsoBodyText style='margin-top:.25pt'><span lang=IT style='font-size:
-11.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:46.15pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #7F7F7F .5pt;mso-yfti-tbllook:480;mso-padding-alt:
- 0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid #7F7F7F;mso-border-insidev:.5pt solid #7F7F7F'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.6pt'>
-  <td width=321 valign=top style='width:240.8pt;border:none;border-bottom:solid #7F7F7F 1.0pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:#BEC0BF;padding:0cm 0cm 0cm 0cm;
-  height:22.6pt'>
-  <p class=TableParagraph style='margin-top:4.8pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.3pt;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT";color:black;mso-color-alt:windowtext;letter-spacing:-.1pt'>Tool</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;mso-hansi-font-family:
-  "Arial MT";mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext;
-  letter-spacing:-.5pt'> </span></b><b style='mso-bidi-font-weight:normal'><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";color:black;
-  mso-color-alt:windowtext;letter-spacing:-.1pt'>or</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;mso-hansi-font-family:
-  "Arial MT";mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext;
-  letter-spacing:-.45pt'> </span></b><b style='mso-bidi-font-weight:normal'><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";color:black;
-  mso-color-alt:windowtext;letter-spacing:-.1pt'>Technology</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;mso-hansi-font-family:
-  "Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=321 valign=top style='width:240.8pt;border:none;border-bottom:solid #7F7F7F 1.0pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:#BEC0BF;padding:0cm 0cm 0cm 0cm;
-  height:22.6pt'>
-  <p class=TableParagraph style='margin-top:4.8pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.5pt;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT";color:black;mso-color-alt:windowtext'>Version</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt;font-family:"Arial",sans-serif;mso-hansi-font-family:
-  "Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.35pt'>
-  <td width=321 valign=top style='width:240.8pt;border:solid #BFBFBF 1.0pt;
-  border-top:none;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.7pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt'>JDK<o:p></o:p></span></p>
-  </td>
-  <td width=321 valign=top style='width:240.8pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-top-alt:solid #7F7F7F .5pt;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.7pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.35pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt'>1.8<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.5pt'>
-  <td width=321 valign=top style='width:240.8pt;border:solid #BFBFBF 1.0pt;
-  border-top:none;mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.05pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:windowtext'>Eclipse<span
-  style='letter-spacing:.2pt'> </span>Photon</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
-  <td width=321 valign=top style='width:240.8pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.05pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.35pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:windowtext'>4.8.0</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=321 valign=top style='width:240.8pt;border:solid #BFBFBF 1.0pt;
-  border-top:none;mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt'>Tomcat<o:p></o:p></span></p>
-  </td>
-  <td width=321 valign=top style='width:240.8pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.35pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt'>8.5<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=321 valign=top style='width:240.8pt;border:solid #BFBFBF 1.0pt;
-  border-top:none;mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.55pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:windowtext'>Maven</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
-  <td width=321 valign=top style='width:240.8pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.55pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.35pt;margin-bottom:.0001pt'><span lang=IT style='font-size:
-  10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:windowtext'>3.6.0</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:13.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:8.9pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT style='mso-font-width:
-95%'>API<span style='letter-spacing:.15pt'> </span>REST</span></p>
-
-<p class=MsoBodyText style='margin-top:11.35pt;margin-right:0cm;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt'><span lang=IT>Presentiamo<span
-style='letter-spacing:-.15pt'> </span>la<span style='letter-spacing:-.15pt'> </span>lista<span
-style='letter-spacing:-.15pt'> </span>delle<span style='letter-spacing:-.15pt'>
-</span>API<span style='letter-spacing:-.1pt'> </span>REST<span
-style='letter-spacing:-.15pt'> </span>messe<span style='letter-spacing:-.15pt'>
-</span>a<span style='letter-spacing:-.15pt'> </span>disposizione<span
-style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </span>prosumer:</span></p>
-
-<p class=MsoBodyText style='margin-top:.25pt'><span lang=IT style='font-size:
-11.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.6pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>infoPoint2PointByMeans</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Ottenere<span style='letter-spacing:.2pt'> </span>i<span
-  style='letter-spacing:.25pt'> </span>tempi<span style='letter-spacing:.25pt'>
-  </span>di<span style='letter-spacing:.25pt'> </span>percorrenza<span
-  style='letter-spacing:.2pt'> </span>tra<span style='letter-spacing:.25pt'> </span>due<span
-  style='letter-spacing:.25pt'> </span>punti</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:31.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:31.65pt'>
-  <p class=TableParagraph style='margin-top:3.4pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><span lang=IT style='color:black;mso-color-alt:windowtext;
-  mso-font-width:105%'>http://localhost:8080/travelmanager/api/maps-info-poiny2point/start/{startLon}/{startLat}/end/</span></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>{endLon}/{endLat}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:4.25pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.15pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.3pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{startLon}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.55pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Longitudine<span style='letter-spacing:.4pt'> </span>del<span
-  style='letter-spacing:.4pt'> </span>punto<span style='letter-spacing:.4pt'> </span>relativo<span
-  style='letter-spacing:.45pt'> </span>alla<span style='letter-spacing:.4pt'> </span>posizione<span
-  style='letter-spacing:.4pt'> </span>dell’utente</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
-  7.0pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{startLat}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Latitudine<span
-  style='letter-spacing:.35pt'> </span>del<span style='letter-spacing:.4pt'> </span>punto<span
-  style='letter-spacing:.4pt'> </span>relativo<span style='letter-spacing:.4pt'>
-  </span>alla<span style='letter-spacing:.4pt'> </span>posizione<span
-  style='letter-spacing:.35pt'> </span>dell’utente<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
-  6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{endLon}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Longitudine<span style='letter-spacing:.35pt'> </span>del<span
-  style='letter-spacing:.4pt'> </span>punto<span style='letter-spacing:.4pt'> </span>relativo<span
-  style='letter-spacing:.4pt'> </span>alla<span style='letter-spacing:.35pt'> </span>destinazione<span
-  style='letter-spacing:.4pt'> </span>dell’utente</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #FFFEBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-top-alt:#BFBFBF;mso-border-left-alt:
-  #FFFEBF;mso-border-bottom-alt:#FFFEBF;mso-border-right-alt:#BFBFBF;
-  mso-border-style-alt:solid;mso-border-width-alt:.25pt;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
-  center'>{endLat}</p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #FFFEBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#BFBFBF;mso-border-left-alt:#BFBFBF;mso-border-bottom-alt:
-  #FFFEBF;mso-border-right-alt:#FFFEBF;mso-border-style-alt:solid;mso-border-width-alt:
-  .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'>LAA</p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:.1pt'><span lang=IT style='font-size:
-12.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:4.35pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>routePoint2Point</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Ottenere<span style='letter-spacing:.45pt'> </span>il<span
-  style='letter-spacing:.45pt'> </span>percorso<span style='letter-spacing:
-  .45pt'> </span>verso<span style='letter-spacing:.5pt'> </span>l'attività<span
-  style='letter-spacing:.45pt'> </span>desiderata<span style='letter-spacing:
-  .45pt'> </span>attraverso<span style='letter-spacing:.45pt'> </span>un<span
-  style='letter-spacing:.5pt'> </span>determinato<span style='letter-spacing:
-  .45pt'> </span>mezzo<span style='letter-spacing:.45pt'> </span>di<span
-  style='letter-spacing:.45pt'> </span>trasposto</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:31.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:31.65pt'>
-  <p class=TableParagraph style='margin-top:3.15pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><span lang=IT style='color:black;mso-color-alt:windowtext;
-  mso-font-width:105%'>http://localhost:8080/travelmanager/api/maps-coordinate/means/{means}/start/{startLon}/</span></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>{startLat}/end/{endLon}/{endLat}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.95pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:3.9pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
-  6.9pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{means}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Mezzo<span style='letter-spacing:.4pt'> </span>scelto<span
-  style='letter-spacing:.4pt'> </span>per<span style='letter-spacing:.4pt'> </span>il<span
-  style='letter-spacing:.45pt'> </span>trasporto</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:22.45pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.45pt'>
-  <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.3pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{startLon}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.45pt'>
-  <p class=TableParagraph style='margin-top:4.55pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Longitudine<span
-  style='letter-spacing:.4pt'> </span>del<span style='letter-spacing:.4pt'> </span>punto<span
-  style='letter-spacing:.4pt'> </span>relativo<span style='letter-spacing:.45pt'>
-  </span>alla<span style='letter-spacing:.4pt'> </span>posizione<span
-  style='letter-spacing:.4pt'> </span>dell’utente<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
-  7.0pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{startLat}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Latitudine<span style='letter-spacing:.35pt'> </span>del<span
-  style='letter-spacing:.4pt'> </span>punto<span style='letter-spacing:.4pt'> </span>relativo<span
-  style='letter-spacing:.4pt'> </span>alla<span style='letter-spacing:.4pt'> </span>posizione<span
-  style='letter-spacing:.35pt'> </span>dell’utente</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
-  6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{endLon}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Longitudine<span
-  style='letter-spacing:.35pt'> </span>del<span style='letter-spacing:.4pt'> </span>punto<span
-  style='letter-spacing:.4pt'> </span>relativo<span style='letter-spacing:.4pt'>
-  </span>alla<span style='letter-spacing:.35pt'> </span>destinazione<span
-  style='letter-spacing:.4pt'> </span>dell’utente<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #FFFEBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-top-alt:#BFBFBF;mso-border-left-alt:
-  #FFFEBF;mso-border-bottom-alt:#FFFEBF;mso-border-right-alt:#BFBFBF;
-  mso-border-style-alt:solid;mso-border-width-alt:.25pt;background:#EFEFEF;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{endLat}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #FFFEBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#BFBFBF;mso-border-left-alt:#BFBFBF;mso-border-bottom-alt:
-  #FFFEBF;mso-border-right-alt:#FFFEBF;mso-border-style-alt:solid;mso-border-width-alt:
-  .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Latitudine<span style='letter-spacing:.35pt'> </span>del<span
-  style='letter-spacing:.35pt'> </span>punto<span style='letter-spacing:.35pt'>
-  </span>relativo<span style='letter-spacing:.4pt'> </span>alla<span
-  style='letter-spacing:.35pt'> </span>destinazione<span style='letter-spacing:
-  .35pt'> </span>dell’utente</span><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-<span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT";mso-ansi-language:IT;mso-fareast-language:EN-US;mso-bidi-language:
-AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-break'>
-</span>
-
-<div class=WordSection13>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.4pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>register</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Registrazione<span style='letter-spacing:.25pt'> </span>alla<span
-  style='letter-spacing:.25pt'> </span>web<span style='letter-spacing:.25pt'> </span>application</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:3.25pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/register/{name}/{surname}/{email}/{password}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.5pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.4pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
-  6.8pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{name}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome<span style='letter-spacing:.2pt'> </span>utente</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.3pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{surname}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Cognome<span
-  style='letter-spacing:.4pt'> </span>utente<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.35pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{email}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Email<span style='letter-spacing:-.1pt'> </span>utente</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
-  6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{password}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.55pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Password<span
-  style='letter-spacing:.3pt'> </span>utente<o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:.5pt'><span lang=IT style='font-size:
-12.0pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.8pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>login</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Login<span style='letter-spacing:.35pt'> </span>per<span
-  style='letter-spacing:.35pt'> </span>accedere<span style='letter-spacing:
-  .4pt'> </span>alla<span style='letter-spacing:.35pt'> </span>web<span
-  style='letter-spacing:.4pt'> </span>application</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:2.6pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/login/{email}/{password}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:3.8pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.25pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.4pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{email}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.15pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Email<span style='letter-spacing:-.1pt'> </span>utente</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.5pt;margin-right:
-  6.6pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{password}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.4pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Password<span
-  style='letter-spacing:.3pt'> </span>utente<o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:.1pt'><span lang=IT style='font-size:
-12.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.5pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-family:"Arial",sans-serif;mso-hansi-font-family:
-  "Arial MT";mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>activityList</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-top:.35pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>Ottenere<span style='letter-spacing:.15pt'> </span>la<span
-  style='letter-spacing:.2pt'> </span>lista<span style='letter-spacing:.2pt'> </span>delle<span
-  style='letter-spacing:.2pt'> </span>attività<span style='letter-spacing:.15pt'>
-  </span>in<span style='letter-spacing:.2pt'> </span>base<span
-  style='letter-spacing:.2pt'> </span>ad<span style='letter-spacing:.2pt'> </span>una<span
-  style='letter-spacing:.2pt'> </span>determinata<span style='letter-spacing:
-  .15pt'> </span>città</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:3.3pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext;mso-font-width:105%'>http://localhost:8080/travelmanager/api/city-activities/{city}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.55pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.5pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.9pt;margin-right:
-  7.2pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{city}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.85pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome<span style='letter-spacing:.2pt'> </span>della<span
-  style='letter-spacing:.2pt'> </span>città<span style='letter-spacing:.2pt'> </span>da<span
-  style='letter-spacing:.2pt'> </span>visitare</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:.1pt'><span lang=IT style='font-size:
-12.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.9pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>activityListByProfile</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Ottenere<span style='letter-spacing:.25pt'> </span>la<span
-  style='letter-spacing:.3pt'> </span>lista<span style='letter-spacing:.3pt'> </span>delle<span
-  style='letter-spacing:.25pt'> </span>attività<span style='letter-spacing:
-  .3pt'> </span>in<span style='letter-spacing:.3pt'> </span>base<span
-  style='letter-spacing:.25pt'> </span>ad<span style='letter-spacing:.3pt'> </span>una<span
-  style='letter-spacing:.3pt'> </span>determinata<span style='letter-spacing:
-  .25pt'> </span>città<span style='letter-spacing:.3pt'> </span>e<span
-  style='letter-spacing:.3pt'> </span>ad<span style='letter-spacing:.25pt'> </span>un<span
-  style='letter-spacing:.3pt'> </span>profilo<span style='letter-spacing:.3pt'>
-  </span>scelto<span style='letter-spacing:.3pt'> </span>dall’utente</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:2.7pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext;mso-font-width:105%'>http://localhost:8080/travelmanager/api/city-activity-by-profile/{city}/profile/{profile}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.95pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:3.9pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
-  7.2pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{city}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome<span style='letter-spacing:.2pt'> </span>della<span
-  style='letter-spacing:.2pt'> </span>città<span style='letter-spacing:.2pt'> </span>da<span
-  style='letter-spacing:.2pt'> </span>visitare</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.6pt;margin-right:
-  6.55pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{profile}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.55pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Profilo<span
-  style='letter-spacing:-.2pt'> </span>richiesto<span style='letter-spacing:
-  -.15pt'> </span>(tasty,<span style='letter-spacing:-.2pt'> </span>adventure,<span
-  style='letter-spacing:-.15pt'> </span>nerd)<o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-</div>
-
-<span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-"Arial MT",sans-serif;mso-fareast-font-family:"Arial MT";mso-bidi-font-family:
-"Arial MT";mso-ansi-language:IT;mso-fareast-language:EN-US;mso-bidi-language:
-AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-break'>
-</span>
-
-<div class=WordSection14>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.4pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>addLike</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Aggiungere<span style='letter-spacing:.3pt'> </span>un<span
-  style='letter-spacing:.35pt'> </span>like<span style='letter-spacing:.3pt'> </span>ad<span
-  style='letter-spacing:.35pt'> </span>un'attività</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:3.25pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/like/activities/{activityId}/user-key/{userKey}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.5pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.4pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.85pt;margin-right:
-  6.5pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{activityId}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>id<span style='letter-spacing:.15pt'> </span>dell’attività<span
-  style='letter-spacing:.2pt'> </span>a<span style='letter-spacing:.2pt'> </span>cui<span
-  style='letter-spacing:.2pt'> </span>si<span style='letter-spacing:.15pt'> </span>desidera<span
-  style='letter-spacing:.2pt'> </span>lasciare<span style='letter-spacing:.2pt'>
-  </span>un<span style='letter-spacing:.2pt'> </span>like</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.1pt;margin-right:
-  6.95pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{userKey}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Chiave<span
-  style='letter-spacing:.55pt'> </span>identificativa<span style='letter-spacing:
-  .55pt'> </span>dell’utente<o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:12.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:4.3pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>LikeByUse</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Restituire<span style='letter-spacing:.2pt'> </span>l’elenco<span
-  style='letter-spacing:.2pt'> </span>delle<span style='letter-spacing:.25pt'> </span>attività<span
-  style='letter-spacing:.2pt'> </span>a<span style='letter-spacing:.25pt'> </span>cui<span
-  style='letter-spacing:.2pt'> </span>l’utente<span style='letter-spacing:.25pt'>
-  </span>ha<span style='letter-spacing:.2pt'> </span>assegnato<span
-  style='letter-spacing:.25pt'> </span>un<span style='letter-spacing:.2pt'> </span>like</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:3.1pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>http://localhost:8080/travelmanager/api/user-likes/{userKey}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.75pt;margin-right:
-  6.95pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{userKey}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.65pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Chiave<span style='letter-spacing:.55pt'> </span>identificativa<span
-  style='letter-spacing:.55pt'> </span>dell’utente</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:.1pt'><span lang=IT style='font-size:
-12.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.75pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:12.3pt;mso-line-height-rule:
-  exactly'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>addComment</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
-  mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Aggiungere<span style='letter-spacing:.6pt'> </span>un<span
-  style='letter-spacing:.6pt'> </span>commento<span style='letter-spacing:.6pt'>
-  </span>ad<span style='letter-spacing:.6pt'> </span>un'attività</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:31.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:31.65pt'>
-  <p class=TableParagraph style='margin-top:3.05pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt;line-height:95%'><span
-  lang=EN-US style='color:black;mso-color-alt:windowtext;mso-ansi-language:
-  EN-US'>http://localhost:8080/travelmanager/api/add-comment/activities/{activityId}/user-key/{userKey}/<span
-  style='letter-spacing:.05pt'> </span><span style='mso-font-width:105%'>title/{title}/comment/{comment}</span></span><span
-  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:4.35pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.7pt;margin-right:
-  6.5pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{activityId}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.65pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>ID<span style='letter-spacing:.25pt'> </span>dell'attività<span
-  style='letter-spacing:.3pt'> </span>a<span style='letter-spacing:.3pt'> </span>cui<span
-  style='letter-spacing:.25pt'> </span>si<span style='letter-spacing:.3pt'> </span>desidera<span
-  style='letter-spacing:.3pt'> </span>lasciare<span style='letter-spacing:.3pt'>
-  </span>un<span style='letter-spacing:.25pt'> </span>commento</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.95pt;margin-right:
-  6.95pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{userKey}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.9pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Chiave<span
-  style='letter-spacing:.55pt'> </span>identificativa<span style='letter-spacing:
-  .55pt'> </span>dell’utente<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:4.2pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.0pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{title}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.15pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Titolo<span style='letter-spacing:.2pt'> </span>del<span
-  style='letter-spacing:.25pt'> </span>commento<span style='letter-spacing:
-  .25pt'> </span>che<span style='letter-spacing:.25pt'> </span>si<span
-  style='letter-spacing:.25pt'> </span>desidera<span style='letter-spacing:
-  .25pt'> </span>lasciare</span><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.45pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:6.95pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>{comment}<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.4pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Corpo<span
-  style='letter-spacing:.25pt'> </span>del<span style='letter-spacing:.3pt'> </span>commento<span
-  style='letter-spacing:.3pt'> </span>che<span style='letter-spacing:.3pt'> </span>si<span
-  style='letter-spacing:.3pt'> </span>desidera<span style='letter-spacing:.3pt'>
-  </span>lasciare<o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoBodyText><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoBodyText style='margin-top:.1pt'><span lang=IT style='font-size:
-12.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
- style='margin-left:45.9pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #FFFEBF .25pt;mso-yfti-tbllook:480;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.25pt solid #FFFEBF;
- mso-border-insidev:.25pt solid #FFFEBF'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.65pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border:solid #FFFEBF 1.0pt;
-  border-bottom:solid #7F7F7F 1.0pt;mso-border-alt:solid #FFFEBF .25pt;
-  mso-border-bottom-alt:solid #7F7F7F .5pt;background:peachpuff;padding:0cm 0cm 0cm 0cm;
-  height:32.65pt'>
-  <p class=TableParagraph style='margin-top:3.45pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-family:"Arial",sans-serif;mso-hansi-font-family:
-  "Arial MT";mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>allComment</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  <p class=TableParagraph style='margin-top:.35pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext'>Restituisce<span style='letter-spacing:.5pt'>
-  </span>tutti<span style='letter-spacing:.5pt'> </span>i<span
-  style='letter-spacing:.55pt'> </span>commenti<span style='letter-spacing:
-  .5pt'> </span>associati<span style='letter-spacing:.55pt'> </span>ad<span
-  style='letter-spacing:.5pt'> </span>una<span style='letter-spacing:.55pt'> </span>determinata<span
-  style='letter-spacing:.5pt'> </span>attività</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:22.25pt'>
-  <td width=642 colspan=2 valign=top style='width:481.6pt;border-top:none;
-  border-left:solid #FFFEBF 1.0pt;border-bottom:solid #7F7F7F 1.0pt;border-right:
-  solid #FFFEBF 1.0pt;mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:
-  #7F7F7F .5pt;mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#7F7F7F .5pt;
-  mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;background:
-  #E5EFB0;padding:0cm 0cm 0cm 0cm;height:22.25pt'>
-  <p class=TableParagraph style='margin-top:3.3pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
-  black;mso-color-alt:windowtext;mso-font-width:105%'>http://localhost:8080/travelmanager/api/comments-by-activity/activities/{activityId}</span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:22.35pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-top-alt:#7F7F7F .5pt;
-  mso-border-left-alt:#FFFEBF .25pt;mso-border-bottom-alt:#BFBFBF .25pt;
-  mso-border-right-alt:#BFBFBF .25pt;mso-border-style-alt:solid;padding:0cm 0cm 0cm 0cm;
-  height:22.35pt'>
-  <p class=TableParagraph align=center style='margin-top:3.55pt;margin-right:
-  7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO<o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-top-alt:#7F7F7F .5pt;mso-border-left-alt:#BFBFBF .25pt;mso-border-bottom-alt:
-  #BFBFBF .25pt;mso-border-right-alt:#FFFEBF .25pt;mso-border-style-alt:solid;
-  padding:0cm 0cm 0cm 0cm;height:22.35pt'>
-  <p class=TableParagraph style='margin-top:4.45pt'><b style='mso-bidi-font-weight:
-  normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
-  font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
-  <td width=118 valign=top style='width:88.2pt;border-top:none;border-left:
-  solid #FFFEBF 1.0pt;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-alt:solid #BFBFBF .25pt;
-  mso-border-left-alt:solid #FFFEBF .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt'>
-  <p class=TableParagraph align=center style='margin-top:3.9pt;margin-right:
-  6.5pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
-  center'><b style='mso-bidi-font-weight:normal'><span lang=IT
-  style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{activityId}</span></b><b
-  style='mso-bidi-font-weight:normal'><span lang=IT style='font-family:"Arial",sans-serif;
-  mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT"'><o:p></o:p></span></b></p>
-  </td>
-  <td width=525 valign=top style='width:393.4pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #FFFEBF 1.0pt;
-  mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
-  mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
-  background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:3.85pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>ID<span style='letter-spacing:.25pt'> </span>dell'attività<span
-  style='letter-spacing:.3pt'> </span>a<span style='letter-spacing:.3pt'> </span>cui<span
-  style='letter-spacing:.25pt'> </span>si<span style='letter-spacing:.3pt'> </span>desidera<span
-  style='letter-spacing:.3pt'> </span>lasciare<span style='letter-spacing:.3pt'>
-  </span>un<span style='letter-spacing:.25pt'> </span>commento</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'><o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
+<h3 style="padding-top: 4pt;padding-left: 46pt;text-indent: 0pt;line-height: 12pt;text-align: left;">INSTALLAZIONE</h3>
+    <p style="padding-left: 46pt;text-indent: 0pt;text-align: left;">In questa sezione illustriamo le tecnologie e i tools usati ed una breve descrizione di come installare il sistema.</p>
+    <p style="padding-top: 11pt;padding-left: 46pt;text-indent: 0pt;text-align: left;">TECHNOLOGIES AND TOOLS</p>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:23pt">
+            <td style="width:241pt;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F" bgcolor="#BEC0BF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">Tool or Technology</p>
+            </td>
+            <td style="width:241pt;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F" bgcolor="#BEC0BF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">Version</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">JDK</p>
+            </td>
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">1.8</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">Eclipse Photon</p>
+            </td>
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">4.8.0</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">Tomcat</p>
+            </td>
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">8.5</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">Maven</p>
+            </td>
+            <td style="width:241pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">3.6.0</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <p style="padding-top: 9pt;padding-left: 46pt;text-indent: 0pt;text-align: left;">API REST</p>
+    <p style="padding-top: 11pt;padding-left: 46pt;text-indent: 0pt;text-align: left;">Presentiamo la lista delle API REST messe a disposizione dal prosumer:</p>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">infoPoint2PointByMeans</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Ottenere i tempi di percorrenza tra due punti</p>
+            </td>
+        </tr>
+        <tr style="height:32pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">http://localhost:8080/travelmanager/api/maps-info-poiny2point/start/{startLon}/{startLat}/end/</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">{endLon}/{endLat}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{startLon}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Longitudine del punto relativo alla posizione dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{startLat}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Latitudine del punto relativo alla posizione dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{endLon}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Longitudine del punto relativo alla destinazione dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#FFFEBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{endLat}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#FFFEBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Latitudine del punto relativo alla destinazione dell’utente</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">routePoint2Point</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Ottenere il percorso verso l&#39;attività desiderata attraverso un determinato mezzo di trasposto</p>
+            </td>
+        </tr>
+        <tr style="height:32pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">http://localhost:8080/travelmanager/api/maps-coordinate/means/{means}/start/{startLon}/</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">{startLat}/end/{endLon}/{endLat}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{means}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Mezzo scelto per il trasporto</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{startLon}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Longitudine del punto relativo alla posizione dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{startLat}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Latitudine del punto relativo alla posizione dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{endLon}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Longitudine del punto relativo alla destinazione dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#FFFEBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{endLat}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#FFFEBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Latitudine del punto relativo alla destinazione dell’utente</p>
+            </td>
+        </tr>
+    </table>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">register</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Registrazione alla web application</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/register/{name}/{surname}/{email}/{password}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{name}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Nome utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{surname}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Cognome utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{email}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Email utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{password}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Password utente</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">login</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Login per accedere alla web application</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 2pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/login/{email}/{password}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{email}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Email utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{password}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Password utente</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">activityList</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;text-align: left;">Ottenere la lista delle attività in base ad una determinata città</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/city-activities/{city}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{city}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Nome della città da visitare</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">activityListByProfile</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Ottenere la lista delle attività in base ad una determinata città e ad un profilo scelto dall’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 2pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/city-activity-by-profile/{city}/profile/{profile}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{city}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Nome della città da visitare</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{profile}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Profilo richiesto (tasty, adventure, nerd)</p>
+            </td>
+        </tr>
+    </table>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">addLike</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Aggiungere un like ad un&#39;attività</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/like/activities/{activityId}/user-key/{userKey}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 6pt;text-indent: 0pt;text-align: center;">{activityId}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">id dell’attività a cui si desidera lasciare un like</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{userKey}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Chiave identificativa dell’utente</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 4pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">LikeByUse</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Restituire l’elenco delle attività a cui l’utente ha assegnato un like</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/user-likes/{userKey}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{userKey}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Chiave identificativa dell’utente</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">addComment</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Aggiungere un commento ad un&#39;attività</p>
+            </td>
+        </tr>
+        <tr style="height:32pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/add-comment/activities/{activityId}/user-key/{userKey}/ title/{title}/comment/{comment}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 6pt;text-indent: 0pt;text-align: center;">{activityId}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">ID dell&#39;attività a cui si desidera lasciare un commento</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{userKey}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Chiave identificativa dell’utente</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 4pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{title}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Titolo del commento che si desidera lasciare</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">{comment}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s3" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">Corpo del commento che si desidera lasciare</p>
+            </td>
+        </tr>
+    </table>
+    <p style="text-indent: 0pt;text-align: left;">
+        <br/>
+    </p>
+    <table style="border-collapse:collapse;margin-left:45.8179pt" cellspacing="0">
+        <tr style="height:33pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#FFFEBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#FFDAB9">
+                <p class="s4" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">allComment</p>
+                <p class="s5" style="padding-left: 4pt;text-indent: 0pt;text-align: left;">Restituisce tutti i commenti associati ad una determinata attività</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:482pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#7F7F7F;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" colspan="2" bgcolor="#E5EFB0">
+                <p class="s5" style="padding-top: 3pt;padding-left: 4pt;text-indent: 0pt;text-align: left;">http://localhost:8080/travelmanager/api/comments-by-activity/activities/{activityId}</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">PARAMETRO</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#7F7F7F;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF">
+                <p class="s2" style="padding-top: 4pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">DESCRIZIONE</p>
+            </td>
+        </tr>
+        <tr style="height:23pt">
+            <td style="width:88pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#FFFEBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#BFBFBF" bgcolor="#EFEFEF">
+                <p class="s4" style="padding-top: 3pt;padding-left: 8pt;padding-right: 6pt;text-indent: 0pt;text-align: center;">{activityId}</p>
+            </td>
+            <td style="width:394pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BFBFBF;border-left-style:solid;border-left-width:1pt;border-left-color:#BFBFBF;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BFBFBF;border-right-style:solid;border-right-width:1pt;border-right-color:#FFFEBF" bgcolor="#EFEFEF">
+                <p class="s3" style="padding-top: 3pt;padding-left: 3pt;text-indent: 0pt;text-align: left;">ID dell&#39;attività a cui si desidera lasciare un commento</p>
+            </td>
+        </tr>
+    </table>
 
 </div>
 
