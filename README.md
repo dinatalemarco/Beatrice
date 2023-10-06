@@ -14143,12 +14143,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-border-top-alt:#BFBFBF;mso-border-left-alt:#BFBFBF;mso-border-bottom-alt:
   #FFFEBF;mso-border-right-alt:#FFFEBF;mso-border-style-alt:solid;mso-border-width-alt:
   .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Latitudine<span
-  style='letter-spacing:.35pt'> </span>del<span style='letter-spacing:.35pt'> </span>punto<span
-  style='letter-spacing:.35pt'> </span>relativo<span style='letter-spacing:
-  .4pt'> </span>alla<span style='letter-spacing:.35pt'> </span>destinazione<span
-  style='letter-spacing:.35pt'> </span>dell’utente<o:p></o:p></span></p>
+  <p class=TableParagraph style='margin-top:4.3pt'>LAA</p>
   </td>
  </tr>
 </table>
