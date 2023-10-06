@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="README/filelist.xml">
-<link rel=Edit-Time-Data href="README/editdata.mso">
+<link rel=File-List href="README.fld/filelist.xml">
+<link rel=Edit-Time-Data href="README.fld/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -19,8 +19,8 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]-->
-<link rel=themeData href="README/themedata.thmx">
-<link rel=colorSchemeMapping href="README/colorschememapping.xml">
+<link rel=themeData href="README.fld/themedata.thmx">
+<link rel=colorSchemeMapping href="README.fld/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:TrackMoves>false</w:TrackMoves>
@@ -12348,7 +12348,7 @@ style='letter-spacing:.45pt'> </span>del<span style='letter-spacing:.5pt'> </spa
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image003.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image003.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -12357,7 +12357,7 @@ style='letter-spacing:.45pt'> </span>del<span style='letter-spacing:.5pt'> </spa
   </tr>
   <tr>
    <td></td>
-   <td><img width=500 height=377 src="README/image003.jpg" v:shapes="image2.jpeg"></td>
+   <td><img width=500 height=377 src="README.fld/image003.jpg" v:shapes="image2.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -14658,7 +14658,7 @@ vwAAABUBAAALAAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQCVdU/y
 zgAAAOgAAAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA
 AgMAAAAA
 ">
-   <v:imagedata src="README/image004.png" o:title=""/>
+   <v:imagedata src="README.fld/image004.png" o:title=""/>
   </v:shape><v:shape id="Freeform_x0020_15" o:spid="_x0000_s1039" style='position:absolute;
    left:5947;top:1114;width:90;height:118;visibility:visible;mso-wrap-style:square;
    v-text-anchor:top' coordsize="90,118" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH
@@ -14840,7 +14840,7 @@ un’attività.</span></p>
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image005.png" o:title=""/>
+  <v:imagedata src="README.fld/image005.png" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -14849,7 +14849,7 @@ un’attività.</span></p>
   </tr>
   <tr>
    <td></td>
-   <td><img width=538 height=307 src="README/image018.jpg" v:shapes="image4.png"></td>
+   <td><img width=538 height=307 src="README.fld/image018.jpg" v:shapes="image4.png"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -14952,7 +14952,7 @@ style='letter-spacing:.05pt'> </span>il client.</span></p>
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image007.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image007.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -14961,7 +14961,7 @@ style='letter-spacing:.05pt'> </span>il client.</span></p>
   </tr>
   <tr>
    <td></td>
-   <td><img width=552 height=228 src="README/image007.jpg" v:shapes="image5.jpeg"></td>
+   <td><img width=552 height=228 src="README.fld/image007.jpg" v:shapes="image5.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -15081,7 +15081,7 @@ al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image008.png" o:title=""/>
+  <v:imagedata src="README.fld/image008.png" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -15090,7 +15090,7 @@ al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
   </tr>
   <tr>
    <td></td>
-   <td><img width=543 height=327 src="README/image019.jpg" v:shapes="image6.png"></td>
+   <td><img width=543 height=327 src="README.fld/image019.jpg" v:shapes="image6.png"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -15184,7 +15184,7 @@ style='letter-spacing:.2pt'> </span>tramite<span style='letter-spacing:.2pt'> </
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image010.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image010.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -15193,7 +15193,7 @@ style='letter-spacing:.2pt'> </span>tramite<span style='letter-spacing:.2pt'> </
   </tr>
   <tr>
    <td></td>
-   <td><img width=552 height=248 src="README/image010.jpg" v:shapes="image7.jpeg"></td>
+   <td><img width=552 height=248 src="README.fld/image010.jpg" v:shapes="image7.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -15335,7 +15335,7 @@ al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image011.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image011.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -15344,7 +15344,7 @@ al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
   </tr>
   <tr>
    <td></td>
-   <td><img width=544 height=371 src="README/image011.jpg" v:shapes="image8.jpeg"></td>
+   <td><img width=544 height=371 src="README.fld/image011.jpg" v:shapes="image8.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -15484,7 +15484,7 @@ al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image012.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image012.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -15493,7 +15493,7 @@ al<span style='letter-spacing:-.05pt'> </span>client<span style='letter-spacing:
   </tr>
   <tr>
    <td></td>
-   <td><img width=541 height=343 src="README/image012.jpg" v:shapes="image9.jpeg"></td>
+   <td><img width=541 height=343 src="README.fld/image012.jpg" v:shapes="image9.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -15616,7 +15616,7 @@ style='letter-spacing:.35pt'> </span>all’utente<span style='letter-spacing:
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image013.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image013.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -15625,7 +15625,7 @@ style='letter-spacing:.35pt'> </span>all’utente<span style='letter-spacing:
   </tr>
   <tr>
    <td></td>
-   <td><img width=561 height=349 src="README/image013.jpg" v:shapes="image10.jpeg"></td>
+   <td><img width=561 height=349 src="README.fld/image013.jpg" v:shapes="image10.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -17733,7 +17733,7 @@ senza aver<span style='letter-spacing:-2.95pt'> </span>effettuato il login):</sp
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image020.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image020.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -17742,7 +17742,7 @@ senza aver<span style='letter-spacing:-2.95pt'> </span>effettuato il login):</sp
   </tr>
   <tr>
    <td></td>
-   <td><img width=478 height=259 src="README/image020.jpg" v:shapes="image11.jpeg"></td>
+   <td><img width=478 height=259 src="README.fld/image020.jpg" v:shapes="image11.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -17789,7 +17789,7 @@ a<span style='letter-spacing:.05pt'> </span>seconda del<span style='letter-spaci
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image021.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image021.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -17798,7 +17798,7 @@ a<span style='letter-spacing:.05pt'> </span>seconda del<span style='letter-spaci
   </tr>
   <tr>
    <td></td>
-   <td><img width=477 height=258 src="README/image021.jpg" v:shapes="image12.jpeg"></td>
+   <td><img width=477 height=258 src="README.fld/image021.jpg" v:shapes="image12.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -17840,7 +17840,7 @@ style='letter-spacing:-2.9pt'> </span>da effettuare con quel mezzo :</span></p>
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image022.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image022.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -17849,7 +17849,7 @@ style='letter-spacing:-2.9pt'> </span>da effettuare con quel mezzo :</span></p>
   </tr>
   <tr>
    <td></td>
-   <td><img width=477 height=258 src="README/image022.jpg" v:shapes="image13.jpeg"></td>
+   <td><img width=477 height=258 src="README.fld/image022.jpg" v:shapes="image13.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -17887,7 +17887,7 @@ style='letter-spacing:.05pt'> </span>data<span style='letter-spacing:.05pt'> </s
   mso-position-vertical:absolute;mso-position-vertical-relative:text;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
   mso-height-relative:page'>
-  <v:imagedata src="README/image023.jpg" o:title=""/>
+  <v:imagedata src="README.fld/image023.jpg" o:title=""/>
   <w:wrap type="topAndBottom" anchorx="page"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
  <table cellpadding=0 cellspacing=0 align=left>
@@ -17896,7 +17896,7 @@ style='letter-spacing:.05pt'> </span>data<span style='letter-spacing:.05pt'> </s
   </tr>
   <tr>
    <td></td>
-   <td><img width=477 height=258 src="README/image023.jpg" v:shapes="image14.jpeg"></td>
+   <td><img width=477 height=258 src="README.fld/image023.jpg" v:shapes="image14.jpeg"></td>
   </tr>
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
