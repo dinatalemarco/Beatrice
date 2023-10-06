@@ -14092,54 +14092,8 @@ mso-hansi-font-family:"Arial MT";mso-bidi-font-family:"Arial MT";mso-ansi-langua
 EN-US'><o:p>&nbsp;</o:p></span></i></p>
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>La<span
-style='letter-spacing:.25pt'> </span>lista<span style='letter-spacing:.25pt'> </span>prende<span
-style='letter-spacing:.25pt'> </span>un<span style='letter-spacing:.25pt'> </span>oggetto<span
-style='letter-spacing:.25pt'> </span>di<span style='letter-spacing:.25pt'> </span>tipo<span
-style='letter-spacing:.25pt'> </span>ServerObject<span style='letter-spacing:
-.25pt'> </span>e<span style='letter-spacing:.25pt'> </span>si<span
-style='letter-spacing:.25pt'> </span>aspetta<span style='letter-spacing:.3pt'> </span>tre<span
-style='letter-spacing:.25pt'> </span>parametri:<span style='letter-spacing:
-.25pt'> </span>uno<span style='letter-spacing:.25pt'> </span>di<span
-style='letter-spacing:.25pt'> </span>tipo<span style='letter-spacing:.25pt'> </span>Stringa<span
-style='letter-spacing:.25pt'> </span>e<span style='letter-spacing:.25pt'> </span>i<span
-style='letter-spacing:-2.9pt'> </span>restanti di tipo Intero.</span></p>
-
-<p class=MsoBodyText style='margin-top:0cm;margin-right:58.0pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Il<span
-style='letter-spacing:.2pt'> </span>parametro<span style='letter-spacing:.2pt'>
-</span>di<span style='letter-spacing:.2pt'> </span>tipo<span style='letter-spacing:
-.2pt'> </span>stringa<span style='letter-spacing:.2pt'> </span>è<span
-style='letter-spacing:.2pt'> </span>l'url<span style='letter-spacing:.2pt'> </span>del<span
-style='letter-spacing:.25pt'> </span>servizio<span style='letter-spacing:.2pt'>
-</span>in<span style='letter-spacing:.2pt'> </span>esecuzione<span
-style='letter-spacing:.2pt'> </span>ed<span style='letter-spacing:.2pt'> </span>è<span
-style='letter-spacing:.2pt'> </span>quello<span style='letter-spacing:.2pt'> </span>che<span
-style='letter-spacing:.25pt'> </span>il<span style='letter-spacing:.2pt'> </span>loadbalancer<span
-style='letter-spacing:.05pt'> </span>restituirà<span style='letter-spacing:
-.3pt'> </span>quando<span style='letter-spacing:.3pt'> </span>viene<span
-style='letter-spacing:.35pt'> </span>invocato.<span style='letter-spacing:.3pt'>
-</span>Il<span style='letter-spacing:.35pt'> </span>secondo<span
-style='letter-spacing:.3pt'> </span>ed<span style='letter-spacing:.35pt'> </span>il<span
-style='letter-spacing:.3pt'> </span>terzo<span style='letter-spacing:.35pt'> </span>parametro<span
-style='letter-spacing:.3pt'> </span>identificano<span style='letter-spacing:
-.35pt'> </span>il<span style='letter-spacing:.3pt'> </span>numero<span
-style='letter-spacing:.3pt'> </span>di<span style='letter-spacing:.05pt'> </span>richieste<span
-style='letter-spacing:.2pt'> </span>massime<span style='letter-spacing:.25pt'> </span>che<span
-style='letter-spacing:.25pt'> </span>possono<span style='letter-spacing:.25pt'>
-</span>essere<span style='letter-spacing:.25pt'> </span>eseguito<span
-style='letter-spacing:.25pt'> </span>in<span style='letter-spacing:.25pt'> </span>un<span
-style='letter-spacing:.2pt'> </span>intervallo<span style='letter-spacing:.25pt'>
-</span>di<span style='letter-spacing:.25pt'> </span>tempo,<span
-style='letter-spacing:.25pt'> </span>dove:<span style='letter-spacing:.25pt'> </span>il<span
-style='letter-spacing:.25pt'> </span>secondo<span style='letter-spacing:-2.9pt'>
-</span>parametro<span style='letter-spacing:.1pt'> </span>è<span
-style='letter-spacing:.1pt'> </span>il<span style='letter-spacing:.1pt'> </span>numero<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.15pt'> </span>richieste<span
-style='letter-spacing:.1pt'> </span>ed<span style='letter-spacing:.1pt'> </span>il<span
-style='letter-spacing:.1pt'> </span>terzo<span style='letter-spacing:.15pt'> </span>parametro<span
-style='letter-spacing:.1pt'> </span>è<span style='letter-spacing:.1pt'> </span>l’intervallo<span
-style='letter-spacing:.1pt'> </span>di<span style='letter-spacing:.1pt'> </span>tempo.</span></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>La lista prende un oggetto di tipo ServerObject e si aspetta tre parametri: uno di tipo Stringa e i restanti di tipo Intero.
+Il parametro di tipo stringa è l'url del servizio in esecuzione ed è quello che il loadbalancer restituirà quando viene invocato. Il secondo ed il terzo parametro identificano il numero di richieste massime che possono essere eseguito in un intervallo di tempo, dove: il secondo parametro è il numero di richieste ed il terzo parametro è l’intervallo di tempo.</p>
 
 </div>
 
@@ -14152,45 +14106,12 @@ style='page-break-before:always;mso-break-type:section-break'>
 <div class=WordSection16>
 
 <p class=MsoBodyText style='margin-top:4.2pt;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Nel<span
-style='letter-spacing:.2pt'> </span>primo<span style='letter-spacing:.2pt'> </span>caso<span
-style='letter-spacing:.2pt'> </span>il<span style='letter-spacing:.2pt'> </span>server<span
-style='letter-spacing:.2pt'> </span>identificato<span style='letter-spacing:
-.25pt'> </span>con<span style='letter-spacing:.2pt'> </span>la<span
-style='letter-spacing:.2pt'> </span>porta<span style='letter-spacing:.2pt'> </span>8080<span
-style='letter-spacing:.2pt'> </span>può<span style='letter-spacing:.25pt'> </span>eseguire<span
-style='letter-spacing:.2pt'> </span>5<span style='letter-spacing:.2pt'> </span>richieste<span
-style='letter-spacing:.2pt'> </span>in<span style='letter-spacing:.2pt'> </span>5<span
-style='letter-spacing:.2pt'> </span>secondi,<span style='letter-spacing:.25pt'>
-</span>il<span style='letter-spacing:-2.95pt'> </span>server<span
-style='letter-spacing:.1pt'> </span>sulla<span style='letter-spacing:.1pt'> </span>porta<span
-style='letter-spacing:.1pt'> </span>8081<span style='letter-spacing:.15pt'> </span>1<span
-style='letter-spacing:.1pt'> </span>richiesta<span style='letter-spacing:.1pt'>
-</span>in<span style='letter-spacing:.15pt'> </span>un<span style='letter-spacing:
-.1pt'> </span>intervallo<span style='letter-spacing:.1pt'> </span>di<span
-style='letter-spacing:.1pt'> </span>5<span style='letter-spacing:.15pt'> </span>secondi<span
-style='letter-spacing:.1pt'> </span>ed<span style='letter-spacing:.1pt'> </span>il<span
-style='letter-spacing:.15pt'> </span>terzo<span style='letter-spacing:.1pt'> </span>20<span
-style='letter-spacing:.1pt'> </span>richieste<span style='letter-spacing:.15pt'>
-</span>in<span style='letter-spacing:.1pt'> </span>un<span style='letter-spacing:
-.05pt'> </span>intervallo di 5 secondi.</span></p>
-
-<p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
-0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'><span lang=IT>Finite<span
-style='letter-spacing:.15pt'> </span>queste<span style='letter-spacing:.2pt'> </span>configurazione<span
-style='letter-spacing:.2pt'> </span>è<span style='letter-spacing:.2pt'> </span>possibile<span
-style='letter-spacing:.15pt'> </span>mandare<span style='letter-spacing:.2pt'> </span>in<span
-style='letter-spacing:.2pt'> </span>esecuzione<span style='letter-spacing:.2pt'>
-</span>l’intero<span style='letter-spacing:.2pt'> </span>progetto<span
-style='letter-spacing:.15pt'> </span>e<span style='letter-spacing:.2pt'> </span>accedere<span
-style='letter-spacing:-2.9pt'> </span>mediante browser all'indirizzo:</span></p>
-
-<p class=MsoBodyText style='margin-top:.3pt'><span lang=IT style='font-size:
-10.5pt;mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-left:46.0pt'><i style='mso-bidi-font-style:
-normal'><span lang=IT style='font-family:"Arial",sans-serif;mso-hansi-font-family:
-"Arial MT";mso-bidi-font-family:"Arial MT"'>localhost:8080/beatrice<o:p></o:p></span></i></p>
+0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>
+Nel primo caso il server identificato con la porta 8080 può eseguire 5 richieste in 5 secondi, il server sulla porta 8081 1 richiesta in un intervallo di 5 secondi ed il terzo 20 richieste in un intervallo di 5 secondi.
+Finite queste configurazione è possibile mandare in esecuzione l’intero progetto e accedere mediante browser all'indirizzo:
+<br>
+localhost:8080/beatrice
+</p>
 
 <h1 style='margin-top:9.5pt;margin-right:0cm;margin-bottom:0cm;margin-left:
 58.0pt;margin-bottom:.0001pt;text-indent:-12.0pt;mso-list:l1 level1 lfo6;
