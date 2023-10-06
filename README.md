@@ -756,7 +756,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>infoPoint2PointByMeans</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Ottenere<span style='letter-spacing:.2pt'> </span>i tempi<span style='letter-spacing:.25pt'>
+  windowtext'>Ottenere i tempi<span style='letter-spacing:.25pt'>
   </span>di percorrenza<span
   style='letter-spacing:.2pt'> </span>tra due punti</span></p>
   </td>
@@ -783,13 +783,13 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.15pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -803,7 +803,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.55pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Longitudine del punto relativo alla posizione dell’utente</span><span lang=IT
+  windowtext'>Longitude of the point relative to the user's position</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -816,11 +816,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-bidi-font-family:"Arial MT"'>{startLat}</span></b></p>
   </td>
   <td width=525 valign=top >
-  <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Latitudine<span
-  style='letter-spacing:.35pt'> </span>del punto relativo<span style='letter-spacing:.4pt'>
-  </span>alla posizione<span
-  style='letter-spacing:.35pt'> </span>dell’utente</span></p>
+  <p class=TableParagraph style='margin-top:3.8pt'>Latitude of the point relative to the user's position</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
@@ -832,10 +828,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{endLon}</span></b></p>
   </td>
   <td width=525 valign=top >
-  <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Longitudine<span style='letter-spacing:.35pt'> </span>del punto relativo alla<span style='letter-spacing:.35pt'> </span>destinazione dell’utente</span><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
+  <p class=TableParagraph style='margin-top:4.05pt'>Longitude of the point relative to the user's destination</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes;height:22.5pt'>
@@ -857,12 +850,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-border-top-alt:#BFBFBF;mso-border-left-alt:#BFBFBF;mso-border-bottom-alt:
   #FFFEBF;mso-border-right-alt:#FFFEBF;mso-border-style-alt:solid;mso-border-width-alt:
   .25pt;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Latitudine<span
-  style='letter-spacing:.35pt'> </span>del<span style='letter-spacing:.35pt'> </span>punto<span
-  style='letter-spacing:.35pt'> </span>relativo<span style='letter-spacing:
-  .4pt'> </span>alla<span style='letter-spacing:.35pt'> </span>destinazione<span
-  style='letter-spacing:.35pt'> </span>dell’utente</span></p>
+  <p class=TableParagraph style='margin-top:4.3pt'>Latitude of the point relative to the user's destination</p>
   </td>
  </tr>
 </table>
@@ -905,13 +893,13 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:3.9pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -943,7 +931,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-border-top-alt:solid #BFBFBF .25pt;mso-border-left-alt:solid #BFBFBF .25pt;
   mso-border-alt:solid #BFBFBF .25pt;mso-border-right-alt:solid #FFFEBF .25pt;
   padding:0cm 0cm 0cm 0cm;height:22.45pt'>
-  <p class=TableParagraph style='margin-top:4.55pt'>Longitudine del punto relativo alla posizione dell’utente</p>
+  <p class=TableParagraph style='margin-top:4.55pt'>Longitude of the point relative to the user's position</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:22.5pt'>
@@ -957,8 +945,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Latitudine<span style='letter-spacing:.35pt'> </span>del punto relativo alla posizione<span
-  style='letter-spacing:.35pt'> </span>dell’utente</span><span lang=IT
+  windowtext'>Latitude of the point relative to the user's position</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -972,9 +959,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   </td>
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.05pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Longitudine<span
-  style='letter-spacing:.35pt'> </span>del punto relativo<span style='letter-spacing:.4pt'>
-  </span>alla<span style='letter-spacing:.35pt'> </span>destinazione dell’utente</span></p>
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Longitude of the point relative to the user's destination</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes;height:22.5pt'>
@@ -996,14 +981,7 @@ style='letter-spacing:-.15pt'> </span>dal<span style='letter-spacing:-.1pt'> </s
   mso-border-top-alt:#BFBFBF;mso-border-left-alt:#BFBFBF;mso-border-bottom-alt:
   #FFFEBF;mso-border-right-alt:#FFFEBF;mso-border-style-alt:solid;mso-border-width-alt:
   .25pt;background:#EFEFEF;padding:0cm 0cm 0cm 0cm;height:22.5pt'>
-  <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Latitudine<span style='letter-spacing:.35pt'> </span>del<span
-  style='letter-spacing:.35pt'> </span>punto<span style='letter-spacing:.35pt'>
-  </span>relativo alla<span
-  style='letter-spacing:.35pt'> </span>destinazione<span style='letter-spacing:
-  .35pt'> </span>dell’utente</span><span lang=IT style='font-size:10.0pt;
-  mso-bidi-font-size:11.0pt'></span></p>
+  <p class=TableParagraph style='margin-top:4.3pt'>Latitude of the point relative to the user's destination</p>
   </td>
  </tr>
 </table>
@@ -1048,13 +1026,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.4pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -1066,10 +1044,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>{name}</span></b></p>
   </td>
   <td width=525 valign=top >
-  <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
-  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome<span style='letter-spacing:.2pt'> </span>utente</span><span
-  lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
+  <p class=TableParagraph style='margin-top:3.8pt'>Nome utente</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:22.5pt'>
@@ -1134,9 +1109,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>login</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Login<span style='letter-spacing:.35pt'> </span>per<span
-  style='letter-spacing:.35pt'> </span>accedere<span style='letter-spacing:
-  .4pt'> </span>alla<span style='letter-spacing:.35pt'> </span>web application</span></p>
+  windowtext'>Login per accedere alla web application</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1152,13 +1125,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:3.8pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -1209,10 +1182,10 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <p class=TableParagraph style='margin-top:.35pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:4.15pt;margin-bottom:.0001pt'><span lang=IT style='color:
   black;mso-color-alt:windowtext'>Ottenere la<span
-  style='letter-spacing:.2pt'> </span>lista<span style='letter-spacing:.2pt'> </span>delle<span
+  style='letter-spacing:.2pt'> </span>lista delle<span
   style='letter-spacing:.2pt'> </span>attività<span style='letter-spacing:.15pt'>
-  </span>in<span style='letter-spacing:.2pt'> </span>base<span
-  style='letter-spacing:.2pt'> </span>ad<span style='letter-spacing:.2pt'> </span>una<span
+  </span>in base<span
+  style='letter-spacing:.2pt'> </span>ad una<span
   style='letter-spacing:.2pt'> </span>determinata<span style='letter-spacing:
   .15pt'> </span>città</span></p>
   </td>
@@ -1230,13 +1203,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.5pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
@@ -1250,8 +1223,8 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:3.85pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome<span style='letter-spacing:.2pt'> </span>della<span
-  style='letter-spacing:.2pt'> </span>città<span style='letter-spacing:.2pt'> </span>da<span
+  windowtext'>Nome della<span
+  style='letter-spacing:.2pt'> </span>città da<span
   style='letter-spacing:.2pt'> </span>visitare</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
@@ -1291,13 +1264,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:3.9pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -1311,8 +1284,8 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.3pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Nome<span style='letter-spacing:.2pt'> </span>della<span
-  style='letter-spacing:.2pt'> </span>città<span style='letter-spacing:.2pt'> </span>da<span
+  windowtext'>Nome della<span
+  style='letter-spacing:.2pt'> </span>città da<span
   style='letter-spacing:.2pt'> </span>visitare</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
@@ -1359,9 +1332,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>addLike</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Aggiungere un<span
-  style='letter-spacing:.35pt'> </span>like ad<span
-  style='letter-spacing:.35pt'> </span>un'attività</span></p>
+  windowtext'>Aggiungere un like ad un'attività</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1377,13 +1348,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.4pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -1398,10 +1369,10 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <p class=TableParagraph style='margin-top:3.8pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
   windowtext'>id dell’attività<span
-  style='letter-spacing:.2pt'> </span>a<span style='letter-spacing:.2pt'> </span>cui<span
+  style='letter-spacing:.2pt'> </span>a cui<span
   style='letter-spacing:.2pt'> </span>si desidera<span
   style='letter-spacing:.2pt'> </span>lasciare<span style='letter-spacing:.2pt'>
-  </span>un<span style='letter-spacing:.2pt'> </span>like</span><span lang=IT
+  </span>un like</span><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1437,11 +1408,11 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   mso-bidi-font-family:"Arial MT";color:black;mso-color-alt:windowtext'>LikeByUse</span></b></p>
   <p class=TableParagraph style='margin-left:4.15pt;line-height:12.3pt;
   mso-line-height-rule:exactly'><span lang=IT style='color:black;mso-color-alt:
-  windowtext'>Restituire<span style='letter-spacing:.2pt'> </span>l’elenco<span
+  windowtext'>Restituire l’elenco<span
   style='letter-spacing:.2pt'> </span>delle attività<span
   style='letter-spacing:.2pt'> </span>a cui<span
   style='letter-spacing:.2pt'> </span>l’utente<span style='letter-spacing:.25pt'>
-  </span>ha<span style='letter-spacing:.2pt'> </span>assegnato un<span style='letter-spacing:.2pt'> </span>like</span></p>
+  </span>ha assegnato un like</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:22.25pt'>
@@ -1457,13 +1428,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.3pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
@@ -1526,13 +1497,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.3pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:22.5pt'>
@@ -1576,7 +1547,7 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   <td width=525 valign=top >
   <p class=TableParagraph style='margin-top:4.15pt'><span lang=IT
   style='font-size:10.0pt;mso-bidi-font-size:11.0pt;color:black;mso-color-alt:
-  windowtext'>Titolo<span style='letter-spacing:.2pt'> </span>del commento che si desidera lasciare</span><span lang=IT style='font-size:10.0pt;
+  windowtext'>Titolo del commento che si desidera lasciare</span><span lang=IT style='font-size:10.0pt;
   mso-bidi-font-size:11.0pt'></span></p>
   </td>
  </tr>
@@ -1631,13 +1602,13 @@ AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-brea
   7.4pt;margin-bottom:0cm;margin-left:7.65pt;margin-bottom:.0001pt;text-align:
   center'><b style='mso-bidi-font-weight:normal'><span lang=IT
   style='font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";
-  mso-bidi-font-family:"Arial MT"'>PARAMETRO</span></b></p>
+  mso-bidi-font-family:"Arial MT"'>PARAMETER</span></b></p>
   </td>
   <td width=525 valign=top>
   <p class=TableParagraph style='margin-top:4.45pt'><b style='mso-bidi-font-weight:
   normal'><span lang=IT style='font-size:10.0pt;mso-bidi-font-size:11.0pt;
   font-family:"Arial",sans-serif;mso-hansi-font-family:"Arial MT";mso-bidi-font-family:
-  "Arial MT"'>DESCRIZIONE</span></b></p>
+  "Arial MT"'>DESCRIPTION</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:22.5pt'>
@@ -1810,7 +1781,7 @@ margin-left:46.0pt;margin-bottom:.0001pt'>servers.add(new ServerObject(&quot;htt
 
 <p class=MsoBodyText style='margin-top:0cm;margin-right:53.6pt;margin-bottom:
 0cm;margin-left:46.0pt;margin-bottom:.0001pt;line-height:95%'>La lista prende un oggetto di tipo ServerObject e si aspetta tre parametri: uno di tipo Stringa e i restanti di tipo Intero.
-Il parametro di tipo stringa è l'url del servizio in esecuzione ed è quello che il loadbalancer restituirà quando viene invocato. Il secondo ed il terzo parametro identificano il numero di richieste massime che possono essere eseguito in un intervallo di tempo, dove: il secondo parametro è il numero di richieste ed il terzo parametro è l’intervallo di tempo.</p>
+Il PARAMETER di tipo stringa è l'url del servizio in esecuzione ed è quello che il loadbalancer restituirà quando viene invocato. Il secondo ed il terzo PARAMETER identificano il numero di richieste massime che possono essere eseguito in un intervallo di tempo, dove: il secondo PARAMETER è il numero di richieste ed il terzo PARAMETER è l’intervallo di tempo.</p>
 
 </div>
 
